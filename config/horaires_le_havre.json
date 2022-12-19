@@ -1,0 +1,7 @@
+{
+	"dataset": "https://transport.data.gouv.fr/api/datasets/617c12b7f9aaa6853cf6d303",
+	"dataset_file_date": "latest",
+	"route_ids": ["T-1406"],
+	"station_freq": "Grand Hameau",
+	"service_id": 1
+}

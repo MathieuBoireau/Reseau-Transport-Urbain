@@ -1,0 +1,39 @@
+{
+	"edge_color": {
+		"highway": "g",
+		"default": "r"
+	},
+	"transports": {
+		"tram_lines": {
+			"geometry": {
+				"railway": "tram"
+			},
+			"color": "orange",
+			"zorder": 2
+		},
+		"tram_stop": {
+			"geometry": {
+				"railway": "tram_stop"
+			},
+			"color": "#e5ddc8",
+			"zorder": 6
+		},
+		"funicular": {
+			"geometry": {
+				"railway": "funicular"
+			},
+			"color": "#95def5",
+			"zorder": 4
+		},
+		"tram_vallee_bereult": {
+			"file": "extensions/tram_vallee_bereult.geojson",
+			"color": "#14a8e1",
+			"zorder": 3
+		},
+		"tram_montivilliers": {
+			"file": "extensions/tram_montivilliers.geojson",
+			"color": "#14a8e1",
+			"zorder": 5
+		}
+	}
+}

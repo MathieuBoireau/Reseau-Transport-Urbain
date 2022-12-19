@@ -1,0 +1,6 @@
+{
+	"dataset": "https://transport.data.gouv.fr/api/datasets/5af03701b595081c1880a8a4",
+	"dataset_file_date": "2022-04-20",
+	"route_ids": ["A"],
+	"station_freq": "Grenoble, La Bruyère-Parc Jean Verlhac"
+}

@@ -1,0 +1,6493 @@
+Atrium 1 04:42:05
+Atrium 1 05:24:35
+Atrium 1 05:43:12
+Atrium 1 06:12:12
+Atrium 1 06:27:35
+Atrium 1 06:36:12
+Atrium 1 06:54:12
+Atrium 1 07:05:32
+Atrium 1 07:15:34
+Atrium 1 07:25:50
+Atrium 1 07:35:50
+Atrium 1 07:45:50
+Atrium 1 07:55:50
+Atrium 1 08:05:50
+Atrium 1 08:15:50
+Atrium 1 08:25:50
+Atrium 1 08:35:50
+Atrium 1 08:45:50
+Atrium 1 08:55:50
+Atrium 1 09:05:50
+Atrium 1 09:15:50
+Atrium 1 09:25:50
+Atrium 1 09:35:50
+Atrium 1 09:45:50
+Atrium 1 09:55:50
+Atrium 1 10:05:50
+Atrium 1 10:15:50
+Atrium 1 10:25:50
+Atrium 1 10:35:50
+Atrium 1 10:45:50
+Atrium 1 10:55:50
+Atrium 1 11:05:50
+Atrium 1 11:15:50
+Atrium 1 11:25:50
+Atrium 1 11:35:50
+Atrium 1 11:45:50
+Atrium 1 11:55:50
+Atrium 1 12:05:50
+Atrium 1 12:15:50
+Atrium 1 12:25:50
+Atrium 1 12:35:36
+Atrium 1 12:45:10
+Atrium 1 12:54:57
+Atrium 1 13:04:57
+Atrium 1 13:14:57
+Atrium 1 13:24:57
+Atrium 1 13:34:57
+Atrium 1 13:44:57
+Atrium 1 13:54:57
+Atrium 1 14:04:57
+Atrium 1 14:14:57
+Atrium 1 14:24:57
+Atrium 1 14:35:00
+Atrium 1 14:45:05
+Atrium 1 14:55:48
+Atrium 1 15:05:48
+Atrium 1 15:15:48
+Atrium 1 15:25:48
+Atrium 1 15:35:48
+Atrium 1 15:45:48
+Atrium 1 15:55:48
+Atrium 1 16:05:53
+Atrium 1 16:16:27
+Atrium 1 16:26:39
+Atrium 1 16:36:39
+Atrium 1 16:46:39
+Atrium 1 16:56:39
+Atrium 1 17:06:33
+Atrium 1 17:15:59
+Atrium 1 17:25:39
+Atrium 1 17:35:39
+Atrium 1 17:45:39
+Atrium 1 17:55:39
+Atrium 1 18:05:39
+Atrium 1 18:15:39
+Atrium 1 18:25:39
+Atrium 1 18:40:39
+Atrium 1 18:49:39
+Atrium 1 18:58:39
+Atrium 1 19:13:39
+Atrium 1 19:24:39
+Atrium 1 19:38:39
+Atrium 1 19:52:39
+Atrium 1 20:13:39
+Atrium 1 20:27:39
+Atrium 1 20:44:39
+Atrium 1 21:20:39
+Atrium 1 21:48:39
+Atrium 1 22:18:15
+Atrium 1 22:47:54
+Atrium 1 23:17:54
+Atrium 1 23:47:54
+Atrium 1 24:17:54
+Atrium 2 04:59:11
+Atrium 2 05:39:31
+Atrium 2 06:06:31
+Atrium 2 06:28:31
+Atrium 2 06:43:31
+Atrium 2 06:58:31
+Atrium 2 07:12:38
+Atrium 2 07:21:38
+Atrium 2 07:31:38
+Atrium 2 07:41:38
+Atrium 2 07:51:38
+Atrium 2 08:01:38
+Atrium 2 08:11:38
+Atrium 2 08:21:38
+Atrium 2 08:31:38
+Atrium 2 08:41:38
+Atrium 2 08:51:38
+Atrium 2 09:01:38
+Atrium 2 09:11:38
+Atrium 2 09:21:38
+Atrium 2 09:31:38
+Atrium 2 09:41:38
+Atrium 2 09:51:38
+Atrium 2 10:01:38
+Atrium 2 10:11:38
+Atrium 2 10:21:38
+Atrium 2 10:31:38
+Atrium 2 10:41:38
+Atrium 2 10:50:38
+Atrium 2 11:00:38
+Atrium 2 11:10:38
+Atrium 2 11:20:38
+Atrium 2 11:30:38
+Atrium 2 11:40:38
+Atrium 2 11:50:38
+Atrium 2 12:00:38
+Atrium 2 12:10:38
+Atrium 2 12:20:38
+Atrium 2 12:30:38
+Atrium 2 12:40:38
+Atrium 2 12:50:38
+Atrium 2 13:00:38
+Atrium 2 13:10:38
+Atrium 2 13:20:38
+Atrium 2 13:31:38
+Atrium 2 13:41:38
+Atrium 2 13:51:38
+Atrium 2 14:01:38
+Atrium 2 14:11:38
+Atrium 2 14:21:38
+Atrium 2 14:31:38
+Atrium 2 14:41:38
+Atrium 2 14:51:38
+Atrium 2 15:01:38
+Atrium 2 15:11:38
+Atrium 2 15:21:38
+Atrium 2 15:31:38
+Atrium 2 15:41:38
+Atrium 2 15:51:38
+Atrium 2 16:01:38
+Atrium 2 16:11:38
+Atrium 2 16:21:38
+Atrium 2 16:31:38
+Atrium 2 16:41:38
+Atrium 2 16:51:38
+Atrium 2 17:01:38
+Atrium 2 17:11:41
+Atrium 2 17:21:41
+Atrium 2 17:31:41
+Atrium 2 17:41:41
+Atrium 2 17:51:38
+Atrium 2 18:01:38
+Atrium 2 18:10:38
+Atrium 2 18:21:38
+Atrium 2 18:31:38
+Atrium 2 18:45:38
+Atrium 2 18:58:38
+Atrium 2 19:03:33
+Atrium 2 19:15:19
+Atrium 2 19:28:19
+Atrium 2 19:42:19
+Atrium 2 19:58:19
+Atrium 2 20:09:19
+Atrium 2 20:35:19
+Atrium 2 20:44:19
+Atrium 2 21:09:19
+Atrium 2 21:39:19
+Atrium 2 22:09:19
+Atrium 2 22:39:19
+Atrium 2 23:09:19
+Atrium 2 23:39:19
+Bigne à Fosse 1 05:24:24
+Bigne à Fosse 1 06:02:09
+Bigne à Fosse 1 06:25:09
+Bigne à Fosse 1 06:46:09
+Bigne à Fosse 1 07:00:09
+Bigne à Fosse 1 07:11:50
+Bigne à Fosse 1 07:21:53
+Bigne à Fosse 1 07:31:58
+Bigne à Fosse 1 07:41:58
+Bigne à Fosse 1 07:51:58
+Bigne à Fosse 1 08:01:58
+Bigne à Fosse 1 08:11:58
+Bigne à Fosse 1 08:21:58
+Bigne à Fosse 1 08:31:58
+Bigne à Fosse 1 08:41:58
+Bigne à Fosse 1 08:51:58
+Bigne à Fosse 1 09:01:58
+Bigne à Fosse 1 09:11:58
+Bigne à Fosse 1 09:21:58
+Bigne à Fosse 1 09:31:58
+Bigne à Fosse 1 09:41:58
+Bigne à Fosse 1 09:51:58
+Bigne à Fosse 1 10:01:58
+Bigne à Fosse 1 10:11:58
+Bigne à Fosse 1 10:21:58
+Bigne à Fosse 1 10:31:58
+Bigne à Fosse 1 10:41:58
+Bigne à Fosse 1 10:51:58
+Bigne à Fosse 1 11:01:58
+Bigne à Fosse 1 11:11:58
+Bigne à Fosse 1 11:21:58
+Bigne à Fosse 1 11:31:58
+Bigne à Fosse 1 11:41:58
+Bigne à Fosse 1 11:51:58
+Bigne à Fosse 1 12:01:58
+Bigne à Fosse 1 12:11:58
+Bigne à Fosse 1 12:21:58
+Bigne à Fosse 1 12:31:56
+Bigne à Fosse 1 12:41:48
+Bigne à Fosse 1 12:51:03
+Bigne à Fosse 1 13:01:01
+Bigne à Fosse 1 13:11:01
+Bigne à Fosse 1 13:21:01
+Bigne à Fosse 1 13:31:01
+Bigne à Fosse 1 13:41:01
+Bigne à Fosse 1 13:51:01
+Bigne à Fosse 1 14:01:01
+Bigne à Fosse 1 14:11:01
+Bigne à Fosse 1 14:21:01
+Bigne à Fosse 1 14:31:01
+Bigne à Fosse 1 14:40:56
+Bigne à Fosse 1 14:52:02
+Bigne à Fosse 1 15:02:14
+Bigne à Fosse 1 15:12:14
+Bigne à Fosse 1 15:22:14
+Bigne à Fosse 1 15:32:14
+Bigne à Fosse 1 15:42:14
+Bigne à Fosse 1 15:52:14
+Bigne à Fosse 1 16:02:09
+Bigne à Fosse 1 16:12:04
+Bigne à Fosse 1 16:22:36
+Bigne à Fosse 1 16:32:38
+Bigne à Fosse 1 16:42:38
+Bigne à Fosse 1 16:52:38
+Bigne à Fosse 1 17:02:44
+Bigne à Fosse 1 17:12:46
+Bigne à Fosse 1 17:21:54
+Bigne à Fosse 1 17:31:50
+Bigne à Fosse 1 17:41:50
+Bigne à Fosse 1 17:51:50
+Bigne à Fosse 1 18:01:46
+Bigne à Fosse 1 18:11:29
+Bigne à Fosse 1 18:21:37
+Bigne à Fosse 1 18:31:37
+Bigne à Fosse 1 18:36:37
+Bigne à Fosse 1 18:45:37
+Bigne à Fosse 1 18:55:37
+Bigne à Fosse 1 19:04:37
+Bigne à Fosse 1 19:09:37
+Bigne à Fosse 1 19:19:37
+Bigne à Fosse 1 19:32:37
+Bigne à Fosse 1 19:36:38
+Bigne à Fosse 1 19:46:37
+Bigne à Fosse 1 20:00:37
+Bigne à Fosse 1 20:07:37
+Bigne à Fosse 1 20:21:37
+Bigne à Fosse 1 20:35:37
+Bigne à Fosse 1 20:56:37
+Bigne à Fosse 1 21:08:37
+Bigne à Fosse 1 21:17:38
+Bigne à Fosse 1 21:39:37
+Bigne à Fosse 1 22:09:31
+Bigne à Fosse 1 22:39:04
+Bigne à Fosse 1 23:09:04
+Bigne à Fosse 1 23:39:04
+Bigne à Fosse 1 24:09:04
+Bigne à Fosse 1 24:33:34
+Bigne à Fosse 1 24:39:04
+Bigne à Fosse 1 25:03:34
+Bigne à Fosse 2 04:06:12
+Bigne à Fosse 2 04:24:12
+Bigne à Fosse 2 04:43:02
+Bigne à Fosse 2 04:51:02
+Bigne à Fosse 2 05:17:02
+Bigne à Fosse 2 05:28:02
+Bigne à Fosse 2 05:46:02
+Bigne à Fosse 2 05:54:02
+Bigne à Fosse 2 05:59:02
+Bigne à Fosse 2 06:12:05
+Bigne à Fosse 2 06:17:05
+Bigne à Fosse 2 06:22:05
+Bigne à Fosse 2 06:32:05
+Bigne à Fosse 2 06:37:05
+Bigne à Fosse 2 06:48:05
+Bigne à Fosse 2 06:52:05
+Bigne à Fosse 2 07:02:05
+Bigne à Fosse 2 07:07:05
+Bigne à Fosse 2 07:16:05
+Bigne à Fosse 2 07:25:05
+Bigne à Fosse 2 07:35:05
+Bigne à Fosse 2 07:45:05
+Bigne à Fosse 2 07:55:05
+Bigne à Fosse 2 08:05:05
+Bigne à Fosse 2 08:15:05
+Bigne à Fosse 2 08:25:05
+Bigne à Fosse 2 08:35:05
+Bigne à Fosse 2 08:45:05
+Bigne à Fosse 2 08:55:05
+Bigne à Fosse 2 09:05:05
+Bigne à Fosse 2 09:15:05
+Bigne à Fosse 2 09:25:05
+Bigne à Fosse 2 09:35:05
+Bigne à Fosse 2 09:45:05
+Bigne à Fosse 2 09:55:05
+Bigne à Fosse 2 10:05:05
+Bigne à Fosse 2 10:15:05
+Bigne à Fosse 2 10:25:05
+Bigne à Fosse 2 10:35:05
+Bigne à Fosse 2 10:45:05
+Bigne à Fosse 2 10:55:05
+Bigne à Fosse 2 11:05:05
+Bigne à Fosse 2 11:15:05
+Bigne à Fosse 2 11:25:05
+Bigne à Fosse 2 11:35:05
+Bigne à Fosse 2 11:45:05
+Bigne à Fosse 2 11:55:05
+Bigne à Fosse 2 12:05:05
+Bigne à Fosse 2 12:15:05
+Bigne à Fosse 2 12:25:05
+Bigne à Fosse 2 12:35:05
+Bigne à Fosse 2 12:45:05
+Bigne à Fosse 2 12:55:05
+Bigne à Fosse 2 13:05:05
+Bigne à Fosse 2 13:15:05
+Bigne à Fosse 2 13:25:05
+Bigne à Fosse 2 13:35:05
+Bigne à Fosse 2 13:45:05
+Bigne à Fosse 2 13:55:05
+Bigne à Fosse 2 14:05:05
+Bigne à Fosse 2 14:15:05
+Bigne à Fosse 2 14:25:05
+Bigne à Fosse 2 14:35:05
+Bigne à Fosse 2 14:45:05
+Bigne à Fosse 2 14:55:05
+Bigne à Fosse 2 15:05:05
+Bigne à Fosse 2 15:15:05
+Bigne à Fosse 2 15:25:05
+Bigne à Fosse 2 15:35:05
+Bigne à Fosse 2 15:45:05
+Bigne à Fosse 2 15:55:05
+Bigne à Fosse 2 16:05:05
+Bigne à Fosse 2 16:15:05
+Bigne à Fosse 2 16:25:05
+Bigne à Fosse 2 16:35:05
+Bigne à Fosse 2 16:45:05
+Bigne à Fosse 2 16:55:05
+Bigne à Fosse 2 17:05:05
+Bigne à Fosse 2 17:15:05
+Bigne à Fosse 2 17:25:05
+Bigne à Fosse 2 17:35:05
+Bigne à Fosse 2 17:45:05
+Bigne à Fosse 2 17:55:05
+Bigne à Fosse 2 18:04:56
+Bigne à Fosse 2 18:14:56
+Bigne à Fosse 2 18:24:56
+Bigne à Fosse 2 18:36:56
+Bigne à Fosse 2 18:50:56
+Bigne à Fosse 2 19:05:56
+Bigne à Fosse 2 19:19:56
+Bigne à Fosse 2 19:32:56
+Bigne à Fosse 2 19:48:56
+Bigne à Fosse 2 20:19:56
+Bigne à Fosse 2 20:50:56
+Bigne à Fosse 2 21:20:56
+Bigne à Fosse 2 21:50:56
+Bigne à Fosse 2 22:20:56
+Bigne à Fosse 2 22:50:56
+Bigne à Fosse 2 23:20:56
+Curie 1 04:35:19
+Curie 1 05:18:39
+Curie 1 05:37:16
+Curie 1 06:06:16
+Curie 1 06:21:39
+Curie 1 06:30:16
+Curie 1 06:48:16
+Curie 1 06:59:16
+Curie 1 07:09:28
+Curie 1 07:19:44
+Curie 1 07:29:44
+Curie 1 07:39:44
+Curie 1 07:49:44
+Curie 1 07:59:44
+Curie 1 08:09:44
+Curie 1 08:19:44
+Curie 1 08:29:44
+Curie 1 08:39:44
+Curie 1 08:49:44
+Curie 1 08:59:44
+Curie 1 09:09:44
+Curie 1 09:19:44
+Curie 1 09:29:44
+Curie 1 09:39:44
+Curie 1 09:49:44
+Curie 1 09:59:44
+Curie 1 10:09:44
+Curie 1 10:19:44
+Curie 1 10:29:44
+Curie 1 10:39:44
+Curie 1 10:49:44
+Curie 1 10:59:44
+Curie 1 11:09:44
+Curie 1 11:19:44
+Curie 1 11:29:44
+Curie 1 11:39:44
+Curie 1 11:49:44
+Curie 1 11:59:44
+Curie 1 12:09:44
+Curie 1 12:19:44
+Curie 1 12:29:44
+Curie 1 12:39:21
+Curie 1 12:49:08
+Curie 1 12:59:08
+Curie 1 13:09:08
+Curie 1 13:19:08
+Curie 1 13:29:08
+Curie 1 13:39:08
+Curie 1 13:49:08
+Curie 1 13:59:08
+Curie 1 14:09:08
+Curie 1 14:19:08
+Curie 1 14:29:08
+Curie 1 14:39:16
+Curie 1 14:49:59
+Curie 1 14:59:59
+Curie 1 15:09:59
+Curie 1 15:19:59
+Curie 1 15:29:59
+Curie 1 15:39:59
+Curie 1 15:49:59
+Curie 1 15:59:59
+Curie 1 16:10:27
+Curie 1 16:20:39
+Curie 1 16:30:39
+Curie 1 16:40:39
+Curie 1 16:50:39
+Curie 1 17:00:39
+Curie 1 17:10:05
+Curie 1 17:19:45
+Curie 1 17:29:45
+Curie 1 17:39:45
+Curie 1 17:49:45
+Curie 1 17:59:45
+Curie 1 18:09:45
+Curie 1 18:19:45
+Curie 1 18:34:45
+Curie 1 18:43:45
+Curie 1 18:52:45
+Curie 1 19:07:45
+Curie 1 19:18:45
+Curie 1 19:32:45
+Curie 1 19:46:45
+Curie 1 20:07:45
+Curie 1 20:21:45
+Curie 1 20:38:45
+Curie 1 21:14:45
+Curie 1 21:42:45
+Curie 1 22:12:30
+Curie 1 22:42:09
+Curie 1 23:12:09
+Curie 1 23:42:09
+Curie 1 24:12:09
+Curie 2 05:05:53
+Curie 2 05:45:23
+Curie 2 06:12:23
+Curie 2 06:34:23
+Curie 2 06:49:23
+Curie 2 07:04:31
+Curie 2 07:18:47
+Curie 2 07:27:47
+Curie 2 07:37:47
+Curie 2 07:47:47
+Curie 2 07:57:47
+Curie 2 08:07:47
+Curie 2 08:17:47
+Curie 2 08:27:47
+Curie 2 08:37:47
+Curie 2 08:47:47
+Curie 2 08:57:47
+Curie 2 09:07:47
+Curie 2 09:17:47
+Curie 2 09:27:47
+Curie 2 09:37:47
+Curie 2 09:47:47
+Curie 2 09:57:47
+Curie 2 10:07:47
+Curie 2 10:17:47
+Curie 2 10:27:47
+Curie 2 10:37:47
+Curie 2 10:47:47
+Curie 2 10:56:47
+Curie 2 11:06:47
+Curie 2 11:16:47
+Curie 2 11:26:47
+Curie 2 11:36:47
+Curie 2 11:46:47
+Curie 2 11:56:47
+Curie 2 12:06:47
+Curie 2 12:16:47
+Curie 2 12:26:47
+Curie 2 12:36:47
+Curie 2 12:46:47
+Curie 2 12:56:47
+Curie 2 13:06:47
+Curie 2 13:16:47
+Curie 2 13:26:47
+Curie 2 13:37:47
+Curie 2 13:47:47
+Curie 2 13:57:47
+Curie 2 14:07:47
+Curie 2 14:17:47
+Curie 2 14:27:47
+Curie 2 14:37:47
+Curie 2 14:47:47
+Curie 2 14:57:47
+Curie 2 15:07:47
+Curie 2 15:17:47
+Curie 2 15:27:47
+Curie 2 15:37:47
+Curie 2 15:47:47
+Curie 2 15:57:47
+Curie 2 16:07:47
+Curie 2 16:17:47
+Curie 2 16:27:47
+Curie 2 16:37:47
+Curie 2 16:47:47
+Curie 2 16:57:47
+Curie 2 17:08:09
+Curie 2 17:18:12
+Curie 2 17:28:12
+Curie 2 17:38:12
+Curie 2 17:47:36
+Curie 2 17:57:33
+Curie 2 18:07:33
+Curie 2 18:16:33
+Curie 2 18:27:33
+Curie 2 18:37:33
+Curie 2 18:51:33
+Curie 2 19:04:25
+Curie 2 19:09:03
+Curie 2 19:20:49
+Curie 2 19:33:49
+Curie 2 19:47:49
+Curie 2 20:03:49
+Curie 2 20:14:49
+Curie 2 20:40:49
+Curie 2 20:49:49
+Curie 2 21:14:49
+Curie 2 21:44:49
+Curie 2 22:14:49
+Curie 2 22:44:49
+Curie 2 23:14:49
+Curie 2 23:44:49
+Frileuse 1 04:33:21
+Frileuse 1 05:16:51
+Frileuse 1 05:35:28
+Frileuse 1 06:04:28
+Frileuse 1 06:19:51
+Frileuse 1 06:28:28
+Frileuse 1 06:46:28
+Frileuse 1 06:57:28
+Frileuse 1 07:07:40
+Frileuse 1 07:17:56
+Frileuse 1 07:27:56
+Frileuse 1 07:37:56
+Frileuse 1 07:47:56
+Frileuse 1 07:57:56
+Frileuse 1 08:07:56
+Frileuse 1 08:17:56
+Frileuse 1 08:27:56
+Frileuse 1 08:37:56
+Frileuse 1 08:47:56
+Frileuse 1 08:57:56
+Frileuse 1 09:07:56
+Frileuse 1 09:17:56
+Frileuse 1 09:27:56
+Frileuse 1 09:37:56
+Frileuse 1 09:47:56
+Frileuse 1 09:57:56
+Frileuse 1 10:07:56
+Frileuse 1 10:17:56
+Frileuse 1 10:27:56
+Frileuse 1 10:37:56
+Frileuse 1 10:47:56
+Frileuse 1 10:57:56
+Frileuse 1 11:07:56
+Frileuse 1 11:17:56
+Frileuse 1 11:27:56
+Frileuse 1 11:37:56
+Frileuse 1 11:47:56
+Frileuse 1 11:57:56
+Frileuse 1 12:07:56
+Frileuse 1 12:17:56
+Frileuse 1 12:27:56
+Frileuse 1 12:37:29
+Frileuse 1 12:47:16
+Frileuse 1 12:57:16
+Frileuse 1 13:07:16
+Frileuse 1 13:17:16
+Frileuse 1 13:27:16
+Frileuse 1 13:37:16
+Frileuse 1 13:47:16
+Frileuse 1 13:57:16
+Frileuse 1 14:07:16
+Frileuse 1 14:17:16
+Frileuse 1 14:27:16
+Frileuse 1 14:37:24
+Frileuse 1 14:48:07
+Frileuse 1 14:58:07
+Frileuse 1 15:08:07
+Frileuse 1 15:18:07
+Frileuse 1 15:28:07
+Frileuse 1 15:38:07
+Frileuse 1 15:48:07
+Frileuse 1 15:58:07
+Frileuse 1 16:08:33
+Frileuse 1 16:18:45
+Frileuse 1 16:28:45
+Frileuse 1 16:38:45
+Frileuse 1 16:48:45
+Frileuse 1 16:58:45
+Frileuse 1 17:08:15
+Frileuse 1 17:17:55
+Frileuse 1 17:27:55
+Frileuse 1 17:37:55
+Frileuse 1 17:47:55
+Frileuse 1 17:57:55
+Frileuse 1 18:07:55
+Frileuse 1 18:17:55
+Frileuse 1 18:32:55
+Frileuse 1 18:41:55
+Frileuse 1 18:50:55
+Frileuse 1 19:05:55
+Frileuse 1 19:16:55
+Frileuse 1 19:30:55
+Frileuse 1 19:44:55
+Frileuse 1 20:05:55
+Frileuse 1 20:19:55
+Frileuse 1 20:36:55
+Frileuse 1 21:12:55
+Frileuse 1 21:40:55
+Frileuse 1 22:10:44
+Frileuse 1 22:40:23
+Frileuse 1 23:10:23
+Frileuse 1 23:40:23
+Frileuse 1 24:10:23
+Frileuse 2 05:07:50
+Frileuse 2 05:47:10
+Frileuse 2 06:14:10
+Frileuse 2 06:36:10
+Frileuse 2 06:51:10
+Frileuse 2 07:06:18
+Frileuse 2 07:20:34
+Frileuse 2 07:29:34
+Frileuse 2 07:39:34
+Frileuse 2 07:49:34
+Frileuse 2 07:59:34
+Frileuse 2 08:09:34
+Frileuse 2 08:19:34
+Frileuse 2 08:29:34
+Frileuse 2 08:39:34
+Frileuse 2 08:49:34
+Frileuse 2 08:59:34
+Frileuse 2 09:09:34
+Frileuse 2 09:19:34
+Frileuse 2 09:29:34
+Frileuse 2 09:39:34
+Frileuse 2 09:49:34
+Frileuse 2 09:59:34
+Frileuse 2 10:09:34
+Frileuse 2 10:19:34
+Frileuse 2 10:29:34
+Frileuse 2 10:39:34
+Frileuse 2 10:49:34
+Frileuse 2 10:58:34
+Frileuse 2 11:08:34
+Frileuse 2 11:18:34
+Frileuse 2 11:28:34
+Frileuse 2 11:38:34
+Frileuse 2 11:48:34
+Frileuse 2 11:58:34
+Frileuse 2 12:08:34
+Frileuse 2 12:18:34
+Frileuse 2 12:28:34
+Frileuse 2 12:38:34
+Frileuse 2 12:48:34
+Frileuse 2 12:58:34
+Frileuse 2 13:08:34
+Frileuse 2 13:18:34
+Frileuse 2 13:28:34
+Frileuse 2 13:39:34
+Frileuse 2 13:49:34
+Frileuse 2 13:59:34
+Frileuse 2 14:09:34
+Frileuse 2 14:19:34
+Frileuse 2 14:29:34
+Frileuse 2 14:39:34
+Frileuse 2 14:49:34
+Frileuse 2 14:59:34
+Frileuse 2 15:09:34
+Frileuse 2 15:19:34
+Frileuse 2 15:29:34
+Frileuse 2 15:39:34
+Frileuse 2 15:49:34
+Frileuse 2 15:59:34
+Frileuse 2 16:09:34
+Frileuse 2 16:19:34
+Frileuse 2 16:29:34
+Frileuse 2 16:39:34
+Frileuse 2 16:49:34
+Frileuse 2 16:59:34
+Frileuse 2 17:10:00
+Frileuse 2 17:20:03
+Frileuse 2 17:30:03
+Frileuse 2 17:40:03
+Frileuse 2 17:49:21
+Frileuse 2 17:59:18
+Frileuse 2 18:09:18
+Frileuse 2 18:18:18
+Frileuse 2 18:29:18
+Frileuse 2 18:39:18
+Frileuse 2 18:53:18
+Frileuse 2 19:06:10
+Frileuse 2 19:10:48
+Frileuse 2 19:22:34
+Frileuse 2 19:35:34
+Frileuse 2 19:49:34
+Frileuse 2 20:05:34
+Frileuse 2 20:16:34
+Frileuse 2 20:42:34
+Frileuse 2 20:51:34
+Frileuse 2 21:16:34
+Frileuse 2 21:46:34
+Frileuse 2 22:16:34
+Frileuse 2 22:46:34
+Frileuse 2 23:16:34
+Frileuse 2 23:46:34
+Gares 1 05:02:12
+Gares 1 05:26:57
+Gares 1 05:44:57
+Gares 1 05:55:57
+Gares 1 06:07:57
+Gares 1 06:19:57
+Gares 1 06:28:57
+Gares 1 06:37:57
+Gares 1 06:42:57
+Gares 1 06:48:57
+Gares 1 06:53:57
+Gares 1 06:58:57
+Gares 1 07:04:09
+Gares 1 07:09:14
+Gares 1 07:14:14
+Gares 1 07:19:14
+Gares 1 07:24:14
+Gares 1 07:29:14
+Gares 1 07:34:14
+Gares 1 07:39:14
+Gares 1 07:44:14
+Gares 1 07:49:14
+Gares 1 07:54:14
+Gares 1 07:59:14
+Gares 1 08:04:14
+Gares 1 08:09:14
+Gares 1 08:14:14
+Gares 1 08:19:14
+Gares 1 08:24:14
+Gares 1 08:29:14
+Gares 1 08:34:14
+Gares 1 08:39:14
+Gares 1 08:44:14
+Gares 1 08:49:14
+Gares 1 08:54:14
+Gares 1 08:59:14
+Gares 1 09:04:14
+Gares 1 09:09:14
+Gares 1 09:14:14
+Gares 1 09:19:14
+Gares 1 09:24:14
+Gares 1 09:29:14
+Gares 1 09:34:14
+Gares 1 09:39:14
+Gares 1 09:44:14
+Gares 1 09:49:14
+Gares 1 09:54:14
+Gares 1 09:59:14
+Gares 1 10:04:14
+Gares 1 10:09:14
+Gares 1 10:14:14
+Gares 1 10:19:14
+Gares 1 10:24:14
+Gares 1 10:29:14
+Gares 1 10:34:14
+Gares 1 10:39:14
+Gares 1 10:44:14
+Gares 1 10:49:14
+Gares 1 10:54:14
+Gares 1 10:59:14
+Gares 1 11:04:14
+Gares 1 11:09:14
+Gares 1 11:14:14
+Gares 1 11:19:14
+Gares 1 11:24:14
+Gares 1 11:29:14
+Gares 1 11:34:14
+Gares 1 11:39:14
+Gares 1 11:44:14
+Gares 1 11:49:14
+Gares 1 11:54:14
+Gares 1 11:59:14
+Gares 1 12:04:14
+Gares 1 12:09:14
+Gares 1 12:14:14
+Gares 1 12:19:14
+Gares 1 12:24:14
+Gares 1 12:29:14
+Gares 1 12:34:08
+Gares 1 12:39:06
+Gares 1 12:44:06
+Gares 1 12:49:06
+Gares 1 12:54:06
+Gares 1 12:59:06
+Gares 1 13:04:06
+Gares 1 13:09:06
+Gares 1 13:14:06
+Gares 1 13:19:06
+Gares 1 13:24:06
+Gares 1 13:29:06
+Gares 1 13:34:06
+Gares 1 13:39:06
+Gares 1 13:44:06
+Gares 1 13:49:06
+Gares 1 13:54:06
+Gares 1 13:59:06
+Gares 1 14:04:06
+Gares 1 14:09:06
+Gares 1 14:14:06
+Gares 1 14:19:06
+Gares 1 14:24:06
+Gares 1 14:29:06
+Gares 1 14:34:26
+Gares 1 14:39:38
+Gares 1 14:44:38
+Gares 1 14:49:38
+Gares 1 14:54:38
+Gares 1 14:59:38
+Gares 1 15:04:38
+Gares 1 15:09:38
+Gares 1 15:14:38
+Gares 1 15:19:38
+Gares 1 15:24:38
+Gares 1 15:29:38
+Gares 1 15:34:38
+Gares 1 15:39:38
+Gares 1 15:44:38
+Gares 1 15:49:38
+Gares 1 15:54:38
+Gares 1 15:59:38
+Gares 1 16:04:35
+Gares 1 16:09:37
+Gares 1 16:14:37
+Gares 1 16:19:37
+Gares 1 16:24:37
+Gares 1 16:29:37
+Gares 1 16:34:37
+Gares 1 16:39:37
+Gares 1 16:44:37
+Gares 1 16:49:37
+Gares 1 16:54:37
+Gares 1 16:59:37
+Gares 1 17:04:40
+Gares 1 17:09:36
+Gares 1 17:14:36
+Gares 1 17:19:36
+Gares 1 17:24:36
+Gares 1 17:29:36
+Gares 1 17:34:36
+Gares 1 17:39:36
+Gares 1 17:44:36
+Gares 1 17:49:36
+Gares 1 17:54:36
+Gares 1 17:59:36
+Gares 1 18:04:36
+Gares 1 18:09:36
+Gares 1 18:14:36
+Gares 1 18:19:36
+Gares 1 18:24:36
+Gares 1 18:28:36
+Gares 1 18:33:36
+Gares 1 18:38:36
+Gares 1 18:42:36
+Gares 1 18:47:36
+Gares 1 18:52:36
+Gares 1 18:57:36
+Gares 1 19:02:36
+Gares 1 19:08:36
+Gares 1 19:15:36
+Gares 1 19:22:36
+Gares 1 19:29:36
+Gares 1 19:36:36
+Gares 1 19:43:36
+Gares 1 19:50:36
+Gares 1 19:57:36
+Gares 1 20:04:36
+Gares 1 20:11:36
+Gares 1 20:18:36
+Gares 1 20:28:36
+Gares 1 20:39:36
+Gares 1 20:51:36
+Gares 1 21:04:36
+Gares 1 21:19:36
+Gares 1 21:32:36
+Gares 1 21:49:36
+Gares 1 22:02:20
+Gares 1 22:18:59
+Gares 1 22:31:59
+Gares 1 22:48:59
+Gares 1 23:01:59
+Gares 1 23:18:59
+Gares 1 23:31:59
+Gares 1 23:48:59
+Gares 1 24:01:59
+Gares 1 24:18:59
+Gares 2 04:42:31
+Gares 2 05:00:51
+Gares 2 05:16:52
+Gares 2 05:34:51
+Gares 2 05:45:51
+Gares 2 05:55:52
+Gares 2 06:03:59
+Gares 2 06:16:57
+Gares 2 06:23:07
+Gares 2 06:30:03
+Gares 2 06:35:03
+Gares 2 06:40:03
+Gares 2 06:45:07
+Gares 2 06:50:03
+Gares 2 06:55:03
+Gares 2 07:00:07
+Gares 2 07:05:51
+Gares 2 07:10:06
+Gares 2 07:15:28
+Gares 2 07:20:25
+Gares 2 07:25:25
+Gares 2 07:29:44
+Gares 2 07:34:25
+Gares 2 07:38:44
+Gares 2 07:43:25
+Gares 2 07:48:44
+Gares 2 07:53:25
+Gares 2 07:58:44
+Gares 2 08:03:25
+Gares 2 08:08:44
+Gares 2 08:13:25
+Gares 2 08:18:44
+Gares 2 08:23:25
+Gares 2 08:28:44
+Gares 2 08:33:25
+Gares 2 08:38:44
+Gares 2 08:43:25
+Gares 2 08:48:44
+Gares 2 08:53:25
+Gares 2 08:58:44
+Gares 2 09:03:25
+Gares 2 09:08:44
+Gares 2 09:13:25
+Gares 2 09:18:44
+Gares 2 09:23:25
+Gares 2 09:28:44
+Gares 2 09:33:25
+Gares 2 09:38:44
+Gares 2 09:43:25
+Gares 2 09:48:44
+Gares 2 09:53:25
+Gares 2 09:58:44
+Gares 2 10:03:25
+Gares 2 10:08:44
+Gares 2 10:13:25
+Gares 2 10:18:44
+Gares 2 10:23:25
+Gares 2 10:28:44
+Gares 2 10:33:25
+Gares 2 10:38:44
+Gares 2 10:43:25
+Gares 2 10:48:44
+Gares 2 10:53:25
+Gares 2 10:58:44
+Gares 2 11:03:25
+Gares 2 11:07:44
+Gares 2 11:13:02
+Gares 2 11:17:44
+Gares 2 11:22:51
+Gares 2 11:27:44
+Gares 2 11:32:51
+Gares 2 11:37:44
+Gares 2 11:42:51
+Gares 2 11:47:44
+Gares 2 11:52:51
+Gares 2 11:57:44
+Gares 2 12:02:51
+Gares 2 12:07:44
+Gares 2 12:12:51
+Gares 2 12:17:44
+Gares 2 12:22:51
+Gares 2 12:27:44
+Gares 2 12:32:51
+Gares 2 12:37:44
+Gares 2 12:42:51
+Gares 2 12:47:44
+Gares 2 12:52:51
+Gares 2 12:57:44
+Gares 2 13:02:51
+Gares 2 13:07:44
+Gares 2 13:12:51
+Gares 2 13:17:44
+Gares 2 13:22:51
+Gares 2 13:27:44
+Gares 2 13:32:51
+Gares 2 13:37:44
+Gares 2 13:43:29
+Gares 2 13:48:44
+Gares 2 13:53:34
+Gares 2 13:58:44
+Gares 2 14:03:34
+Gares 2 14:08:44
+Gares 2 14:13:34
+Gares 2 14:18:44
+Gares 2 14:23:34
+Gares 2 14:28:44
+Gares 2 14:33:34
+Gares 2 14:38:44
+Gares 2 14:43:34
+Gares 2 14:48:44
+Gares 2 14:53:34
+Gares 2 14:58:44
+Gares 2 15:03:34
+Gares 2 15:08:44
+Gares 2 15:13:34
+Gares 2 15:18:44
+Gares 2 15:23:34
+Gares 2 15:28:44
+Gares 2 15:33:34
+Gares 2 15:38:44
+Gares 2 15:43:34
+Gares 2 15:48:44
+Gares 2 15:53:34
+Gares 2 15:58:44
+Gares 2 16:03:34
+Gares 2 16:08:44
+Gares 2 16:13:34
+Gares 2 16:18:44
+Gares 2 16:23:34
+Gares 2 16:28:44
+Gares 2 16:33:34
+Gares 2 16:38:44
+Gares 2 16:43:34
+Gares 2 16:48:44
+Gares 2 16:53:34
+Gares 2 16:58:44
+Gares 2 17:03:34
+Gares 2 17:08:44
+Gares 2 17:13:34
+Gares 2 17:19:14
+Gares 2 17:23:34
+Gares 2 17:29:17
+Gares 2 17:33:34
+Gares 2 17:39:17
+Gares 2 17:43:48
+Gares 2 17:49:19
+Gares 2 17:53:48
+Gares 2 17:58:37
+Gares 2 18:03:48
+Gares 2 18:08:34
+Gares 2 18:13:06
+Gares 2 18:18:34
+Gares 2 18:23:00
+Gares 2 18:27:34
+Gares 2 18:33:00
+Gares 2 18:38:34
+Gares 2 18:43:00
+Gares 2 18:48:34
+Gares 2 18:55:00
+Gares 2 19:02:34
+Gares 2 19:09:00
+Gares 2 19:15:13
+Gares 2 19:24:00
+Gares 2 19:31:37
+Gares 2 19:38:00
+Gares 2 19:44:37
+Gares 2 19:51:00
+Gares 2 19:58:37
+Gares 2 20:07:00
+Gares 2 20:14:37
+Gares 2 20:25:37
+Gares 2 20:38:00
+Gares 2 20:51:37
+Gares 2 21:09:00
+Gares 2 21:25:37
+Gares 2 21:38:50
+Gares 2 21:55:37
+Gares 2 22:08:50
+Gares 2 22:25:37
+Gares 2 22:38:50
+Gares 2 22:55:37
+Gares 2 23:08:50
+Gares 2 23:25:37
+Gares 2 23:38:50
+Gares 2 23:55:37
+Grand Hameau 1 05:26:15
+Grand Hameau 1 06:04:00
+Grand Hameau 1 06:27:00
+Grand Hameau 1 06:48:00
+Grand Hameau 1 07:01:53
+Grand Hameau 1 07:13:34
+Grand Hameau 1 07:23:37
+Grand Hameau 1 07:33:42
+Grand Hameau 1 07:43:42
+Grand Hameau 1 07:53:42
+Grand Hameau 1 08:03:42
+Grand Hameau 1 08:13:42
+Grand Hameau 1 08:23:42
+Grand Hameau 1 08:33:42
+Grand Hameau 1 08:43:42
+Grand Hameau 1 08:53:42
+Grand Hameau 1 09:03:42
+Grand Hameau 1 09:13:42
+Grand Hameau 1 09:23:42
+Grand Hameau 1 09:33:42
+Grand Hameau 1 09:43:42
+Grand Hameau 1 09:53:42
+Grand Hameau 1 10:03:42
+Grand Hameau 1 10:13:42
+Grand Hameau 1 10:23:42
+Grand Hameau 1 10:33:42
+Grand Hameau 1 10:43:42
+Grand Hameau 1 10:53:42
+Grand Hameau 1 11:03:42
+Grand Hameau 1 11:13:42
+Grand Hameau 1 11:23:42
+Grand Hameau 1 11:33:42
+Grand Hameau 1 11:43:42
+Grand Hameau 1 11:53:42
+Grand Hameau 1 12:03:42
+Grand Hameau 1 12:13:42
+Grand Hameau 1 12:23:42
+Grand Hameau 1 12:33:31
+Grand Hameau 1 12:43:23
+Grand Hameau 1 12:52:38
+Grand Hameau 1 13:02:36
+Grand Hameau 1 13:12:36
+Grand Hameau 1 13:22:36
+Grand Hameau 1 13:32:36
+Grand Hameau 1 13:42:36
+Grand Hameau 1 13:52:36
+Grand Hameau 1 14:02:36
+Grand Hameau 1 14:12:36
+Grand Hameau 1 14:22:36
+Grand Hameau 1 14:32:36
+Grand Hameau 1 14:42:31
+Grand Hameau 1 14:53:37
+Grand Hameau 1 15:03:49
+Grand Hameau 1 15:13:49
+Grand Hameau 1 15:23:49
+Grand Hameau 1 15:33:49
+Grand Hameau 1 15:43:49
+Grand Hameau 1 15:53:49
+Grand Hameau 1 16:03:49
+Grand Hameau 1 16:13:44
+Grand Hameau 1 16:24:16
+Grand Hameau 1 16:34:18
+Grand Hameau 1 16:44:18
+Grand Hameau 1 16:54:18
+Grand Hameau 1 17:04:24
+Grand Hameau 1 17:14:26
+Grand Hameau 1 17:23:34
+Grand Hameau 1 17:33:30
+Grand Hameau 1 17:43:30
+Grand Hameau 1 17:53:30
+Grand Hameau 1 18:03:20
+Grand Hameau 1 18:13:03
+Grand Hameau 1 18:23:11
+Grand Hameau 1 18:33:11
+Grand Hameau 1 18:38:11
+Grand Hameau 1 18:47:11
+Grand Hameau 1 18:57:11
+Grand Hameau 1 19:06:11
+Grand Hameau 1 19:11:11
+Grand Hameau 1 19:21:11
+Grand Hameau 1 19:34:11
+Grand Hameau 1 19:38:12
+Grand Hameau 1 19:48:11
+Grand Hameau 1 20:02:11
+Grand Hameau 1 20:09:11
+Grand Hameau 1 20:23:11
+Grand Hameau 1 20:37:11
+Grand Hameau 1 20:58:11
+Grand Hameau 1 21:10:11
+Grand Hameau 1 21:19:12
+Grand Hameau 1 21:41:11
+Grand Hameau 1 22:11:05
+Grand Hameau 1 22:40:38
+Grand Hameau 1 23:10:38
+Grand Hameau 1 23:40:38
+Grand Hameau 1 24:10:38
+Grand Hameau 1 24:35:08
+Grand Hameau 1 24:40:38
+Grand Hameau 1 25:05:08
+Grand Hameau 2 04:04:00
+Grand Hameau 2 04:22:00
+Grand Hameau 2 04:41:00
+Grand Hameau 2 04:49:00
+Grand Hameau 2 05:15:00
+Grand Hameau 2 05:26:00
+Grand Hameau 2 05:44:00
+Grand Hameau 2 05:52:00
+Grand Hameau 2 05:57:00
+Grand Hameau 2 06:10:00
+Grand Hameau 2 06:15:00
+Grand Hameau 2 06:20:00
+Grand Hameau 2 06:30:00
+Grand Hameau 2 06:35:00
+Grand Hameau 2 06:46:00
+Grand Hameau 2 06:50:00
+Grand Hameau 2 07:00:00
+Grand Hameau 2 07:05:00
+Grand Hameau 2 07:14:00
+Grand Hameau 2 07:23:00
+Grand Hameau 2 07:33:00
+Grand Hameau 2 07:43:00
+Grand Hameau 2 07:53:00
+Grand Hameau 2 08:03:00
+Grand Hameau 2 08:13:00
+Grand Hameau 2 08:23:00
+Grand Hameau 2 08:33:00
+Grand Hameau 2 08:43:00
+Grand Hameau 2 08:53:00
+Grand Hameau 2 09:03:00
+Grand Hameau 2 09:13:00
+Grand Hameau 2 09:23:00
+Grand Hameau 2 09:33:00
+Grand Hameau 2 09:43:00
+Grand Hameau 2 09:53:00
+Grand Hameau 2 10:03:00
+Grand Hameau 2 10:13:00
+Grand Hameau 2 10:23:00
+Grand Hameau 2 10:33:00
+Grand Hameau 2 10:43:00
+Grand Hameau 2 10:53:00
+Grand Hameau 2 11:03:00
+Grand Hameau 2 11:13:00
+Grand Hameau 2 11:23:00
+Grand Hameau 2 11:33:00
+Grand Hameau 2 11:43:00
+Grand Hameau 2 11:53:00
+Grand Hameau 2 12:03:00
+Grand Hameau 2 12:13:00
+Grand Hameau 2 12:23:00
+Grand Hameau 2 12:33:00
+Grand Hameau 2 12:43:00
+Grand Hameau 2 12:53:00
+Grand Hameau 2 13:03:00
+Grand Hameau 2 13:13:00
+Grand Hameau 2 13:23:00
+Grand Hameau 2 13:33:00
+Grand Hameau 2 13:43:00
+Grand Hameau 2 13:53:00
+Grand Hameau 2 14:03:00
+Grand Hameau 2 14:13:00
+Grand Hameau 2 14:23:00
+Grand Hameau 2 14:33:00
+Grand Hameau 2 14:43:00
+Grand Hameau 2 14:53:00
+Grand Hameau 2 15:03:00
+Grand Hameau 2 15:13:00
+Grand Hameau 2 15:23:00
+Grand Hameau 2 15:33:00
+Grand Hameau 2 15:43:00
+Grand Hameau 2 15:53:00
+Grand Hameau 2 16:03:00
+Grand Hameau 2 16:13:00
+Grand Hameau 2 16:23:00
+Grand Hameau 2 16:33:00
+Grand Hameau 2 16:43:00
+Grand Hameau 2 16:53:00
+Grand Hameau 2 17:03:00
+Grand Hameau 2 17:13:00
+Grand Hameau 2 17:23:00
+Grand Hameau 2 17:33:00
+Grand Hameau 2 17:43:00
+Grand Hameau 2 17:53:00
+Grand Hameau 2 18:03:00
+Grand Hameau 2 18:13:00
+Grand Hameau 2 18:23:00
+Grand Hameau 2 18:35:00
+Grand Hameau 2 18:49:00
+Grand Hameau 2 19:04:00
+Grand Hameau 2 19:18:00
+Grand Hameau 2 19:31:00
+Grand Hameau 2 19:47:00
+Grand Hameau 2 20:18:00
+Grand Hameau 2 20:49:00
+Grand Hameau 2 21:19:00
+Grand Hameau 2 21:49:00
+Grand Hameau 2 22:19:00
+Grand Hameau 2 22:49:00
+Grand Hameau 2 23:19:00
+Hôtel de Ville 1 04:58:26
+Hôtel de Ville 1 04:58:26
+Hôtel de Ville 1 05:23:26
+Hôtel de Ville 1 05:23:26
+Hôtel de Ville 1 05:41:26
+Hôtel de Ville 1 05:41:26
+Hôtel de Ville 1 05:52:26
+Hôtel de Ville 1 05:52:26
+Hôtel de Ville 1 06:04:26
+Hôtel de Ville 1 06:04:26
+Hôtel de Ville 1 06:16:26
+Hôtel de Ville 1 06:16:26
+Hôtel de Ville 1 06:25:26
+Hôtel de Ville 1 06:25:26
+Hôtel de Ville 1 06:34:26
+Hôtel de Ville 1 06:34:26
+Hôtel de Ville 1 06:39:26
+Hôtel de Ville 1 06:39:26
+Hôtel de Ville 1 06:45:26
+Hôtel de Ville 1 06:45:26
+Hôtel de Ville 1 06:50:26
+Hôtel de Ville 1 06:50:26
+Hôtel de Ville 1 06:55:26
+Hôtel de Ville 1 06:55:26
+Hôtel de Ville 1 07:00:26
+Hôtel de Ville 1 07:00:26
+Hôtel de Ville 1 07:05:31
+Hôtel de Ville 1 07:05:31
+Hôtel de Ville 1 07:10:31
+Hôtel de Ville 1 07:10:31
+Hôtel de Ville 1 07:15:31
+Hôtel de Ville 1 07:15:31
+Hôtel de Ville 1 07:20:31
+Hôtel de Ville 1 07:20:31
+Hôtel de Ville 1 07:25:31
+Hôtel de Ville 1 07:25:31
+Hôtel de Ville 1 07:30:31
+Hôtel de Ville 1 07:30:31
+Hôtel de Ville 1 07:35:31
+Hôtel de Ville 1 07:35:31
+Hôtel de Ville 1 07:40:31
+Hôtel de Ville 1 07:40:31
+Hôtel de Ville 1 07:45:31
+Hôtel de Ville 1 07:45:31
+Hôtel de Ville 1 07:50:31
+Hôtel de Ville 1 07:50:31
+Hôtel de Ville 1 07:55:31
+Hôtel de Ville 1 07:55:31
+Hôtel de Ville 1 08:00:31
+Hôtel de Ville 1 08:00:31
+Hôtel de Ville 1 08:05:31
+Hôtel de Ville 1 08:05:31
+Hôtel de Ville 1 08:10:31
+Hôtel de Ville 1 08:10:31
+Hôtel de Ville 1 08:15:31
+Hôtel de Ville 1 08:15:31
+Hôtel de Ville 1 08:20:31
+Hôtel de Ville 1 08:20:31
+Hôtel de Ville 1 08:25:31
+Hôtel de Ville 1 08:25:31
+Hôtel de Ville 1 08:30:31
+Hôtel de Ville 1 08:30:31
+Hôtel de Ville 1 08:35:31
+Hôtel de Ville 1 08:35:31
+Hôtel de Ville 1 08:40:31
+Hôtel de Ville 1 08:40:31
+Hôtel de Ville 1 08:45:31
+Hôtel de Ville 1 08:45:31
+Hôtel de Ville 1 08:50:31
+Hôtel de Ville 1 08:50:31
+Hôtel de Ville 1 08:55:31
+Hôtel de Ville 1 08:55:31
+Hôtel de Ville 1 09:00:31
+Hôtel de Ville 1 09:00:31
+Hôtel de Ville 1 09:05:31
+Hôtel de Ville 1 09:05:31
+Hôtel de Ville 1 09:10:31
+Hôtel de Ville 1 09:10:31
+Hôtel de Ville 1 09:15:31
+Hôtel de Ville 1 09:15:31
+Hôtel de Ville 1 09:20:31
+Hôtel de Ville 1 09:20:31
+Hôtel de Ville 1 09:25:31
+Hôtel de Ville 1 09:25:31
+Hôtel de Ville 1 09:30:31
+Hôtel de Ville 1 09:30:31
+Hôtel de Ville 1 09:35:31
+Hôtel de Ville 1 09:35:31
+Hôtel de Ville 1 09:40:31
+Hôtel de Ville 1 09:40:31
+Hôtel de Ville 1 09:45:31
+Hôtel de Ville 1 09:45:31
+Hôtel de Ville 1 09:50:31
+Hôtel de Ville 1 09:50:31
+Hôtel de Ville 1 09:55:31
+Hôtel de Ville 1 09:55:31
+Hôtel de Ville 1 10:00:31
+Hôtel de Ville 1 10:00:31
+Hôtel de Ville 1 10:05:31
+Hôtel de Ville 1 10:05:31
+Hôtel de Ville 1 10:10:31
+Hôtel de Ville 1 10:10:31
+Hôtel de Ville 1 10:15:31
+Hôtel de Ville 1 10:15:31
+Hôtel de Ville 1 10:20:31
+Hôtel de Ville 1 10:20:31
+Hôtel de Ville 1 10:25:31
+Hôtel de Ville 1 10:25:31
+Hôtel de Ville 1 10:30:31
+Hôtel de Ville 1 10:30:31
+Hôtel de Ville 1 10:35:31
+Hôtel de Ville 1 10:35:31
+Hôtel de Ville 1 10:40:31
+Hôtel de Ville 1 10:40:31
+Hôtel de Ville 1 10:45:31
+Hôtel de Ville 1 10:45:31
+Hôtel de Ville 1 10:50:31
+Hôtel de Ville 1 10:50:31
+Hôtel de Ville 1 10:55:31
+Hôtel de Ville 1 10:55:31
+Hôtel de Ville 1 11:00:31
+Hôtel de Ville 1 11:00:31
+Hôtel de Ville 1 11:05:31
+Hôtel de Ville 1 11:05:31
+Hôtel de Ville 1 11:10:31
+Hôtel de Ville 1 11:10:31
+Hôtel de Ville 1 11:15:31
+Hôtel de Ville 1 11:15:31
+Hôtel de Ville 1 11:20:31
+Hôtel de Ville 1 11:20:31
+Hôtel de Ville 1 11:25:31
+Hôtel de Ville 1 11:25:31
+Hôtel de Ville 1 11:30:31
+Hôtel de Ville 1 11:30:31
+Hôtel de Ville 1 11:35:31
+Hôtel de Ville 1 11:35:31
+Hôtel de Ville 1 11:40:31
+Hôtel de Ville 1 11:40:31
+Hôtel de Ville 1 11:45:31
+Hôtel de Ville 1 11:45:31
+Hôtel de Ville 1 11:50:31
+Hôtel de Ville 1 11:50:31
+Hôtel de Ville 1 11:55:31
+Hôtel de Ville 1 11:55:31
+Hôtel de Ville 1 12:00:31
+Hôtel de Ville 1 12:00:31
+Hôtel de Ville 1 12:05:31
+Hôtel de Ville 1 12:05:31
+Hôtel de Ville 1 12:10:31
+Hôtel de Ville 1 12:10:31
+Hôtel de Ville 1 12:15:31
+Hôtel de Ville 1 12:15:31
+Hôtel de Ville 1 12:20:31
+Hôtel de Ville 1 12:20:31
+Hôtel de Ville 1 12:25:31
+Hôtel de Ville 1 12:25:31
+Hôtel de Ville 1 12:30:31
+Hôtel de Ville 1 12:30:31
+Hôtel de Ville 1 12:35:29
+Hôtel de Ville 1 12:35:29
+Hôtel de Ville 1 12:40:29
+Hôtel de Ville 1 12:40:29
+Hôtel de Ville 1 12:45:29
+Hôtel de Ville 1 12:45:29
+Hôtel de Ville 1 12:50:29
+Hôtel de Ville 1 12:50:29
+Hôtel de Ville 1 12:55:29
+Hôtel de Ville 1 12:55:29
+Hôtel de Ville 1 13:00:29
+Hôtel de Ville 1 13:00:29
+Hôtel de Ville 1 13:05:29
+Hôtel de Ville 1 13:05:29
+Hôtel de Ville 1 13:10:29
+Hôtel de Ville 1 13:10:29
+Hôtel de Ville 1 13:15:29
+Hôtel de Ville 1 13:15:29
+Hôtel de Ville 1 13:20:29
+Hôtel de Ville 1 13:20:29
+Hôtel de Ville 1 13:25:29
+Hôtel de Ville 1 13:25:29
+Hôtel de Ville 1 13:30:29
+Hôtel de Ville 1 13:30:29
+Hôtel de Ville 1 13:35:29
+Hôtel de Ville 1 13:35:29
+Hôtel de Ville 1 13:40:29
+Hôtel de Ville 1 13:40:29
+Hôtel de Ville 1 13:45:29
+Hôtel de Ville 1 13:45:29
+Hôtel de Ville 1 13:50:29
+Hôtel de Ville 1 13:50:29
+Hôtel de Ville 1 13:55:29
+Hôtel de Ville 1 13:55:29
+Hôtel de Ville 1 14:00:29
+Hôtel de Ville 1 14:00:29
+Hôtel de Ville 1 14:05:29
+Hôtel de Ville 1 14:05:29
+Hôtel de Ville 1 14:10:29
+Hôtel de Ville 1 14:10:29
+Hôtel de Ville 1 14:15:29
+Hôtel de Ville 1 14:15:29
+Hôtel de Ville 1 14:20:29
+Hôtel de Ville 1 14:20:29
+Hôtel de Ville 1 14:25:29
+Hôtel de Ville 1 14:25:29
+Hôtel de Ville 1 14:30:29
+Hôtel de Ville 1 14:30:29
+Hôtel de Ville 1 14:35:41
+Hôtel de Ville 1 14:35:41
+Hôtel de Ville 1 14:40:41
+Hôtel de Ville 1 14:40:41
+Hôtel de Ville 1 14:45:41
+Hôtel de Ville 1 14:45:41
+Hôtel de Ville 1 14:50:41
+Hôtel de Ville 1 14:50:41
+Hôtel de Ville 1 14:55:41
+Hôtel de Ville 1 14:55:41
+Hôtel de Ville 1 15:00:41
+Hôtel de Ville 1 15:00:41
+Hôtel de Ville 1 15:05:41
+Hôtel de Ville 1 15:05:41
+Hôtel de Ville 1 15:10:41
+Hôtel de Ville 1 15:10:41
+Hôtel de Ville 1 15:15:41
+Hôtel de Ville 1 15:15:41
+Hôtel de Ville 1 15:20:41
+Hôtel de Ville 1 15:20:41
+Hôtel de Ville 1 15:25:41
+Hôtel de Ville 1 15:25:41
+Hôtel de Ville 1 15:30:41
+Hôtel de Ville 1 15:30:41
+Hôtel de Ville 1 15:35:41
+Hôtel de Ville 1 15:35:41
+Hôtel de Ville 1 15:40:41
+Hôtel de Ville 1 15:40:41
+Hôtel de Ville 1 15:45:41
+Hôtel de Ville 1 15:45:41
+Hôtel de Ville 1 15:50:41
+Hôtel de Ville 1 15:50:41
+Hôtel de Ville 1 15:55:41
+Hôtel de Ville 1 15:55:41
+Hôtel de Ville 1 16:00:41
+Hôtel de Ville 1 16:00:41
+Hôtel de Ville 1 16:05:43
+Hôtel de Ville 1 16:05:43
+Hôtel de Ville 1 16:10:43
+Hôtel de Ville 1 16:10:43
+Hôtel de Ville 1 16:15:43
+Hôtel de Ville 1 16:15:43
+Hôtel de Ville 1 16:20:43
+Hôtel de Ville 1 16:20:43
+Hôtel de Ville 1 16:25:43
+Hôtel de Ville 1 16:25:43
+Hôtel de Ville 1 16:30:43
+Hôtel de Ville 1 16:30:43
+Hôtel de Ville 1 16:35:43
+Hôtel de Ville 1 16:35:43
+Hôtel de Ville 1 16:40:43
+Hôtel de Ville 1 16:40:43
+Hôtel de Ville 1 16:45:43
+Hôtel de Ville 1 16:45:43
+Hôtel de Ville 1 16:50:43
+Hôtel de Ville 1 16:50:43
+Hôtel de Ville 1 16:55:43
+Hôtel de Ville 1 16:55:43
+Hôtel de Ville 1 17:00:43
+Hôtel de Ville 1 17:00:43
+Hôtel de Ville 1 17:05:39
+Hôtel de Ville 1 17:05:39
+Hôtel de Ville 1 17:10:39
+Hôtel de Ville 1 17:10:39
+Hôtel de Ville 1 17:15:39
+Hôtel de Ville 1 17:15:39
+Hôtel de Ville 1 17:20:39
+Hôtel de Ville 1 17:20:39
+Hôtel de Ville 1 17:25:39
+Hôtel de Ville 1 17:25:39
+Hôtel de Ville 1 17:30:39
+Hôtel de Ville 1 17:30:39
+Hôtel de Ville 1 17:35:39
+Hôtel de Ville 1 17:35:39
+Hôtel de Ville 1 17:40:39
+Hôtel de Ville 1 17:40:39
+Hôtel de Ville 1 17:45:39
+Hôtel de Ville 1 17:45:39
+Hôtel de Ville 1 17:50:39
+Hôtel de Ville 1 17:50:39
+Hôtel de Ville 1 17:55:39
+Hôtel de Ville 1 17:55:39
+Hôtel de Ville 1 18:00:39
+Hôtel de Ville 1 18:00:39
+Hôtel de Ville 1 18:05:39
+Hôtel de Ville 1 18:05:39
+Hôtel de Ville 1 18:10:39
+Hôtel de Ville 1 18:10:39
+Hôtel de Ville 1 18:15:39
+Hôtel de Ville 1 18:15:39
+Hôtel de Ville 1 18:20:39
+Hôtel de Ville 1 18:20:39
+Hôtel de Ville 1 18:24:39
+Hôtel de Ville 1 18:24:39
+Hôtel de Ville 1 18:29:39
+Hôtel de Ville 1 18:29:39
+Hôtel de Ville 1 18:34:39
+Hôtel de Ville 1 18:34:39
+Hôtel de Ville 1 18:38:39
+Hôtel de Ville 1 18:38:39
+Hôtel de Ville 1 18:43:39
+Hôtel de Ville 1 18:43:39
+Hôtel de Ville 1 18:48:39
+Hôtel de Ville 1 18:48:39
+Hôtel de Ville 1 18:53:39
+Hôtel de Ville 1 18:53:39
+Hôtel de Ville 1 18:58:39
+Hôtel de Ville 1 18:58:39
+Hôtel de Ville 1 19:04:39
+Hôtel de Ville 1 19:04:39
+Hôtel de Ville 1 19:11:39
+Hôtel de Ville 1 19:11:39
+Hôtel de Ville 1 19:18:39
+Hôtel de Ville 1 19:18:39
+Hôtel de Ville 1 19:25:39
+Hôtel de Ville 1 19:25:39
+Hôtel de Ville 1 19:32:39
+Hôtel de Ville 1 19:32:39
+Hôtel de Ville 1 19:39:39
+Hôtel de Ville 1 19:39:39
+Hôtel de Ville 1 19:46:39
+Hôtel de Ville 1 19:46:39
+Hôtel de Ville 1 19:53:39
+Hôtel de Ville 1 19:53:39
+Hôtel de Ville 1 20:00:39
+Hôtel de Ville 1 20:00:39
+Hôtel de Ville 1 20:07:39
+Hôtel de Ville 1 20:07:39
+Hôtel de Ville 1 20:14:39
+Hôtel de Ville 1 20:14:39
+Hôtel de Ville 1 20:24:39
+Hôtel de Ville 1 20:24:39
+Hôtel de Ville 1 20:35:39
+Hôtel de Ville 1 20:35:39
+Hôtel de Ville 1 20:47:39
+Hôtel de Ville 1 20:47:39
+Hôtel de Ville 1 21:00:39
+Hôtel de Ville 1 21:00:39
+Hôtel de Ville 1 21:12:39
+Hôtel de Ville 1 21:12:39
+Hôtel de Ville 1 21:28:39
+Hôtel de Ville 1 21:28:39
+Hôtel de Ville 1 21:42:39
+Hôtel de Ville 1 21:42:39
+Hôtel de Ville 1 21:58:39
+Hôtel de Ville 1 21:58:39
+Hôtel de Ville 1 22:12:21
+Hôtel de Ville 1 22:12:21
+Hôtel de Ville 1 22:28:21
+Hôtel de Ville 1 22:28:21
+Hôtel de Ville 1 22:42:21
+Hôtel de Ville 1 22:42:21
+Hôtel de Ville 1 22:58:21
+Hôtel de Ville 1 22:58:21
+Hôtel de Ville 1 23:12:21
+Hôtel de Ville 1 23:12:21
+Hôtel de Ville 1 23:28:21
+Hôtel de Ville 1 23:28:21
+Hôtel de Ville 1 23:42:21
+Hôtel de Ville 1 23:42:21
+Hôtel de Ville 1 23:58:21
+Hôtel de Ville 1 23:58:21
+Hôtel de Ville 1 24:12:21
+Hôtel de Ville 1 24:12:21
+Hôtel de Ville 2 04:45:55
+Hôtel de Ville 2 04:45:55
+Hôtel de Ville 2 05:04:15
+Hôtel de Ville 2 05:04:15
+Hôtel de Ville 2 05:20:16
+Hôtel de Ville 2 05:20:16
+Hôtel de Ville 2 05:38:15
+Hôtel de Ville 2 05:38:15
+Hôtel de Ville 2 05:49:15
+Hôtel de Ville 2 05:49:15
+Hôtel de Ville 2 05:59:16
+Hôtel de Ville 2 05:59:16
+Hôtel de Ville 2 06:07:31
+Hôtel de Ville 2 06:07:31
+Hôtel de Ville 2 06:20:29
+Hôtel de Ville 2 06:20:29
+Hôtel de Ville 2 06:26:39
+Hôtel de Ville 2 06:26:39
+Hôtel de Ville 2 06:33:35
+Hôtel de Ville 2 06:33:35
+Hôtel de Ville 2 06:38:35
+Hôtel de Ville 2 06:38:35
+Hôtel de Ville 2 06:43:35
+Hôtel de Ville 2 06:43:35
+Hôtel de Ville 2 06:48:39
+Hôtel de Ville 2 06:48:39
+Hôtel de Ville 2 06:53:35
+Hôtel de Ville 2 06:53:35
+Hôtel de Ville 2 06:58:35
+Hôtel de Ville 2 06:58:35
+Hôtel de Ville 2 07:03:46
+Hôtel de Ville 2 07:03:46
+Hôtel de Ville 2 07:09:30
+Hôtel de Ville 2 07:09:30
+Hôtel de Ville 2 07:13:45
+Hôtel de Ville 2 07:13:45
+Hôtel de Ville 2 07:19:07
+Hôtel de Ville 2 07:19:07
+Hôtel de Ville 2 07:24:04
+Hôtel de Ville 2 07:24:04
+Hôtel de Ville 2 07:29:04
+Hôtel de Ville 2 07:29:04
+Hôtel de Ville 2 07:33:23
+Hôtel de Ville 2 07:33:23
+Hôtel de Ville 2 07:38:04
+Hôtel de Ville 2 07:38:04
+Hôtel de Ville 2 07:42:23
+Hôtel de Ville 2 07:42:23
+Hôtel de Ville 2 07:47:04
+Hôtel de Ville 2 07:47:04
+Hôtel de Ville 2 07:52:23
+Hôtel de Ville 2 07:52:23
+Hôtel de Ville 2 07:57:04
+Hôtel de Ville 2 07:57:04
+Hôtel de Ville 2 08:02:23
+Hôtel de Ville 2 08:02:23
+Hôtel de Ville 2 08:07:04
+Hôtel de Ville 2 08:07:04
+Hôtel de Ville 2 08:12:23
+Hôtel de Ville 2 08:12:23
+Hôtel de Ville 2 08:17:04
+Hôtel de Ville 2 08:17:04
+Hôtel de Ville 2 08:22:23
+Hôtel de Ville 2 08:22:23
+Hôtel de Ville 2 08:27:04
+Hôtel de Ville 2 08:27:04
+Hôtel de Ville 2 08:32:23
+Hôtel de Ville 2 08:32:23
+Hôtel de Ville 2 08:37:04
+Hôtel de Ville 2 08:37:04
+Hôtel de Ville 2 08:42:23
+Hôtel de Ville 2 08:42:23
+Hôtel de Ville 2 08:47:04
+Hôtel de Ville 2 08:47:04
+Hôtel de Ville 2 08:52:23
+Hôtel de Ville 2 08:52:23
+Hôtel de Ville 2 08:57:04
+Hôtel de Ville 2 08:57:04
+Hôtel de Ville 2 09:02:23
+Hôtel de Ville 2 09:02:23
+Hôtel de Ville 2 09:07:04
+Hôtel de Ville 2 09:07:04
+Hôtel de Ville 2 09:12:23
+Hôtel de Ville 2 09:12:23
+Hôtel de Ville 2 09:17:04
+Hôtel de Ville 2 09:17:04
+Hôtel de Ville 2 09:22:23
+Hôtel de Ville 2 09:22:23
+Hôtel de Ville 2 09:27:04
+Hôtel de Ville 2 09:27:04
+Hôtel de Ville 2 09:32:23
+Hôtel de Ville 2 09:32:23
+Hôtel de Ville 2 09:37:04
+Hôtel de Ville 2 09:37:04
+Hôtel de Ville 2 09:42:23
+Hôtel de Ville 2 09:42:23
+Hôtel de Ville 2 09:47:04
+Hôtel de Ville 2 09:47:04
+Hôtel de Ville 2 09:52:23
+Hôtel de Ville 2 09:52:23
+Hôtel de Ville 2 09:57:04
+Hôtel de Ville 2 09:57:04
+Hôtel de Ville 2 10:02:23
+Hôtel de Ville 2 10:02:23
+Hôtel de Ville 2 10:07:04
+Hôtel de Ville 2 10:07:04
+Hôtel de Ville 2 10:12:23
+Hôtel de Ville 2 10:12:23
+Hôtel de Ville 2 10:17:04
+Hôtel de Ville 2 10:17:04
+Hôtel de Ville 2 10:22:23
+Hôtel de Ville 2 10:22:23
+Hôtel de Ville 2 10:27:04
+Hôtel de Ville 2 10:27:04
+Hôtel de Ville 2 10:32:23
+Hôtel de Ville 2 10:32:23
+Hôtel de Ville 2 10:37:04
+Hôtel de Ville 2 10:37:04
+Hôtel de Ville 2 10:42:23
+Hôtel de Ville 2 10:42:23
+Hôtel de Ville 2 10:47:04
+Hôtel de Ville 2 10:47:04
+Hôtel de Ville 2 10:52:23
+Hôtel de Ville 2 10:52:23
+Hôtel de Ville 2 10:57:04
+Hôtel de Ville 2 10:57:04
+Hôtel de Ville 2 11:02:23
+Hôtel de Ville 2 11:02:23
+Hôtel de Ville 2 11:07:04
+Hôtel de Ville 2 11:07:04
+Hôtel de Ville 2 11:11:23
+Hôtel de Ville 2 11:11:23
+Hôtel de Ville 2 11:16:41
+Hôtel de Ville 2 11:16:41
+Hôtel de Ville 2 11:21:23
+Hôtel de Ville 2 11:21:23
+Hôtel de Ville 2 11:26:30
+Hôtel de Ville 2 11:26:30
+Hôtel de Ville 2 11:31:23
+Hôtel de Ville 2 11:31:23
+Hôtel de Ville 2 11:36:30
+Hôtel de Ville 2 11:36:30
+Hôtel de Ville 2 11:41:23
+Hôtel de Ville 2 11:41:23
+Hôtel de Ville 2 11:46:30
+Hôtel de Ville 2 11:46:30
+Hôtel de Ville 2 11:51:23
+Hôtel de Ville 2 11:51:23
+Hôtel de Ville 2 11:56:30
+Hôtel de Ville 2 11:56:30
+Hôtel de Ville 2 12:01:23
+Hôtel de Ville 2 12:01:23
+Hôtel de Ville 2 12:06:30
+Hôtel de Ville 2 12:06:30
+Hôtel de Ville 2 12:11:23
+Hôtel de Ville 2 12:11:23
+Hôtel de Ville 2 12:16:30
+Hôtel de Ville 2 12:16:30
+Hôtel de Ville 2 12:21:23
+Hôtel de Ville 2 12:21:23
+Hôtel de Ville 2 12:26:30
+Hôtel de Ville 2 12:26:30
+Hôtel de Ville 2 12:31:23
+Hôtel de Ville 2 12:31:23
+Hôtel de Ville 2 12:36:30
+Hôtel de Ville 2 12:36:30
+Hôtel de Ville 2 12:41:23
+Hôtel de Ville 2 12:41:23
+Hôtel de Ville 2 12:46:30
+Hôtel de Ville 2 12:46:30
+Hôtel de Ville 2 12:51:23
+Hôtel de Ville 2 12:51:23
+Hôtel de Ville 2 12:56:30
+Hôtel de Ville 2 12:56:30
+Hôtel de Ville 2 13:01:23
+Hôtel de Ville 2 13:01:23
+Hôtel de Ville 2 13:06:30
+Hôtel de Ville 2 13:06:30
+Hôtel de Ville 2 13:11:23
+Hôtel de Ville 2 13:11:23
+Hôtel de Ville 2 13:16:30
+Hôtel de Ville 2 13:16:30
+Hôtel de Ville 2 13:21:23
+Hôtel de Ville 2 13:21:23
+Hôtel de Ville 2 13:26:30
+Hôtel de Ville 2 13:26:30
+Hôtel de Ville 2 13:31:23
+Hôtel de Ville 2 13:31:23
+Hôtel de Ville 2 13:36:30
+Hôtel de Ville 2 13:36:30
+Hôtel de Ville 2 13:41:23
+Hôtel de Ville 2 13:41:23
+Hôtel de Ville 2 13:47:08
+Hôtel de Ville 2 13:47:08
+Hôtel de Ville 2 13:52:23
+Hôtel de Ville 2 13:52:23
+Hôtel de Ville 2 13:57:13
+Hôtel de Ville 2 13:57:13
+Hôtel de Ville 2 14:02:23
+Hôtel de Ville 2 14:02:23
+Hôtel de Ville 2 14:07:13
+Hôtel de Ville 2 14:07:13
+Hôtel de Ville 2 14:12:23
+Hôtel de Ville 2 14:12:23
+Hôtel de Ville 2 14:17:13
+Hôtel de Ville 2 14:17:13
+Hôtel de Ville 2 14:22:23
+Hôtel de Ville 2 14:22:23
+Hôtel de Ville 2 14:27:13
+Hôtel de Ville 2 14:27:13
+Hôtel de Ville 2 14:32:23
+Hôtel de Ville 2 14:32:23
+Hôtel de Ville 2 14:37:13
+Hôtel de Ville 2 14:37:13
+Hôtel de Ville 2 14:42:23
+Hôtel de Ville 2 14:42:23
+Hôtel de Ville 2 14:47:13
+Hôtel de Ville 2 14:47:13
+Hôtel de Ville 2 14:52:23
+Hôtel de Ville 2 14:52:23
+Hôtel de Ville 2 14:57:13
+Hôtel de Ville 2 14:57:13
+Hôtel de Ville 2 15:02:23
+Hôtel de Ville 2 15:02:23
+Hôtel de Ville 2 15:07:13
+Hôtel de Ville 2 15:07:13
+Hôtel de Ville 2 15:12:23
+Hôtel de Ville 2 15:12:23
+Hôtel de Ville 2 15:17:13
+Hôtel de Ville 2 15:17:13
+Hôtel de Ville 2 15:22:23
+Hôtel de Ville 2 15:22:23
+Hôtel de Ville 2 15:27:13
+Hôtel de Ville 2 15:27:13
+Hôtel de Ville 2 15:32:23
+Hôtel de Ville 2 15:32:23
+Hôtel de Ville 2 15:37:13
+Hôtel de Ville 2 15:37:13
+Hôtel de Ville 2 15:42:23
+Hôtel de Ville 2 15:42:23
+Hôtel de Ville 2 15:47:13
+Hôtel de Ville 2 15:47:13
+Hôtel de Ville 2 15:52:23
+Hôtel de Ville 2 15:52:23
+Hôtel de Ville 2 15:57:13
+Hôtel de Ville 2 15:57:13
+Hôtel de Ville 2 16:02:23
+Hôtel de Ville 2 16:02:23
+Hôtel de Ville 2 16:07:13
+Hôtel de Ville 2 16:07:13
+Hôtel de Ville 2 16:12:23
+Hôtel de Ville 2 16:12:23
+Hôtel de Ville 2 16:17:13
+Hôtel de Ville 2 16:17:13
+Hôtel de Ville 2 16:22:23
+Hôtel de Ville 2 16:22:23
+Hôtel de Ville 2 16:27:13
+Hôtel de Ville 2 16:27:13
+Hôtel de Ville 2 16:32:23
+Hôtel de Ville 2 16:32:23
+Hôtel de Ville 2 16:37:13
+Hôtel de Ville 2 16:37:13
+Hôtel de Ville 2 16:42:23
+Hôtel de Ville 2 16:42:23
+Hôtel de Ville 2 16:47:13
+Hôtel de Ville 2 16:47:13
+Hôtel de Ville 2 16:52:23
+Hôtel de Ville 2 16:52:23
+Hôtel de Ville 2 16:57:13
+Hôtel de Ville 2 16:57:13
+Hôtel de Ville 2 17:02:23
+Hôtel de Ville 2 17:02:23
+Hôtel de Ville 2 17:07:13
+Hôtel de Ville 2 17:07:13
+Hôtel de Ville 2 17:12:23
+Hôtel de Ville 2 17:12:23
+Hôtel de Ville 2 17:17:13
+Hôtel de Ville 2 17:17:13
+Hôtel de Ville 2 17:22:53
+Hôtel de Ville 2 17:22:53
+Hôtel de Ville 2 17:27:13
+Hôtel de Ville 2 17:27:13
+Hôtel de Ville 2 17:32:56
+Hôtel de Ville 2 17:32:56
+Hôtel de Ville 2 17:37:13
+Hôtel de Ville 2 17:37:13
+Hôtel de Ville 2 17:42:50
+Hôtel de Ville 2 17:42:50
+Hôtel de Ville 2 17:47:06
+Hôtel de Ville 2 17:47:06
+Hôtel de Ville 2 17:52:37
+Hôtel de Ville 2 17:52:37
+Hôtel de Ville 2 17:57:06
+Hôtel de Ville 2 17:57:06
+Hôtel de Ville 2 18:01:55
+Hôtel de Ville 2 18:01:55
+Hôtel de Ville 2 18:07:06
+Hôtel de Ville 2 18:07:06
+Hôtel de Ville 2 18:11:52
+Hôtel de Ville 2 18:11:52
+Hôtel de Ville 2 18:16:24
+Hôtel de Ville 2 18:16:24
+Hôtel de Ville 2 18:21:52
+Hôtel de Ville 2 18:21:52
+Hôtel de Ville 2 18:26:18
+Hôtel de Ville 2 18:26:18
+Hôtel de Ville 2 18:30:52
+Hôtel de Ville 2 18:30:52
+Hôtel de Ville 2 18:36:18
+Hôtel de Ville 2 18:36:18
+Hôtel de Ville 2 18:41:52
+Hôtel de Ville 2 18:41:52
+Hôtel de Ville 2 18:46:18
+Hôtel de Ville 2 18:46:18
+Hôtel de Ville 2 18:51:52
+Hôtel de Ville 2 18:51:52
+Hôtel de Ville 2 18:58:18
+Hôtel de Ville 2 18:58:18
+Hôtel de Ville 2 19:05:52
+Hôtel de Ville 2 19:05:52
+Hôtel de Ville 2 19:12:18
+Hôtel de Ville 2 19:12:18
+Hôtel de Ville 2 19:18:31
+Hôtel de Ville 2 19:18:31
+Hôtel de Ville 2 19:27:18
+Hôtel de Ville 2 19:27:18
+Hôtel de Ville 2 19:34:55
+Hôtel de Ville 2 19:34:55
+Hôtel de Ville 2 19:41:18
+Hôtel de Ville 2 19:41:18
+Hôtel de Ville 2 19:47:55
+Hôtel de Ville 2 19:47:55
+Hôtel de Ville 2 19:54:18
+Hôtel de Ville 2 19:54:18
+Hôtel de Ville 2 20:01:55
+Hôtel de Ville 2 20:01:55
+Hôtel de Ville 2 20:10:18
+Hôtel de Ville 2 20:10:18
+Hôtel de Ville 2 20:17:55
+Hôtel de Ville 2 20:17:55
+Hôtel de Ville 2 20:28:55
+Hôtel de Ville 2 20:28:55
+Hôtel de Ville 2 20:41:18
+Hôtel de Ville 2 20:41:18
+Hôtel de Ville 2 20:54:55
+Hôtel de Ville 2 20:54:55
+Hôtel de Ville 2 21:12:18
+Hôtel de Ville 2 21:12:18
+Hôtel de Ville 2 21:28:55
+Hôtel de Ville 2 21:28:55
+Hôtel de Ville 2 21:42:08
+Hôtel de Ville 2 21:42:08
+Hôtel de Ville 2 21:58:55
+Hôtel de Ville 2 21:58:55
+Hôtel de Ville 2 22:12:08
+Hôtel de Ville 2 22:12:08
+Hôtel de Ville 2 22:28:55
+Hôtel de Ville 2 22:28:55
+Hôtel de Ville 2 22:42:08
+Hôtel de Ville 2 22:42:08
+Hôtel de Ville 2 22:58:55
+Hôtel de Ville 2 22:58:55
+Hôtel de Ville 2 23:12:08
+Hôtel de Ville 2 23:12:08
+Hôtel de Ville 2 23:28:55
+Hôtel de Ville 2 23:28:55
+Hôtel de Ville 2 23:42:08
+Hôtel de Ville 2 23:42:08
+Hôtel de Ville 2 23:58:55
+Hôtel de Ville 2 23:58:55
+Place Jenner A 1 05:08:50
+Place Jenner A 1 05:08:50
+Place Jenner A 1 05:51:35
+Place Jenner A 1 05:51:35
+Place Jenner A 1 06:14:35
+Place Jenner A 1 06:14:35
+Place Jenner A 1 06:35:35
+Place Jenner A 1 06:35:35
+Place Jenner A 1 06:49:35
+Place Jenner A 1 06:49:35
+Place Jenner A 1 07:00:35
+Place Jenner A 1 07:00:35
+Place Jenner A 1 07:10:38
+Place Jenner A 1 07:10:38
+Place Jenner A 1 07:20:43
+Place Jenner A 1 07:20:43
+Place Jenner A 1 07:30:43
+Place Jenner A 1 07:30:43
+Place Jenner A 1 07:40:43
+Place Jenner A 1 07:40:43
+Place Jenner A 1 07:50:43
+Place Jenner A 1 07:50:43
+Place Jenner A 1 08:00:43
+Place Jenner A 1 08:00:43
+Place Jenner A 1 08:10:43
+Place Jenner A 1 08:10:43
+Place Jenner A 1 08:20:43
+Place Jenner A 1 08:20:43
+Place Jenner A 1 08:30:43
+Place Jenner A 1 08:30:43
+Place Jenner A 1 08:40:43
+Place Jenner A 1 08:40:43
+Place Jenner A 1 08:50:43
+Place Jenner A 1 08:50:43
+Place Jenner A 1 09:00:43
+Place Jenner A 1 09:00:43
+Place Jenner A 1 09:10:43
+Place Jenner A 1 09:10:43
+Place Jenner A 1 09:20:43
+Place Jenner A 1 09:20:43
+Place Jenner A 1 09:30:43
+Place Jenner A 1 09:30:43
+Place Jenner A 1 09:40:43
+Place Jenner A 1 09:40:43
+Place Jenner A 1 09:50:43
+Place Jenner A 1 09:50:43
+Place Jenner A 1 10:00:43
+Place Jenner A 1 10:00:43
+Place Jenner A 1 10:10:43
+Place Jenner A 1 10:10:43
+Place Jenner A 1 10:20:43
+Place Jenner A 1 10:20:43
+Place Jenner A 1 10:30:43
+Place Jenner A 1 10:30:43
+Place Jenner A 1 10:40:43
+Place Jenner A 1 10:40:43
+Place Jenner A 1 10:50:43
+Place Jenner A 1 10:50:43
+Place Jenner A 1 11:00:43
+Place Jenner A 1 11:00:43
+Place Jenner A 1 11:10:43
+Place Jenner A 1 11:10:43
+Place Jenner A 1 11:20:43
+Place Jenner A 1 11:20:43
+Place Jenner A 1 11:30:43
+Place Jenner A 1 11:30:43
+Place Jenner A 1 11:40:43
+Place Jenner A 1 11:40:43
+Place Jenner A 1 11:50:43
+Place Jenner A 1 11:50:43
+Place Jenner A 1 12:00:43
+Place Jenner A 1 12:00:43
+Place Jenner A 1 12:10:43
+Place Jenner A 1 12:10:43
+Place Jenner A 1 12:20:43
+Place Jenner A 1 12:20:43
+Place Jenner A 1 12:30:43
+Place Jenner A 1 12:30:43
+Place Jenner A 1 12:39:58
+Place Jenner A 1 12:39:58
+Place Jenner A 1 12:49:56
+Place Jenner A 1 12:49:56
+Place Jenner A 1 12:59:56
+Place Jenner A 1 12:59:56
+Place Jenner A 1 13:09:56
+Place Jenner A 1 13:09:56
+Place Jenner A 1 13:19:56
+Place Jenner A 1 13:19:56
+Place Jenner A 1 13:29:56
+Place Jenner A 1 13:29:56
+Place Jenner A 1 13:39:56
+Place Jenner A 1 13:39:56
+Place Jenner A 1 13:49:56
+Place Jenner A 1 13:49:56
+Place Jenner A 1 13:59:56
+Place Jenner A 1 13:59:56
+Place Jenner A 1 14:09:56
+Place Jenner A 1 14:09:56
+Place Jenner A 1 14:19:56
+Place Jenner A 1 14:19:56
+Place Jenner A 1 14:29:56
+Place Jenner A 1 14:29:56
+Place Jenner A 1 14:40:47
+Place Jenner A 1 14:40:47
+Place Jenner A 1 14:50:59
+Place Jenner A 1 14:50:59
+Place Jenner A 1 15:00:59
+Place Jenner A 1 15:00:59
+Place Jenner A 1 15:10:59
+Place Jenner A 1 15:10:59
+Place Jenner A 1 15:20:59
+Place Jenner A 1 15:20:59
+Place Jenner A 1 15:30:59
+Place Jenner A 1 15:30:59
+Place Jenner A 1 15:40:59
+Place Jenner A 1 15:40:59
+Place Jenner A 1 15:50:59
+Place Jenner A 1 15:50:59
+Place Jenner A 1 16:00:59
+Place Jenner A 1 16:00:59
+Place Jenner A 1 16:11:31
+Place Jenner A 1 16:11:31
+Place Jenner A 1 16:21:33
+Place Jenner A 1 16:21:33
+Place Jenner A 1 16:31:33
+Place Jenner A 1 16:31:33
+Place Jenner A 1 16:41:33
+Place Jenner A 1 16:41:33
+Place Jenner A 1 16:51:33
+Place Jenner A 1 16:51:33
+Place Jenner A 1 17:01:33
+Place Jenner A 1 17:01:33
+Place Jenner A 1 17:10:41
+Place Jenner A 1 17:10:41
+Place Jenner A 1 17:20:37
+Place Jenner A 1 17:20:37
+Place Jenner A 1 17:30:37
+Place Jenner A 1 17:30:37
+Place Jenner A 1 17:40:37
+Place Jenner A 1 17:40:37
+Place Jenner A 1 17:50:37
+Place Jenner A 1 17:50:37
+Place Jenner A 1 18:00:37
+Place Jenner A 1 18:00:37
+Place Jenner A 1 18:10:45
+Place Jenner A 1 18:10:45
+Place Jenner A 1 18:20:45
+Place Jenner A 1 18:20:45
+Place Jenner A 1 18:25:45
+Place Jenner A 1 18:25:45
+Place Jenner A 1 18:34:45
+Place Jenner A 1 18:34:45
+Place Jenner A 1 18:44:45
+Place Jenner A 1 18:44:45
+Place Jenner A 1 18:53:45
+Place Jenner A 1 18:53:45
+Place Jenner A 1 18:58:45
+Place Jenner A 1 18:58:45
+Place Jenner A 1 19:08:45
+Place Jenner A 1 19:08:45
+Place Jenner A 1 19:21:45
+Place Jenner A 1 19:21:45
+Place Jenner A 1 19:25:46
+Place Jenner A 1 19:35:45
+Place Jenner A 1 19:35:45
+Place Jenner A 1 19:49:45
+Place Jenner A 1 19:49:45
+Place Jenner A 1 19:56:45
+Place Jenner A 1 19:56:45
+Place Jenner A 1 20:10:45
+Place Jenner A 1 20:10:45
+Place Jenner A 1 20:24:45
+Place Jenner A 1 20:24:45
+Place Jenner A 1 20:45:45
+Place Jenner A 1 20:45:45
+Place Jenner A 1 20:57:45
+Place Jenner A 1 20:57:45
+Place Jenner A 1 21:06:46
+Place Jenner A 1 21:28:45
+Place Jenner A 1 21:28:45
+Place Jenner A 1 21:58:45
+Place Jenner A 1 21:58:45
+Place Jenner A 1 22:28:24
+Place Jenner A 1 22:28:24
+Place Jenner A 1 22:58:24
+Place Jenner A 1 22:58:24
+Place Jenner A 1 23:28:24
+Place Jenner A 1 23:28:24
+Place Jenner A 1 23:58:24
+Place Jenner A 1 23:58:24
+Place Jenner A 1 24:22:54
+Place Jenner A 1 24:28:24
+Place Jenner A 1 24:28:24
+Place Jenner A 1 24:52:54
+Place Jenner A 2 04:18:23
+Place Jenner A 2 04:36:03
+Place Jenner A 2 04:54:23
+Place Jenner A 2 05:02:23
+Place Jenner A 2 05:28:23
+Place Jenner A 2 05:39:23
+Place Jenner A 2 05:57:23
+Place Jenner A 2 06:05:37
+Place Jenner A 2 06:10:43
+Place Jenner A 2 06:23:49
+Place Jenner A 2 06:28:49
+Place Jenner A 2 06:33:49
+Place Jenner A 2 06:43:49
+Place Jenner A 2 06:48:49
+Place Jenner A 2 06:59:49
+Place Jenner A 2 07:04:04
+Place Jenner A 2 07:14:23
+Place Jenner A 2 07:19:23
+Place Jenner A 2 07:28:23
+Place Jenner A 2 07:37:23
+Place Jenner A 2 07:47:23
+Place Jenner A 2 07:57:23
+Place Jenner A 2 08:07:23
+Place Jenner A 2 08:17:23
+Place Jenner A 2 08:27:23
+Place Jenner A 2 08:37:23
+Place Jenner A 2 08:47:23
+Place Jenner A 2 08:57:23
+Place Jenner A 2 09:07:23
+Place Jenner A 2 09:17:23
+Place Jenner A 2 09:27:23
+Place Jenner A 2 09:37:23
+Place Jenner A 2 09:47:23
+Place Jenner A 2 09:57:23
+Place Jenner A 2 10:07:23
+Place Jenner A 2 10:17:23
+Place Jenner A 2 10:27:23
+Place Jenner A 2 10:37:23
+Place Jenner A 2 10:47:23
+Place Jenner A 2 10:57:23
+Place Jenner A 2 11:07:06
+Place Jenner A 2 11:16:55
+Place Jenner A 2 11:26:55
+Place Jenner A 2 11:36:55
+Place Jenner A 2 11:46:55
+Place Jenner A 2 11:56:55
+Place Jenner A 2 12:06:55
+Place Jenner A 2 12:16:55
+Place Jenner A 2 12:26:55
+Place Jenner A 2 12:36:55
+Place Jenner A 2 12:46:55
+Place Jenner A 2 12:56:55
+Place Jenner A 2 13:06:55
+Place Jenner A 2 13:16:55
+Place Jenner A 2 13:26:55
+Place Jenner A 2 13:37:21
+Place Jenner A 2 13:47:26
+Place Jenner A 2 13:57:26
+Place Jenner A 2 14:07:26
+Place Jenner A 2 14:17:26
+Place Jenner A 2 14:27:26
+Place Jenner A 2 14:37:26
+Place Jenner A 2 14:47:26
+Place Jenner A 2 14:57:26
+Place Jenner A 2 15:07:26
+Place Jenner A 2 15:17:26
+Place Jenner A 2 15:27:26
+Place Jenner A 2 15:37:26
+Place Jenner A 2 15:47:26
+Place Jenner A 2 15:57:26
+Place Jenner A 2 16:07:26
+Place Jenner A 2 16:17:26
+Place Jenner A 2 16:27:26
+Place Jenner A 2 16:37:26
+Place Jenner A 2 16:47:26
+Place Jenner A 2 16:57:26
+Place Jenner A 2 17:07:26
+Place Jenner A 2 17:17:26
+Place Jenner A 2 17:27:26
+Place Jenner A 2 17:37:26
+Place Jenner A 2 17:47:26
+Place Jenner A 2 17:57:26
+Place Jenner A 2 18:06:50
+Place Jenner A 2 18:16:44
+Place Jenner A 2 18:26:44
+Place Jenner A 2 18:36:44
+Place Jenner A 2 18:48:44
+Place Jenner A 2 19:02:44
+Place Jenner A 2 19:17:44
+Place Jenner A 2 19:31:44
+Place Jenner A 2 19:44:44
+Place Jenner A 2 20:00:44
+Place Jenner A 2 20:31:44
+Place Jenner A 2 21:02:44
+Place Jenner A 2 21:32:34
+Place Jenner A 2 22:02:34
+Place Jenner A 2 22:32:34
+Place Jenner A 2 23:02:34
+Place Jenner A 2 23:32:34
+Place Jenner B 1 04:31:01
+Place Jenner B 1 05:14:46
+Place Jenner B 1 05:33:23
+Place Jenner B 1 06:02:23
+Place Jenner B 1 06:17:46
+Place Jenner B 1 06:26:23
+Place Jenner B 1 06:44:23
+Place Jenner B 1 06:55:23
+Place Jenner B 1 07:05:34
+Place Jenner B 1 07:15:50
+Place Jenner B 1 07:25:50
+Place Jenner B 1 07:35:50
+Place Jenner B 1 07:45:50
+Place Jenner B 1 07:55:50
+Place Jenner B 1 08:05:50
+Place Jenner B 1 08:15:50
+Place Jenner B 1 08:25:50
+Place Jenner B 1 08:35:50
+Place Jenner B 1 08:45:50
+Place Jenner B 1 08:55:50
+Place Jenner B 1 09:05:50
+Place Jenner B 1 09:15:50
+Place Jenner B 1 09:25:50
+Place Jenner B 1 09:35:50
+Place Jenner B 1 09:45:50
+Place Jenner B 1 09:55:50
+Place Jenner B 1 10:05:50
+Place Jenner B 1 10:15:50
+Place Jenner B 1 10:25:50
+Place Jenner B 1 10:35:50
+Place Jenner B 1 10:45:50
+Place Jenner B 1 10:55:50
+Place Jenner B 1 11:05:50
+Place Jenner B 1 11:15:50
+Place Jenner B 1 11:25:50
+Place Jenner B 1 11:35:50
+Place Jenner B 1 11:45:50
+Place Jenner B 1 11:55:50
+Place Jenner B 1 12:05:50
+Place Jenner B 1 12:15:50
+Place Jenner B 1 12:25:50
+Place Jenner B 1 12:35:17
+Place Jenner B 1 12:45:04
+Place Jenner B 1 12:55:04
+Place Jenner B 1 13:05:04
+Place Jenner B 1 13:15:04
+Place Jenner B 1 13:25:04
+Place Jenner B 1 13:35:04
+Place Jenner B 1 13:45:04
+Place Jenner B 1 13:55:04
+Place Jenner B 1 14:05:04
+Place Jenner B 1 14:15:04
+Place Jenner B 1 14:25:04
+Place Jenner B 1 14:35:22
+Place Jenner B 1 14:46:05
+Place Jenner B 1 14:56:05
+Place Jenner B 1 15:06:05
+Place Jenner B 1 15:16:05
+Place Jenner B 1 15:26:05
+Place Jenner B 1 15:36:05
+Place Jenner B 1 15:46:05
+Place Jenner B 1 15:56:05
+Place Jenner B 1 16:06:25
+Place Jenner B 1 16:16:37
+Place Jenner B 1 16:26:37
+Place Jenner B 1 16:36:37
+Place Jenner B 1 16:46:37
+Place Jenner B 1 16:56:37
+Place Jenner B 1 17:06:07
+Place Jenner B 1 17:15:47
+Place Jenner B 1 17:25:47
+Place Jenner B 1 17:35:47
+Place Jenner B 1 17:45:47
+Place Jenner B 1 17:55:47
+Place Jenner B 1 18:05:47
+Place Jenner B 1 18:15:47
+Place Jenner B 1 18:30:47
+Place Jenner B 1 18:39:47
+Place Jenner B 1 18:48:47
+Place Jenner B 1 19:03:47
+Place Jenner B 1 19:14:47
+Place Jenner B 1 19:28:47
+Place Jenner B 1 19:42:47
+Place Jenner B 1 20:03:47
+Place Jenner B 1 20:17:47
+Place Jenner B 1 20:34:47
+Place Jenner B 1 21:10:47
+Place Jenner B 1 21:38:47
+Place Jenner B 1 22:08:36
+Place Jenner B 1 22:38:15
+Place Jenner B 1 23:08:15
+Place Jenner B 1 23:38:15
+Place Jenner B 1 24:08:15
+Place Jenner B 2 05:10:38
+Place Jenner B 2 05:49:38
+Place Jenner B 2 06:16:42
+Place Jenner B 2 06:38:42
+Place Jenner B 2 06:53:42
+Place Jenner B 2 07:08:59
+Place Jenner B 2 07:23:15
+Place Jenner B 2 07:32:15
+Place Jenner B 2 07:42:15
+Place Jenner B 2 07:52:15
+Place Jenner B 2 08:02:15
+Place Jenner B 2 08:12:15
+Place Jenner B 2 08:22:15
+Place Jenner B 2 08:32:15
+Place Jenner B 2 08:42:15
+Place Jenner B 2 08:52:15
+Place Jenner B 2 09:02:15
+Place Jenner B 2 09:12:15
+Place Jenner B 2 09:22:15
+Place Jenner B 2 09:32:15
+Place Jenner B 2 09:42:15
+Place Jenner B 2 09:52:15
+Place Jenner B 2 10:02:15
+Place Jenner B 2 10:12:15
+Place Jenner B 2 10:22:15
+Place Jenner B 2 10:32:15
+Place Jenner B 2 10:42:15
+Place Jenner B 2 10:52:15
+Place Jenner B 2 11:01:15
+Place Jenner B 2 11:11:15
+Place Jenner B 2 11:21:15
+Place Jenner B 2 11:31:15
+Place Jenner B 2 11:41:15
+Place Jenner B 2 11:51:15
+Place Jenner B 2 12:01:15
+Place Jenner B 2 12:11:15
+Place Jenner B 2 12:21:15
+Place Jenner B 2 12:31:15
+Place Jenner B 2 12:41:15
+Place Jenner B 2 12:51:15
+Place Jenner B 2 13:01:15
+Place Jenner B 2 13:11:15
+Place Jenner B 2 13:21:15
+Place Jenner B 2 13:31:15
+Place Jenner B 2 13:42:15
+Place Jenner B 2 13:52:15
+Place Jenner B 2 14:02:15
+Place Jenner B 2 14:12:15
+Place Jenner B 2 14:22:15
+Place Jenner B 2 14:32:15
+Place Jenner B 2 14:42:15
+Place Jenner B 2 14:52:15
+Place Jenner B 2 15:02:15
+Place Jenner B 2 15:12:15
+Place Jenner B 2 15:22:15
+Place Jenner B 2 15:32:15
+Place Jenner B 2 15:42:15
+Place Jenner B 2 15:52:15
+Place Jenner B 2 16:02:15
+Place Jenner B 2 16:12:15
+Place Jenner B 2 16:22:15
+Place Jenner B 2 16:32:15
+Place Jenner B 2 16:42:15
+Place Jenner B 2 16:52:15
+Place Jenner B 2 17:02:15
+Place Jenner B 2 17:12:45
+Place Jenner B 2 17:22:48
+Place Jenner B 2 17:32:48
+Place Jenner B 2 17:42:36
+Place Jenner B 2 17:51:54
+Place Jenner B 2 18:01:51
+Place Jenner B 2 18:11:51
+Place Jenner B 2 18:20:51
+Place Jenner B 2 18:31:51
+Place Jenner B 2 18:41:51
+Place Jenner B 2 18:55:51
+Place Jenner B 2 19:08:38
+Place Jenner B 2 19:13:16
+Place Jenner B 2 19:25:02
+Place Jenner B 2 19:38:02
+Place Jenner B 2 19:52:02
+Place Jenner B 2 20:08:02
+Place Jenner B 2 20:19:02
+Place Jenner B 2 20:45:02
+Place Jenner B 2 20:54:02
+Place Jenner B 2 21:19:02
+Place Jenner B 2 21:49:02
+Place Jenner B 2 22:19:02
+Place Jenner B 2 22:49:02
+Place Jenner B 2 23:19:02
+Place Jenner B 2 23:49:02
+Mare Au Clerc 1 05:15:58
+Mare Au Clerc 1 05:53:43
+Mare Au Clerc 1 06:16:43
+Mare Au Clerc 1 06:37:43
+Mare Au Clerc 1 06:51:43
+Mare Au Clerc 1 07:03:07
+Mare Au Clerc 1 07:13:10
+Mare Au Clerc 1 07:23:15
+Mare Au Clerc 1 07:33:15
+Mare Au Clerc 1 07:43:15
+Mare Au Clerc 1 07:53:15
+Mare Au Clerc 1 08:03:15
+Mare Au Clerc 1 08:13:15
+Mare Au Clerc 1 08:23:15
+Mare Au Clerc 1 08:33:15
+Mare Au Clerc 1 08:43:15
+Mare Au Clerc 1 08:53:15
+Mare Au Clerc 1 09:03:15
+Mare Au Clerc 1 09:13:15
+Mare Au Clerc 1 09:23:15
+Mare Au Clerc 1 09:33:15
+Mare Au Clerc 1 09:43:15
+Mare Au Clerc 1 09:53:15
+Mare Au Clerc 1 10:03:15
+Mare Au Clerc 1 10:13:15
+Mare Au Clerc 1 10:23:15
+Mare Au Clerc 1 10:33:15
+Mare Au Clerc 1 10:43:15
+Mare Au Clerc 1 10:53:15
+Mare Au Clerc 1 11:03:15
+Mare Au Clerc 1 11:13:15
+Mare Au Clerc 1 11:23:15
+Mare Au Clerc 1 11:33:15
+Mare Au Clerc 1 11:43:15
+Mare Au Clerc 1 11:53:15
+Mare Au Clerc 1 12:03:15
+Mare Au Clerc 1 12:13:15
+Mare Au Clerc 1 12:23:15
+Mare Au Clerc 1 12:33:00
+Mare Au Clerc 1 12:42:15
+Mare Au Clerc 1 12:52:13
+Mare Au Clerc 1 13:02:13
+Mare Au Clerc 1 13:12:13
+Mare Au Clerc 1 13:22:13
+Mare Au Clerc 1 13:32:13
+Mare Au Clerc 1 13:42:13
+Mare Au Clerc 1 13:52:13
+Mare Au Clerc 1 14:02:13
+Mare Au Clerc 1 14:12:13
+Mare Au Clerc 1 14:22:13
+Mare Au Clerc 1 14:32:13
+Mare Au Clerc 1 14:43:19
+Mare Au Clerc 1 14:53:31
+Mare Au Clerc 1 15:03:31
+Mare Au Clerc 1 15:13:31
+Mare Au Clerc 1 15:23:31
+Mare Au Clerc 1 15:33:31
+Mare Au Clerc 1 15:43:31
+Mare Au Clerc 1 15:53:31
+Mare Au Clerc 1 16:03:09
+Mare Au Clerc 1 16:13:41
+Mare Au Clerc 1 16:23:43
+Mare Au Clerc 1 16:33:43
+Mare Au Clerc 1 16:43:43
+Mare Au Clerc 1 16:53:43
+Mare Au Clerc 1 17:03:50
+Mare Au Clerc 1 17:12:58
+Mare Au Clerc 1 17:22:54
+Mare Au Clerc 1 17:32:54
+Mare Au Clerc 1 17:42:54
+Mare Au Clerc 1 17:52:54
+Mare Au Clerc 1 18:03:00
+Mare Au Clerc 1 18:13:08
+Mare Au Clerc 1 18:23:08
+Mare Au Clerc 1 18:28:08
+Mare Au Clerc 1 18:37:08
+Mare Au Clerc 1 18:47:08
+Mare Au Clerc 1 18:56:08
+Mare Au Clerc 1 19:01:08
+Mare Au Clerc 1 19:11:08
+Mare Au Clerc 1 19:24:08
+Mare Au Clerc 1 19:28:09
+Mare Au Clerc 1 19:38:08
+Mare Au Clerc 1 19:52:08
+Mare Au Clerc 1 19:59:08
+Mare Au Clerc 1 20:13:08
+Mare Au Clerc 1 20:27:08
+Mare Au Clerc 1 20:48:08
+Mare Au Clerc 1 21:00:08
+Mare Au Clerc 1 21:09:09
+Mare Au Clerc 1 21:31:08
+Mare Au Clerc 1 22:01:08
+Mare Au Clerc 1 22:30:41
+Mare Au Clerc 1 23:00:41
+Mare Au Clerc 1 23:30:41
+Mare Au Clerc 1 24:00:41
+Mare Au Clerc 1 24:25:11
+Mare Au Clerc 1 24:30:41
+Mare Au Clerc 1 24:55:11
+Mare Au Clerc 2 04:15:56
+Mare Au Clerc 2 04:33:36
+Mare Au Clerc 2 04:51:56
+Mare Au Clerc 2 04:59:56
+Mare Au Clerc 2 05:25:56
+Mare Au Clerc 2 05:36:56
+Mare Au Clerc 2 05:54:56
+Mare Au Clerc 2 06:02:56
+Mare Au Clerc 2 06:08:02
+Mare Au Clerc 2 06:21:08
+Mare Au Clerc 2 06:26:08
+Mare Au Clerc 2 06:31:08
+Mare Au Clerc 2 06:41:08
+Mare Au Clerc 2 06:46:08
+Mare Au Clerc 2 06:57:08
+Mare Au Clerc 2 07:01:08
+Mare Au Clerc 2 07:11:27
+Mare Au Clerc 2 07:16:27
+Mare Au Clerc 2 07:25:27
+Mare Au Clerc 2 07:34:27
+Mare Au Clerc 2 07:44:27
+Mare Au Clerc 2 07:54:27
+Mare Au Clerc 2 08:04:27
+Mare Au Clerc 2 08:14:27
+Mare Au Clerc 2 08:24:27
+Mare Au Clerc 2 08:34:27
+Mare Au Clerc 2 08:44:27
+Mare Au Clerc 2 08:54:27
+Mare Au Clerc 2 09:04:27
+Mare Au Clerc 2 09:14:27
+Mare Au Clerc 2 09:24:27
+Mare Au Clerc 2 09:34:27
+Mare Au Clerc 2 09:44:27
+Mare Au Clerc 2 09:54:27
+Mare Au Clerc 2 10:04:27
+Mare Au Clerc 2 10:14:27
+Mare Au Clerc 2 10:24:27
+Mare Au Clerc 2 10:34:27
+Mare Au Clerc 2 10:44:27
+Mare Au Clerc 2 10:54:27
+Mare Au Clerc 2 11:04:27
+Mare Au Clerc 2 11:14:16
+Mare Au Clerc 2 11:24:16
+Mare Au Clerc 2 11:34:16
+Mare Au Clerc 2 11:44:16
+Mare Au Clerc 2 11:54:16
+Mare Au Clerc 2 12:04:16
+Mare Au Clerc 2 12:14:16
+Mare Au Clerc 2 12:24:16
+Mare Au Clerc 2 12:34:16
+Mare Au Clerc 2 12:44:16
+Mare Au Clerc 2 12:54:16
+Mare Au Clerc 2 13:04:16
+Mare Au Clerc 2 13:14:16
+Mare Au Clerc 2 13:24:16
+Mare Au Clerc 2 13:34:35
+Mare Au Clerc 2 13:44:40
+Mare Au Clerc 2 13:54:40
+Mare Au Clerc 2 14:04:40
+Mare Au Clerc 2 14:14:40
+Mare Au Clerc 2 14:24:40
+Mare Au Clerc 2 14:34:40
+Mare Au Clerc 2 14:44:40
+Mare Au Clerc 2 14:54:40
+Mare Au Clerc 2 15:04:40
+Mare Au Clerc 2 15:14:40
+Mare Au Clerc 2 15:24:40
+Mare Au Clerc 2 15:34:40
+Mare Au Clerc 2 15:44:40
+Mare Au Clerc 2 15:54:40
+Mare Au Clerc 2 16:04:40
+Mare Au Clerc 2 16:14:40
+Mare Au Clerc 2 16:24:40
+Mare Au Clerc 2 16:34:40
+Mare Au Clerc 2 16:44:40
+Mare Au Clerc 2 16:54:40
+Mare Au Clerc 2 17:04:40
+Mare Au Clerc 2 17:14:40
+Mare Au Clerc 2 17:24:40
+Mare Au Clerc 2 17:34:40
+Mare Au Clerc 2 17:44:40
+Mare Au Clerc 2 17:54:40
+Mare Au Clerc 2 18:04:09
+Mare Au Clerc 2 18:14:03
+Mare Au Clerc 2 18:24:03
+Mare Au Clerc 2 18:34:03
+Mare Au Clerc 2 18:46:03
+Mare Au Clerc 2 19:00:03
+Mare Au Clerc 2 19:15:03
+Mare Au Clerc 2 19:29:03
+Mare Au Clerc 2 19:42:03
+Mare Au Clerc 2 19:58:03
+Mare Au Clerc 2 20:29:03
+Mare Au Clerc 2 21:00:03
+Mare Au Clerc 2 21:29:53
+Mare Au Clerc 2 21:59:53
+Mare Au Clerc 2 22:29:53
+Mare Au Clerc 2 22:59:53
+Mare Au Clerc 2 23:29:53
+Mt Gaillard 1 05:21:02
+Mt Gaillard 1 05:58:47
+Mt Gaillard 1 06:21:47
+Mt Gaillard 1 06:42:47
+Mt Gaillard 1 06:56:47
+Mt Gaillard 1 07:08:18
+Mt Gaillard 1 07:18:21
+Mt Gaillard 1 07:28:26
+Mt Gaillard 1 07:38:26
+Mt Gaillard 1 07:48:26
+Mt Gaillard 1 07:58:26
+Mt Gaillard 1 08:08:26
+Mt Gaillard 1 08:18:26
+Mt Gaillard 1 08:28:26
+Mt Gaillard 1 08:38:26
+Mt Gaillard 1 08:48:26
+Mt Gaillard 1 08:58:26
+Mt Gaillard 1 09:08:26
+Mt Gaillard 1 09:18:26
+Mt Gaillard 1 09:28:26
+Mt Gaillard 1 09:38:26
+Mt Gaillard 1 09:48:26
+Mt Gaillard 1 09:58:26
+Mt Gaillard 1 10:08:26
+Mt Gaillard 1 10:18:26
+Mt Gaillard 1 10:28:26
+Mt Gaillard 1 10:38:26
+Mt Gaillard 1 10:48:26
+Mt Gaillard 1 10:58:26
+Mt Gaillard 1 11:08:26
+Mt Gaillard 1 11:18:26
+Mt Gaillard 1 11:28:26
+Mt Gaillard 1 11:38:26
+Mt Gaillard 1 11:48:26
+Mt Gaillard 1 11:58:26
+Mt Gaillard 1 12:08:26
+Mt Gaillard 1 12:18:26
+Mt Gaillard 1 12:28:26
+Mt Gaillard 1 12:38:18
+Mt Gaillard 1 12:47:33
+Mt Gaillard 1 12:57:31
+Mt Gaillard 1 13:07:31
+Mt Gaillard 1 13:17:31
+Mt Gaillard 1 13:27:31
+Mt Gaillard 1 13:37:31
+Mt Gaillard 1 13:47:31
+Mt Gaillard 1 13:57:31
+Mt Gaillard 1 14:07:31
+Mt Gaillard 1 14:17:31
+Mt Gaillard 1 14:27:31
+Mt Gaillard 1 14:37:24
+Mt Gaillard 1 14:48:30
+Mt Gaillard 1 14:58:42
+Mt Gaillard 1 15:08:42
+Mt Gaillard 1 15:18:42
+Mt Gaillard 1 15:28:42
+Mt Gaillard 1 15:38:42
+Mt Gaillard 1 15:48:42
+Mt Gaillard 1 15:58:42
+Mt Gaillard 1 16:08:42
+Mt Gaillard 1 16:19:14
+Mt Gaillard 1 16:29:16
+Mt Gaillard 1 16:39:16
+Mt Gaillard 1 16:49:16
+Mt Gaillard 1 16:59:16
+Mt Gaillard 1 17:09:10
+Mt Gaillard 1 17:18:18
+Mt Gaillard 1 17:28:14
+Mt Gaillard 1 17:38:14
+Mt Gaillard 1 17:48:14
+Mt Gaillard 1 17:58:14
+Mt Gaillard 1 18:08:06
+Mt Gaillard 1 18:18:14
+Mt Gaillard 1 18:28:14
+Mt Gaillard 1 18:33:14
+Mt Gaillard 1 18:42:14
+Mt Gaillard 1 18:52:14
+Mt Gaillard 1 19:01:14
+Mt Gaillard 1 19:06:14
+Mt Gaillard 1 19:16:14
+Mt Gaillard 1 19:29:14
+Mt Gaillard 1 19:33:15
+Mt Gaillard 1 19:43:14
+Mt Gaillard 1 19:57:14
+Mt Gaillard 1 20:04:14
+Mt Gaillard 1 20:18:14
+Mt Gaillard 1 20:32:14
+Mt Gaillard 1 20:53:14
+Mt Gaillard 1 21:05:14
+Mt Gaillard 1 21:14:15
+Mt Gaillard 1 21:36:14
+Mt Gaillard 1 22:06:08
+Mt Gaillard 1 22:35:41
+Mt Gaillard 1 23:05:41
+Mt Gaillard 1 23:35:41
+Mt Gaillard 1 24:05:41
+Mt Gaillard 1 24:30:11
+Mt Gaillard 1 24:35:41
+Mt Gaillard 1 25:00:11
+Mt Gaillard 2 04:10:07
+Mt Gaillard 2 04:28:07
+Mt Gaillard 2 04:46:37
+Mt Gaillard 2 04:54:37
+Mt Gaillard 2 05:20:37
+Mt Gaillard 2 05:31:37
+Mt Gaillard 2 05:49:37
+Mt Gaillard 2 05:57:37
+Mt Gaillard 2 06:02:40
+Mt Gaillard 2 06:15:46
+Mt Gaillard 2 06:20:46
+Mt Gaillard 2 06:25:46
+Mt Gaillard 2 06:35:46
+Mt Gaillard 2 06:40:46
+Mt Gaillard 2 06:51:46
+Mt Gaillard 2 06:55:46
+Mt Gaillard 2 07:05:58
+Mt Gaillard 2 07:10:58
+Mt Gaillard 2 07:19:58
+Mt Gaillard 2 07:28:58
+Mt Gaillard 2 07:38:58
+Mt Gaillard 2 07:48:58
+Mt Gaillard 2 07:58:58
+Mt Gaillard 2 08:08:58
+Mt Gaillard 2 08:18:58
+Mt Gaillard 2 08:28:58
+Mt Gaillard 2 08:38:58
+Mt Gaillard 2 08:48:58
+Mt Gaillard 2 08:58:58
+Mt Gaillard 2 09:08:58
+Mt Gaillard 2 09:18:58
+Mt Gaillard 2 09:28:58
+Mt Gaillard 2 09:38:58
+Mt Gaillard 2 09:48:58
+Mt Gaillard 2 09:58:58
+Mt Gaillard 2 10:08:58
+Mt Gaillard 2 10:18:58
+Mt Gaillard 2 10:28:58
+Mt Gaillard 2 10:38:58
+Mt Gaillard 2 10:48:58
+Mt Gaillard 2 10:58:58
+Mt Gaillard 2 11:08:47
+Mt Gaillard 2 11:18:47
+Mt Gaillard 2 11:28:47
+Mt Gaillard 2 11:38:47
+Mt Gaillard 2 11:48:47
+Mt Gaillard 2 11:58:47
+Mt Gaillard 2 12:08:47
+Mt Gaillard 2 12:18:47
+Mt Gaillard 2 12:28:47
+Mt Gaillard 2 12:38:47
+Mt Gaillard 2 12:48:47
+Mt Gaillard 2 12:58:47
+Mt Gaillard 2 13:08:47
+Mt Gaillard 2 13:18:47
+Mt Gaillard 2 13:28:47
+Mt Gaillard 2 13:38:52
+Mt Gaillard 2 13:48:52
+Mt Gaillard 2 13:58:52
+Mt Gaillard 2 14:08:52
+Mt Gaillard 2 14:18:52
+Mt Gaillard 2 14:28:52
+Mt Gaillard 2 14:38:52
+Mt Gaillard 2 14:48:52
+Mt Gaillard 2 14:58:52
+Mt Gaillard 2 15:08:52
+Mt Gaillard 2 15:18:52
+Mt Gaillard 2 15:28:52
+Mt Gaillard 2 15:38:52
+Mt Gaillard 2 15:48:52
+Mt Gaillard 2 15:58:52
+Mt Gaillard 2 16:08:52
+Mt Gaillard 2 16:18:52
+Mt Gaillard 2 16:28:52
+Mt Gaillard 2 16:38:52
+Mt Gaillard 2 16:48:52
+Mt Gaillard 2 16:58:52
+Mt Gaillard 2 17:08:52
+Mt Gaillard 2 17:18:52
+Mt Gaillard 2 17:28:52
+Mt Gaillard 2 17:38:52
+Mt Gaillard 2 17:48:52
+Mt Gaillard 2 17:58:52
+Mt Gaillard 2 18:08:46
+Mt Gaillard 2 18:18:46
+Mt Gaillard 2 18:28:46
+Mt Gaillard 2 18:40:46
+Mt Gaillard 2 18:54:46
+Mt Gaillard 2 19:09:46
+Mt Gaillard 2 19:23:46
+Mt Gaillard 2 19:36:46
+Mt Gaillard 2 19:52:46
+Mt Gaillard 2 20:23:46
+Mt Gaillard 2 20:54:46
+Mt Gaillard 2 21:24:39
+Mt Gaillard 2 21:54:39
+Mt Gaillard 2 22:24:39
+Mt Gaillard 2 22:54:39
+Mt Gaillard 2 23:24:39
+Mare Rouge 1 05:19:12
+Mare Rouge 1 05:56:57
+Mare Rouge 1 06:19:57
+Mare Rouge 1 06:40:57
+Mare Rouge 1 06:54:57
+Mare Rouge 1 07:06:28
+Mare Rouge 1 07:16:31
+Mare Rouge 1 07:26:36
+Mare Rouge 1 07:36:36
+Mare Rouge 1 07:46:36
+Mare Rouge 1 07:56:36
+Mare Rouge 1 08:06:36
+Mare Rouge 1 08:16:36
+Mare Rouge 1 08:26:36
+Mare Rouge 1 08:36:36
+Mare Rouge 1 08:46:36
+Mare Rouge 1 08:56:36
+Mare Rouge 1 09:06:36
+Mare Rouge 1 09:16:36
+Mare Rouge 1 09:26:36
+Mare Rouge 1 09:36:36
+Mare Rouge 1 09:46:36
+Mare Rouge 1 09:56:36
+Mare Rouge 1 10:06:36
+Mare Rouge 1 10:16:36
+Mare Rouge 1 10:26:36
+Mare Rouge 1 10:36:36
+Mare Rouge 1 10:46:36
+Mare Rouge 1 10:56:36
+Mare Rouge 1 11:06:36
+Mare Rouge 1 11:16:36
+Mare Rouge 1 11:26:36
+Mare Rouge 1 11:36:36
+Mare Rouge 1 11:46:36
+Mare Rouge 1 11:56:36
+Mare Rouge 1 12:06:36
+Mare Rouge 1 12:16:36
+Mare Rouge 1 12:26:36
+Mare Rouge 1 12:36:28
+Mare Rouge 1 12:45:43
+Mare Rouge 1 12:55:41
+Mare Rouge 1 13:05:41
+Mare Rouge 1 13:15:41
+Mare Rouge 1 13:25:41
+Mare Rouge 1 13:35:41
+Mare Rouge 1 13:45:41
+Mare Rouge 1 13:55:41
+Mare Rouge 1 14:05:41
+Mare Rouge 1 14:15:41
+Mare Rouge 1 14:25:41
+Mare Rouge 1 14:35:34
+Mare Rouge 1 14:46:40
+Mare Rouge 1 14:56:52
+Mare Rouge 1 15:06:52
+Mare Rouge 1 15:16:52
+Mare Rouge 1 15:26:52
+Mare Rouge 1 15:36:52
+Mare Rouge 1 15:46:52
+Mare Rouge 1 15:56:52
+Mare Rouge 1 16:06:52
+Mare Rouge 1 16:17:24
+Mare Rouge 1 16:27:26
+Mare Rouge 1 16:37:26
+Mare Rouge 1 16:47:26
+Mare Rouge 1 16:57:26
+Mare Rouge 1 17:07:18
+Mare Rouge 1 17:16:26
+Mare Rouge 1 17:26:22
+Mare Rouge 1 17:36:22
+Mare Rouge 1 17:46:22
+Mare Rouge 1 17:56:22
+Mare Rouge 1 18:06:19
+Mare Rouge 1 18:16:27
+Mare Rouge 1 18:26:27
+Mare Rouge 1 18:31:27
+Mare Rouge 1 18:40:27
+Mare Rouge 1 18:50:27
+Mare Rouge 1 18:59:27
+Mare Rouge 1 19:04:27
+Mare Rouge 1 19:14:27
+Mare Rouge 1 19:27:27
+Mare Rouge 1 19:31:28
+Mare Rouge 1 19:41:27
+Mare Rouge 1 19:55:27
+Mare Rouge 1 20:02:27
+Mare Rouge 1 20:16:27
+Mare Rouge 1 20:30:27
+Mare Rouge 1 20:51:27
+Mare Rouge 1 21:03:27
+Mare Rouge 1 21:12:28
+Mare Rouge 1 21:34:27
+Mare Rouge 1 22:04:27
+Mare Rouge 1 22:34:00
+Mare Rouge 1 23:04:00
+Mare Rouge 1 23:34:00
+Mare Rouge 1 24:04:00
+Mare Rouge 1 24:28:30
+Mare Rouge 1 24:34:00
+Mare Rouge 1 24:58:30
+Mare Rouge 2 04:12:14
+Mare Rouge 2 04:30:14
+Mare Rouge 2 04:48:34
+Mare Rouge 2 04:56:34
+Mare Rouge 2 05:22:34
+Mare Rouge 2 05:33:34
+Mare Rouge 2 05:51:34
+Mare Rouge 2 05:59:34
+Mare Rouge 2 06:04:40
+Mare Rouge 2 06:17:46
+Mare Rouge 2 06:22:46
+Mare Rouge 2 06:27:46
+Mare Rouge 2 06:37:46
+Mare Rouge 2 06:42:46
+Mare Rouge 2 06:53:46
+Mare Rouge 2 06:57:46
+Mare Rouge 2 07:07:58
+Mare Rouge 2 07:12:58
+Mare Rouge 2 07:21:58
+Mare Rouge 2 07:30:58
+Mare Rouge 2 07:40:58
+Mare Rouge 2 07:50:58
+Mare Rouge 2 08:00:58
+Mare Rouge 2 08:10:58
+Mare Rouge 2 08:20:58
+Mare Rouge 2 08:30:58
+Mare Rouge 2 08:40:58
+Mare Rouge 2 08:50:58
+Mare Rouge 2 09:00:58
+Mare Rouge 2 09:10:58
+Mare Rouge 2 09:20:58
+Mare Rouge 2 09:30:58
+Mare Rouge 2 09:40:58
+Mare Rouge 2 09:50:58
+Mare Rouge 2 10:00:58
+Mare Rouge 2 10:10:58
+Mare Rouge 2 10:20:58
+Mare Rouge 2 10:30:58
+Mare Rouge 2 10:40:58
+Mare Rouge 2 10:50:58
+Mare Rouge 2 11:00:58
+Mare Rouge 2 11:10:47
+Mare Rouge 2 11:20:47
+Mare Rouge 2 11:30:47
+Mare Rouge 2 11:40:47
+Mare Rouge 2 11:50:47
+Mare Rouge 2 12:00:47
+Mare Rouge 2 12:10:47
+Mare Rouge 2 12:20:47
+Mare Rouge 2 12:30:47
+Mare Rouge 2 12:40:47
+Mare Rouge 2 12:50:47
+Mare Rouge 2 13:00:47
+Mare Rouge 2 13:10:47
+Mare Rouge 2 13:20:47
+Mare Rouge 2 13:30:47
+Mare Rouge 2 13:40:52
+Mare Rouge 2 13:50:52
+Mare Rouge 2 14:00:52
+Mare Rouge 2 14:10:52
+Mare Rouge 2 14:20:52
+Mare Rouge 2 14:30:52
+Mare Rouge 2 14:40:52
+Mare Rouge 2 14:50:52
+Mare Rouge 2 15:00:52
+Mare Rouge 2 15:10:52
+Mare Rouge 2 15:20:52
+Mare Rouge 2 15:30:52
+Mare Rouge 2 15:40:52
+Mare Rouge 2 15:50:52
+Mare Rouge 2 16:00:52
+Mare Rouge 2 16:10:52
+Mare Rouge 2 16:20:52
+Mare Rouge 2 16:30:52
+Mare Rouge 2 16:40:52
+Mare Rouge 2 16:50:52
+Mare Rouge 2 17:00:52
+Mare Rouge 2 17:10:52
+Mare Rouge 2 17:20:52
+Mare Rouge 2 17:30:52
+Mare Rouge 2 17:40:52
+Mare Rouge 2 17:50:52
+Mare Rouge 2 18:00:52
+Mare Rouge 2 18:10:46
+Mare Rouge 2 18:20:46
+Mare Rouge 2 18:30:46
+Mare Rouge 2 18:42:46
+Mare Rouge 2 18:56:46
+Mare Rouge 2 19:11:46
+Mare Rouge 2 19:25:46
+Mare Rouge 2 19:38:46
+Mare Rouge 2 19:54:46
+Mare Rouge 2 20:25:46
+Mare Rouge 2 20:56:46
+Mare Rouge 2 21:26:36
+Mare Rouge 2 21:56:36
+Mare Rouge 2 22:26:36
+Mare Rouge 2 22:56:36
+Mare Rouge 2 23:26:36
+Pré Fleuri 1 04:46:23
+Pré Fleuri 1 05:28:23
+Pré Fleuri 1 05:47:00
+Pré Fleuri 1 06:16:00
+Pré Fleuri 1 06:31:23
+Pré Fleuri 1 06:40:00
+Pré Fleuri 1 06:58:00
+Pré Fleuri 1 07:09:20
+Pré Fleuri 1 07:19:22
+Pré Fleuri 1 07:29:38
+Pré Fleuri 1 07:39:38
+Pré Fleuri 1 07:49:38
+Pré Fleuri 1 07:59:38
+Pré Fleuri 1 08:09:38
+Pré Fleuri 1 08:19:38
+Pré Fleuri 1 08:29:38
+Pré Fleuri 1 08:39:38
+Pré Fleuri 1 08:49:38
+Pré Fleuri 1 08:59:38
+Pré Fleuri 1 09:09:38
+Pré Fleuri 1 09:19:38
+Pré Fleuri 1 09:29:38
+Pré Fleuri 1 09:39:38
+Pré Fleuri 1 09:49:38
+Pré Fleuri 1 09:59:38
+Pré Fleuri 1 10:09:38
+Pré Fleuri 1 10:19:38
+Pré Fleuri 1 10:29:38
+Pré Fleuri 1 10:39:38
+Pré Fleuri 1 10:49:38
+Pré Fleuri 1 10:59:38
+Pré Fleuri 1 11:09:38
+Pré Fleuri 1 11:19:38
+Pré Fleuri 1 11:29:38
+Pré Fleuri 1 11:39:38
+Pré Fleuri 1 11:49:38
+Pré Fleuri 1 11:59:38
+Pré Fleuri 1 12:09:38
+Pré Fleuri 1 12:19:38
+Pré Fleuri 1 12:29:38
+Pré Fleuri 1 12:39:36
+Pré Fleuri 1 12:49:10
+Pré Fleuri 1 12:58:57
+Pré Fleuri 1 13:08:57
+Pré Fleuri 1 13:18:57
+Pré Fleuri 1 13:28:57
+Pré Fleuri 1 13:38:57
+Pré Fleuri 1 13:48:57
+Pré Fleuri 1 13:58:57
+Pré Fleuri 1 14:08:57
+Pré Fleuri 1 14:18:57
+Pré Fleuri 1 14:28:57
+Pré Fleuri 1 14:39:15
+Pré Fleuri 1 14:49:20
+Pré Fleuri 1 15:00:03
+Pré Fleuri 1 15:10:03
+Pré Fleuri 1 15:20:03
+Pré Fleuri 1 15:30:03
+Pré Fleuri 1 15:40:03
+Pré Fleuri 1 15:50:03
+Pré Fleuri 1 16:00:03
+Pré Fleuri 1 16:09:50
+Pré Fleuri 1 16:20:24
+Pré Fleuri 1 16:30:36
+Pré Fleuri 1 16:40:36
+Pré Fleuri 1 16:50:36
+Pré Fleuri 1 17:00:36
+Pré Fleuri 1 17:10:28
+Pré Fleuri 1 17:19:54
+Pré Fleuri 1 17:29:34
+Pré Fleuri 1 17:39:34
+Pré Fleuri 1 17:49:34
+Pré Fleuri 1 17:59:34
+Pré Fleuri 1 18:09:34
+Pré Fleuri 1 18:19:34
+Pré Fleuri 1 18:29:34
+Pré Fleuri 1 18:44:34
+Pré Fleuri 1 18:53:34
+Pré Fleuri 1 19:02:34
+Pré Fleuri 1 19:17:34
+Pré Fleuri 1 19:28:34
+Pré Fleuri 1 19:42:34
+Pré Fleuri 1 19:56:34
+Pré Fleuri 1 20:17:34
+Pré Fleuri 1 20:31:34
+Pré Fleuri 1 20:48:34
+Pré Fleuri 1 21:24:34
+Pré Fleuri 1 21:52:34
+Pré Fleuri 1 22:22:09
+Pré Fleuri 1 22:51:48
+Pré Fleuri 1 23:21:48
+Pré Fleuri 1 23:51:48
+Pré Fleuri 1 24:21:48
+Pré Fleuri 2 04:54:00
+Pré Fleuri 2 05:35:00
+Pré Fleuri 2 06:02:00
+Pré Fleuri 2 06:24:00
+Pré Fleuri 2 06:39:00
+Pré Fleuri 2 06:54:00
+Pré Fleuri 2 07:08:00
+Pré Fleuri 2 07:17:00
+Pré Fleuri 2 07:27:00
+Pré Fleuri 2 07:37:00
+Pré Fleuri 2 07:47:00
+Pré Fleuri 2 07:57:00
+Pré Fleuri 2 08:07:00
+Pré Fleuri 2 08:17:00
+Pré Fleuri 2 08:27:00
+Pré Fleuri 2 08:37:00
+Pré Fleuri 2 08:47:00
+Pré Fleuri 2 08:57:00
+Pré Fleuri 2 09:07:00
+Pré Fleuri 2 09:17:00
+Pré Fleuri 2 09:27:00
+Pré Fleuri 2 09:37:00
+Pré Fleuri 2 09:47:00
+Pré Fleuri 2 09:57:00
+Pré Fleuri 2 10:07:00
+Pré Fleuri 2 10:17:00
+Pré Fleuri 2 10:27:00
+Pré Fleuri 2 10:37:00
+Pré Fleuri 2 10:46:00
+Pré Fleuri 2 10:56:00
+Pré Fleuri 2 11:06:00
+Pré Fleuri 2 11:16:00
+Pré Fleuri 2 11:26:00
+Pré Fleuri 2 11:36:00
+Pré Fleuri 2 11:46:00
+Pré Fleuri 2 11:56:00
+Pré Fleuri 2 12:06:00
+Pré Fleuri 2 12:16:00
+Pré Fleuri 2 12:26:00
+Pré Fleuri 2 12:36:00
+Pré Fleuri 2 12:46:00
+Pré Fleuri 2 12:56:00
+Pré Fleuri 2 13:06:00
+Pré Fleuri 2 13:16:00
+Pré Fleuri 2 13:27:00
+Pré Fleuri 2 13:37:00
+Pré Fleuri 2 13:47:00
+Pré Fleuri 2 13:57:00
+Pré Fleuri 2 14:07:00
+Pré Fleuri 2 14:17:00
+Pré Fleuri 2 14:27:00
+Pré Fleuri 2 14:37:00
+Pré Fleuri 2 14:47:00
+Pré Fleuri 2 14:57:00
+Pré Fleuri 2 15:07:00
+Pré Fleuri 2 15:17:00
+Pré Fleuri 2 15:27:00
+Pré Fleuri 2 15:37:00
+Pré Fleuri 2 15:47:00
+Pré Fleuri 2 15:57:00
+Pré Fleuri 2 16:07:00
+Pré Fleuri 2 16:17:00
+Pré Fleuri 2 16:27:00
+Pré Fleuri 2 16:37:00
+Pré Fleuri 2 16:47:00
+Pré Fleuri 2 16:57:00
+Pré Fleuri 2 17:07:00
+Pré Fleuri 2 17:17:00
+Pré Fleuri 2 17:27:00
+Pré Fleuri 2 17:37:00
+Pré Fleuri 2 17:47:00
+Pré Fleuri 2 17:57:00
+Pré Fleuri 2 18:06:00
+Pré Fleuri 2 18:17:00
+Pré Fleuri 2 18:27:00
+Pré Fleuri 2 18:41:00
+Pré Fleuri 2 18:54:00
+Pré Fleuri 2 18:59:00
+Pré Fleuri 2 19:11:00
+Pré Fleuri 2 19:24:00
+Pré Fleuri 2 19:38:00
+Pré Fleuri 2 19:54:00
+Pré Fleuri 2 20:05:00
+Pré Fleuri 2 20:31:00
+Pré Fleuri 2 20:40:00
+Pré Fleuri 2 21:05:00
+Pré Fleuri 2 21:35:00
+Pré Fleuri 2 22:05:00
+Pré Fleuri 2 22:35:00
+Pré Fleuri 2 23:05:00
+Pré Fleuri 2 23:35:00
+Palais de Justice 1 05:00:29
+Palais de Justice 1 05:25:14
+Palais de Justice 1 05:43:14
+Palais de Justice 1 05:54:14
+Palais de Justice 1 06:06:14
+Palais de Justice 1 06:18:14
+Palais de Justice 1 06:27:14
+Palais de Justice 1 06:36:14
+Palais de Justice 1 06:41:14
+Palais de Justice 1 06:47:14
+Palais de Justice 1 06:52:14
+Palais de Justice 1 06:57:14
+Palais de Justice 1 07:02:21
+Palais de Justice 1 07:07:26
+Palais de Justice 1 07:12:26
+Palais de Justice 1 07:17:26
+Palais de Justice 1 07:22:26
+Palais de Justice 1 07:27:26
+Palais de Justice 1 07:32:26
+Palais de Justice 1 07:37:26
+Palais de Justice 1 07:42:26
+Palais de Justice 1 07:47:26
+Palais de Justice 1 07:52:26
+Palais de Justice 1 07:57:26
+Palais de Justice 1 08:02:26
+Palais de Justice 1 08:07:26
+Palais de Justice 1 08:12:26
+Palais de Justice 1 08:17:26
+Palais de Justice 1 08:22:26
+Palais de Justice 1 08:27:26
+Palais de Justice 1 08:32:26
+Palais de Justice 1 08:37:26
+Palais de Justice 1 08:42:26
+Palais de Justice 1 08:47:26
+Palais de Justice 1 08:52:26
+Palais de Justice 1 08:57:26
+Palais de Justice 1 09:02:26
+Palais de Justice 1 09:07:26
+Palais de Justice 1 09:12:26
+Palais de Justice 1 09:17:26
+Palais de Justice 1 09:22:26
+Palais de Justice 1 09:27:26
+Palais de Justice 1 09:32:26
+Palais de Justice 1 09:37:26
+Palais de Justice 1 09:42:26
+Palais de Justice 1 09:47:26
+Palais de Justice 1 09:52:26
+Palais de Justice 1 09:57:26
+Palais de Justice 1 10:02:26
+Palais de Justice 1 10:07:26
+Palais de Justice 1 10:12:26
+Palais de Justice 1 10:17:26
+Palais de Justice 1 10:22:26
+Palais de Justice 1 10:27:26
+Palais de Justice 1 10:32:26
+Palais de Justice 1 10:37:26
+Palais de Justice 1 10:42:26
+Palais de Justice 1 10:47:26
+Palais de Justice 1 10:52:26
+Palais de Justice 1 10:57:26
+Palais de Justice 1 11:02:26
+Palais de Justice 1 11:07:26
+Palais de Justice 1 11:12:26
+Palais de Justice 1 11:17:26
+Palais de Justice 1 11:22:26
+Palais de Justice 1 11:27:26
+Palais de Justice 1 11:32:26
+Palais de Justice 1 11:37:26
+Palais de Justice 1 11:42:26
+Palais de Justice 1 11:47:26
+Palais de Justice 1 11:52:26
+Palais de Justice 1 11:57:26
+Palais de Justice 1 12:02:26
+Palais de Justice 1 12:07:26
+Palais de Justice 1 12:12:26
+Palais de Justice 1 12:17:26
+Palais de Justice 1 12:22:26
+Palais de Justice 1 12:27:26
+Palais de Justice 1 12:32:24
+Palais de Justice 1 12:37:22
+Palais de Justice 1 12:42:22
+Palais de Justice 1 12:47:22
+Palais de Justice 1 12:52:22
+Palais de Justice 1 12:57:22
+Palais de Justice 1 13:02:22
+Palais de Justice 1 13:07:22
+Palais de Justice 1 13:12:22
+Palais de Justice 1 13:17:22
+Palais de Justice 1 13:22:22
+Palais de Justice 1 13:27:22
+Palais de Justice 1 13:32:22
+Palais de Justice 1 13:37:22
+Palais de Justice 1 13:42:22
+Palais de Justice 1 13:47:22
+Palais de Justice 1 13:52:22
+Palais de Justice 1 13:57:22
+Palais de Justice 1 14:02:22
+Palais de Justice 1 14:07:22
+Palais de Justice 1 14:12:22
+Palais de Justice 1 14:17:22
+Palais de Justice 1 14:22:22
+Palais de Justice 1 14:27:22
+Palais de Justice 1 14:32:28
+Palais de Justice 1 14:37:40
+Palais de Justice 1 14:42:40
+Palais de Justice 1 14:47:40
+Palais de Justice 1 14:52:40
+Palais de Justice 1 14:57:40
+Palais de Justice 1 15:02:40
+Palais de Justice 1 15:07:40
+Palais de Justice 1 15:12:40
+Palais de Justice 1 15:17:40
+Palais de Justice 1 15:22:40
+Palais de Justice 1 15:27:40
+Palais de Justice 1 15:32:40
+Palais de Justice 1 15:37:40
+Palais de Justice 1 15:42:40
+Palais de Justice 1 15:47:40
+Palais de Justice 1 15:52:40
+Palais de Justice 1 15:57:40
+Palais de Justice 1 16:02:42
+Palais de Justice 1 16:07:44
+Palais de Justice 1 16:12:44
+Palais de Justice 1 16:17:44
+Palais de Justice 1 16:22:44
+Palais de Justice 1 16:27:44
+Palais de Justice 1 16:32:44
+Palais de Justice 1 16:37:44
+Palais de Justice 1 16:42:44
+Palais de Justice 1 16:47:44
+Palais de Justice 1 16:52:44
+Palais de Justice 1 16:57:44
+Palais de Justice 1 17:02:42
+Palais de Justice 1 17:07:38
+Palais de Justice 1 17:12:38
+Palais de Justice 1 17:17:38
+Palais de Justice 1 17:22:38
+Palais de Justice 1 17:27:38
+Palais de Justice 1 17:32:38
+Palais de Justice 1 17:37:38
+Palais de Justice 1 17:42:38
+Palais de Justice 1 17:47:38
+Palais de Justice 1 17:52:38
+Palais de Justice 1 17:57:38
+Palais de Justice 1 18:02:38
+Palais de Justice 1 18:07:38
+Palais de Justice 1 18:12:38
+Palais de Justice 1 18:17:38
+Palais de Justice 1 18:22:38
+Palais de Justice 1 18:26:38
+Palais de Justice 1 18:31:38
+Palais de Justice 1 18:36:38
+Palais de Justice 1 18:40:38
+Palais de Justice 1 18:45:38
+Palais de Justice 1 18:50:38
+Palais de Justice 1 18:55:38
+Palais de Justice 1 19:00:38
+Palais de Justice 1 19:06:38
+Palais de Justice 1 19:13:38
+Palais de Justice 1 19:20:38
+Palais de Justice 1 19:27:38
+Palais de Justice 1 19:34:38
+Palais de Justice 1 19:41:38
+Palais de Justice 1 19:48:38
+Palais de Justice 1 19:55:38
+Palais de Justice 1 20:02:38
+Palais de Justice 1 20:09:38
+Palais de Justice 1 20:16:38
+Palais de Justice 1 20:26:38
+Palais de Justice 1 20:37:38
+Palais de Justice 1 20:49:38
+Palais de Justice 1 21:02:38
+Palais de Justice 1 21:17:38
+Palais de Justice 1 21:30:38
+Palais de Justice 1 21:47:38
+Palais de Justice 1 22:00:38
+Palais de Justice 1 22:17:17
+Palais de Justice 1 22:30:17
+Palais de Justice 1 22:47:17
+Palais de Justice 1 23:00:17
+Palais de Justice 1 23:17:17
+Palais de Justice 1 23:30:17
+Palais de Justice 1 23:47:17
+Palais de Justice 1 24:00:17
+Palais de Justice 1 24:17:17
+Palais de Justice 2 04:43:59
+Palais de Justice 2 05:02:19
+Palais de Justice 2 05:18:20
+Palais de Justice 2 05:36:19
+Palais de Justice 2 05:47:19
+Palais de Justice 2 05:57:20
+Palais de Justice 2 06:05:35
+Palais de Justice 2 06:18:33
+Palais de Justice 2 06:24:43
+Palais de Justice 2 06:31:39
+Palais de Justice 2 06:36:39
+Palais de Justice 2 06:41:39
+Palais de Justice 2 06:46:43
+Palais de Justice 2 06:51:39
+Palais de Justice 2 06:56:39
+Palais de Justice 2 07:01:50
+Palais de Justice 2 07:07:34
+Palais de Justice 2 07:11:49
+Palais de Justice 2 07:17:11
+Palais de Justice 2 07:22:08
+Palais de Justice 2 07:27:08
+Palais de Justice 2 07:31:27
+Palais de Justice 2 07:36:08
+Palais de Justice 2 07:40:27
+Palais de Justice 2 07:45:08
+Palais de Justice 2 07:50:27
+Palais de Justice 2 07:55:08
+Palais de Justice 2 08:00:27
+Palais de Justice 2 08:05:08
+Palais de Justice 2 08:10:27
+Palais de Justice 2 08:15:08
+Palais de Justice 2 08:20:27
+Palais de Justice 2 08:25:08
+Palais de Justice 2 08:30:27
+Palais de Justice 2 08:35:08
+Palais de Justice 2 08:40:27
+Palais de Justice 2 08:45:08
+Palais de Justice 2 08:50:27
+Palais de Justice 2 08:55:08
+Palais de Justice 2 09:00:27
+Palais de Justice 2 09:05:08
+Palais de Justice 2 09:10:27
+Palais de Justice 2 09:15:08
+Palais de Justice 2 09:20:27
+Palais de Justice 2 09:25:08
+Palais de Justice 2 09:30:27
+Palais de Justice 2 09:35:08
+Palais de Justice 2 09:40:27
+Palais de Justice 2 09:45:08
+Palais de Justice 2 09:50:27
+Palais de Justice 2 09:55:08
+Palais de Justice 2 10:00:27
+Palais de Justice 2 10:05:08
+Palais de Justice 2 10:10:27
+Palais de Justice 2 10:15:08
+Palais de Justice 2 10:20:27
+Palais de Justice 2 10:25:08
+Palais de Justice 2 10:30:27
+Palais de Justice 2 10:35:08
+Palais de Justice 2 10:40:27
+Palais de Justice 2 10:45:08
+Palais de Justice 2 10:50:27
+Palais de Justice 2 10:55:08
+Palais de Justice 2 11:00:27
+Palais de Justice 2 11:05:08
+Palais de Justice 2 11:09:27
+Palais de Justice 2 11:14:45
+Palais de Justice 2 11:19:27
+Palais de Justice 2 11:24:34
+Palais de Justice 2 11:29:27
+Palais de Justice 2 11:34:34
+Palais de Justice 2 11:39:27
+Palais de Justice 2 11:44:34
+Palais de Justice 2 11:49:27
+Palais de Justice 2 11:54:34
+Palais de Justice 2 11:59:27
+Palais de Justice 2 12:04:34
+Palais de Justice 2 12:09:27
+Palais de Justice 2 12:14:34
+Palais de Justice 2 12:19:27
+Palais de Justice 2 12:24:34
+Palais de Justice 2 12:29:27
+Palais de Justice 2 12:34:34
+Palais de Justice 2 12:39:27
+Palais de Justice 2 12:44:34
+Palais de Justice 2 12:49:27
+Palais de Justice 2 12:54:34
+Palais de Justice 2 12:59:27
+Palais de Justice 2 13:04:34
+Palais de Justice 2 13:09:27
+Palais de Justice 2 13:14:34
+Palais de Justice 2 13:19:27
+Palais de Justice 2 13:24:34
+Palais de Justice 2 13:29:27
+Palais de Justice 2 13:34:34
+Palais de Justice 2 13:39:27
+Palais de Justice 2 13:45:12
+Palais de Justice 2 13:50:27
+Palais de Justice 2 13:55:17
+Palais de Justice 2 14:00:27
+Palais de Justice 2 14:05:17
+Palais de Justice 2 14:10:27
+Palais de Justice 2 14:15:17
+Palais de Justice 2 14:20:27
+Palais de Justice 2 14:25:17
+Palais de Justice 2 14:30:27
+Palais de Justice 2 14:35:17
+Palais de Justice 2 14:40:27
+Palais de Justice 2 14:45:17
+Palais de Justice 2 14:50:27
+Palais de Justice 2 14:55:17
+Palais de Justice 2 15:00:27
+Palais de Justice 2 15:05:17
+Palais de Justice 2 15:10:27
+Palais de Justice 2 15:15:17
+Palais de Justice 2 15:20:27
+Palais de Justice 2 15:25:17
+Palais de Justice 2 15:30:27
+Palais de Justice 2 15:35:17
+Palais de Justice 2 15:40:27
+Palais de Justice 2 15:45:17
+Palais de Justice 2 15:50:27
+Palais de Justice 2 15:55:17
+Palais de Justice 2 16:00:27
+Palais de Justice 2 16:05:17
+Palais de Justice 2 16:10:27
+Palais de Justice 2 16:15:17
+Palais de Justice 2 16:20:27
+Palais de Justice 2 16:25:17
+Palais de Justice 2 16:30:27
+Palais de Justice 2 16:35:17
+Palais de Justice 2 16:40:27
+Palais de Justice 2 16:45:17
+Palais de Justice 2 16:50:27
+Palais de Justice 2 16:55:17
+Palais de Justice 2 17:00:27
+Palais de Justice 2 17:05:17
+Palais de Justice 2 17:10:27
+Palais de Justice 2 17:15:17
+Palais de Justice 2 17:20:57
+Palais de Justice 2 17:25:17
+Palais de Justice 2 17:31:00
+Palais de Justice 2 17:35:17
+Palais de Justice 2 17:41:00
+Palais de Justice 2 17:45:16
+Palais de Justice 2 17:50:47
+Palais de Justice 2 17:55:16
+Palais de Justice 2 18:00:05
+Palais de Justice 2 18:05:16
+Palais de Justice 2 18:10:02
+Palais de Justice 2 18:14:34
+Palais de Justice 2 18:20:02
+Palais de Justice 2 18:24:28
+Palais de Justice 2 18:29:02
+Palais de Justice 2 18:34:28
+Palais de Justice 2 18:40:02
+Palais de Justice 2 18:44:28
+Palais de Justice 2 18:50:02
+Palais de Justice 2 18:56:28
+Palais de Justice 2 19:04:02
+Palais de Justice 2 19:10:28
+Palais de Justice 2 19:16:41
+Palais de Justice 2 19:25:28
+Palais de Justice 2 19:33:05
+Palais de Justice 2 19:39:28
+Palais de Justice 2 19:46:05
+Palais de Justice 2 19:52:28
+Palais de Justice 2 20:00:05
+Palais de Justice 2 20:08:28
+Palais de Justice 2 20:16:05
+Palais de Justice 2 20:27:05
+Palais de Justice 2 20:39:28
+Palais de Justice 2 20:53:05
+Palais de Justice 2 21:10:28
+Palais de Justice 2 21:27:05
+Palais de Justice 2 21:40:18
+Palais de Justice 2 21:57:05
+Palais de Justice 2 22:10:18
+Palais de Justice 2 22:27:05
+Palais de Justice 2 22:40:18
+Palais de Justice 2 22:57:05
+Palais de Justice 2 23:10:18
+Palais de Justice 2 23:27:05
+Palais de Justice 2 23:40:18
+Palais de Justice 2 23:57:05
+La Plage 1 04:55:00
+La Plage 1 05:20:00
+La Plage 1 05:38:00
+La Plage 1 05:49:00
+La Plage 1 06:01:00
+La Plage 1 06:13:00
+La Plage 1 06:22:00
+La Plage 1 06:31:00
+La Plage 1 06:36:00
+La Plage 1 06:42:00
+La Plage 1 06:47:00
+La Plage 1 06:52:00
+La Plage 1 06:57:00
+La Plage 1 07:02:00
+La Plage 1 07:07:00
+La Plage 1 07:12:00
+La Plage 1 07:17:00
+La Plage 1 07:22:00
+La Plage 1 07:27:00
+La Plage 1 07:32:00
+La Plage 1 07:37:00
+La Plage 1 07:42:00
+La Plage 1 07:47:00
+La Plage 1 07:52:00
+La Plage 1 07:57:00
+La Plage 1 08:02:00
+La Plage 1 08:07:00
+La Plage 1 08:12:00
+La Plage 1 08:17:00
+La Plage 1 08:22:00
+La Plage 1 08:27:00
+La Plage 1 08:32:00
+La Plage 1 08:37:00
+La Plage 1 08:42:00
+La Plage 1 08:47:00
+La Plage 1 08:52:00
+La Plage 1 08:57:00
+La Plage 1 09:02:00
+La Plage 1 09:07:00
+La Plage 1 09:12:00
+La Plage 1 09:17:00
+La Plage 1 09:22:00
+La Plage 1 09:27:00
+La Plage 1 09:32:00
+La Plage 1 09:37:00
+La Plage 1 09:42:00
+La Plage 1 09:47:00
+La Plage 1 09:52:00
+La Plage 1 09:57:00
+La Plage 1 10:02:00
+La Plage 1 10:07:00
+La Plage 1 10:12:00
+La Plage 1 10:17:00
+La Plage 1 10:22:00
+La Plage 1 10:27:00
+La Plage 1 10:32:00
+La Plage 1 10:37:00
+La Plage 1 10:42:00
+La Plage 1 10:47:00
+La Plage 1 10:52:00
+La Plage 1 10:57:00
+La Plage 1 11:02:00
+La Plage 1 11:07:00
+La Plage 1 11:12:00
+La Plage 1 11:17:00
+La Plage 1 11:22:00
+La Plage 1 11:27:00
+La Plage 1 11:32:00
+La Plage 1 11:37:00
+La Plage 1 11:42:00
+La Plage 1 11:47:00
+La Plage 1 11:52:00
+La Plage 1 11:57:00
+La Plage 1 12:02:00
+La Plage 1 12:07:00
+La Plage 1 12:12:00
+La Plage 1 12:17:00
+La Plage 1 12:22:00
+La Plage 1 12:27:00
+La Plage 1 12:32:00
+La Plage 1 12:37:00
+La Plage 1 12:42:00
+La Plage 1 12:47:00
+La Plage 1 12:52:00
+La Plage 1 12:57:00
+La Plage 1 13:02:00
+La Plage 1 13:07:00
+La Plage 1 13:12:00
+La Plage 1 13:17:00
+La Plage 1 13:22:00
+La Plage 1 13:27:00
+La Plage 1 13:32:00
+La Plage 1 13:37:00
+La Plage 1 13:42:00
+La Plage 1 13:47:00
+La Plage 1 13:52:00
+La Plage 1 13:57:00
+La Plage 1 14:02:00
+La Plage 1 14:07:00
+La Plage 1 14:12:00
+La Plage 1 14:17:00
+La Plage 1 14:22:00
+La Plage 1 14:27:00
+La Plage 1 14:32:00
+La Plage 1 14:37:00
+La Plage 1 14:42:00
+La Plage 1 14:47:00
+La Plage 1 14:52:00
+La Plage 1 14:57:00
+La Plage 1 15:02:00
+La Plage 1 15:07:00
+La Plage 1 15:12:00
+La Plage 1 15:17:00
+La Plage 1 15:22:00
+La Plage 1 15:27:00
+La Plage 1 15:32:00
+La Plage 1 15:37:00
+La Plage 1 15:42:00
+La Plage 1 15:47:00
+La Plage 1 15:52:00
+La Plage 1 15:57:00
+La Plage 1 16:02:00
+La Plage 1 16:07:00
+La Plage 1 16:12:00
+La Plage 1 16:17:00
+La Plage 1 16:22:00
+La Plage 1 16:27:00
+La Plage 1 16:32:00
+La Plage 1 16:37:00
+La Plage 1 16:42:00
+La Plage 1 16:47:00
+La Plage 1 16:52:00
+La Plage 1 16:57:00
+La Plage 1 17:02:00
+La Plage 1 17:07:00
+La Plage 1 17:12:00
+La Plage 1 17:17:00
+La Plage 1 17:22:00
+La Plage 1 17:27:00
+La Plage 1 17:32:00
+La Plage 1 17:37:00
+La Plage 1 17:42:00
+La Plage 1 17:47:00
+La Plage 1 17:52:00
+La Plage 1 17:57:00
+La Plage 1 18:02:00
+La Plage 1 18:07:00
+La Plage 1 18:12:00
+La Plage 1 18:17:00
+La Plage 1 18:21:00
+La Plage 1 18:26:00
+La Plage 1 18:31:00
+La Plage 1 18:35:00
+La Plage 1 18:40:00
+La Plage 1 18:45:00
+La Plage 1 18:50:00
+La Plage 1 18:55:00
+La Plage 1 19:01:00
+La Plage 1 19:08:00
+La Plage 1 19:15:00
+La Plage 1 19:22:00
+La Plage 1 19:29:00
+La Plage 1 19:36:00
+La Plage 1 19:43:00
+La Plage 1 19:50:00
+La Plage 1 19:57:00
+La Plage 1 20:04:00
+La Plage 1 20:11:00
+La Plage 1 20:21:00
+La Plage 1 20:32:00
+La Plage 1 20:44:00
+La Plage 1 20:57:00
+La Plage 1 21:09:00
+La Plage 1 21:25:00
+La Plage 1 21:39:00
+La Plage 1 21:55:00
+La Plage 1 22:09:00
+La Plage 1 22:25:00
+La Plage 1 22:39:00
+La Plage 1 22:55:00
+La Plage 1 23:09:00
+La Plage 1 23:25:00
+La Plage 1 23:39:00
+La Plage 1 23:55:00
+La Plage 1 24:09:00
+La Plage 2 04:48:50
+La Plage 2 05:07:10
+La Plage 2 05:23:11
+La Plage 2 05:41:10
+La Plage 2 05:52:10
+La Plage 2 06:02:07
+La Plage 2 06:10:22
+La Plage 2 06:23:20
+La Plage 2 06:29:30
+La Plage 2 06:36:26
+La Plage 2 06:41:26
+La Plage 2 06:46:26
+La Plage 2 06:51:30
+La Plage 2 06:56:26
+La Plage 2 07:01:30
+La Plage 2 07:06:45
+La Plage 2 07:12:29
+La Plage 2 07:16:44
+La Plage 2 07:22:06
+La Plage 2 07:27:03
+La Plage 2 07:32:03
+La Plage 2 07:36:22
+La Plage 2 07:41:03
+La Plage 2 07:45:22
+La Plage 2 07:50:03
+La Plage 2 07:55:22
+La Plage 2 08:00:03
+La Plage 2 08:05:22
+La Plage 2 08:10:03
+La Plage 2 08:15:22
+La Plage 2 08:20:03
+La Plage 2 08:25:22
+La Plage 2 08:30:03
+La Plage 2 08:35:22
+La Plage 2 08:40:03
+La Plage 2 08:45:22
+La Plage 2 08:50:03
+La Plage 2 08:55:22
+La Plage 2 09:00:03
+La Plage 2 09:05:22
+La Plage 2 09:10:03
+La Plage 2 09:15:22
+La Plage 2 09:20:03
+La Plage 2 09:25:22
+La Plage 2 09:30:03
+La Plage 2 09:35:22
+La Plage 2 09:40:03
+La Plage 2 09:45:22
+La Plage 2 09:50:03
+La Plage 2 09:55:22
+La Plage 2 10:00:03
+La Plage 2 10:05:22
+La Plage 2 10:10:03
+La Plage 2 10:15:22
+La Plage 2 10:20:03
+La Plage 2 10:25:22
+La Plage 2 10:30:03
+La Plage 2 10:35:22
+La Plage 2 10:40:03
+La Plage 2 10:45:22
+La Plage 2 10:50:03
+La Plage 2 10:55:22
+La Plage 2 11:00:03
+La Plage 2 11:05:22
+La Plage 2 11:10:03
+La Plage 2 11:14:22
+La Plage 2 11:19:40
+La Plage 2 11:24:22
+La Plage 2 11:29:29
+La Plage 2 11:34:22
+La Plage 2 11:39:29
+La Plage 2 11:44:22
+La Plage 2 11:49:29
+La Plage 2 11:54:22
+La Plage 2 11:59:29
+La Plage 2 12:04:22
+La Plage 2 12:09:29
+La Plage 2 12:14:22
+La Plage 2 12:19:29
+La Plage 2 12:24:22
+La Plage 2 12:29:29
+La Plage 2 12:34:22
+La Plage 2 12:39:29
+La Plage 2 12:44:22
+La Plage 2 12:49:29
+La Plage 2 12:54:22
+La Plage 2 12:59:29
+La Plage 2 13:04:22
+La Plage 2 13:09:29
+La Plage 2 13:14:22
+La Plage 2 13:19:29
+La Plage 2 13:24:22
+La Plage 2 13:29:29
+La Plage 2 13:34:22
+La Plage 2 13:39:29
+La Plage 2 13:44:22
+La Plage 2 13:50:07
+La Plage 2 13:55:22
+La Plage 2 14:00:12
+La Plage 2 14:05:22
+La Plage 2 14:10:12
+La Plage 2 14:15:22
+La Plage 2 14:20:12
+La Plage 2 14:25:22
+La Plage 2 14:30:12
+La Plage 2 14:35:22
+La Plage 2 14:40:12
+La Plage 2 14:45:22
+La Plage 2 14:50:12
+La Plage 2 14:55:22
+La Plage 2 15:00:12
+La Plage 2 15:05:22
+La Plage 2 15:10:12
+La Plage 2 15:15:22
+La Plage 2 15:20:12
+La Plage 2 15:25:22
+La Plage 2 15:30:12
+La Plage 2 15:35:22
+La Plage 2 15:40:12
+La Plage 2 15:45:22
+La Plage 2 15:50:12
+La Plage 2 15:55:22
+La Plage 2 16:00:12
+La Plage 2 16:05:22
+La Plage 2 16:10:12
+La Plage 2 16:15:22
+La Plage 2 16:20:12
+La Plage 2 16:25:22
+La Plage 2 16:30:12
+La Plage 2 16:35:22
+La Plage 2 16:40:12
+La Plage 2 16:45:22
+La Plage 2 16:50:12
+La Plage 2 16:55:22
+La Plage 2 17:00:12
+La Plage 2 17:05:22
+La Plage 2 17:10:12
+La Plage 2 17:15:22
+La Plage 2 17:20:12
+La Plage 2 17:25:52
+La Plage 2 17:30:12
+La Plage 2 17:35:55
+La Plage 2 17:40:12
+La Plage 2 17:45:42
+La Plage 2 17:49:58
+La Plage 2 17:55:29
+La Plage 2 17:59:58
+La Plage 2 18:04:47
+La Plage 2 18:09:58
+La Plage 2 18:14:44
+La Plage 2 18:19:16
+La Plage 2 18:24:44
+La Plage 2 18:29:10
+La Plage 2 18:33:44
+La Plage 2 18:39:10
+La Plage 2 18:44:44
+La Plage 2 18:49:10
+La Plage 2 18:54:44
+La Plage 2 19:01:10
+La Plage 2 19:08:44
+La Plage 2 19:15:10
+La Plage 2 19:21:23
+La Plage 2 19:30:10
+La Plage 2 19:37:47
+La Plage 2 19:44:10
+La Plage 2 19:50:47
+La Plage 2 19:57:10
+La Plage 2 20:04:47
+La Plage 2 20:13:10
+La Plage 2 20:20:47
+La Plage 2 20:31:47
+La Plage 2 20:44:10
+La Plage 2 20:57:47
+La Plage 2 21:18:10
+La Plage 2 21:31:47
+La Plage 2 21:48:00
+La Plage 2 22:01:47
+La Plage 2 22:18:00
+La Plage 2 22:31:47
+La Plage 2 22:48:00
+La Plage 2 23:01:47
+La Plage 2 23:18:00
+La Plage 2 23:31:47
+La Plage 2 23:48:00
+La Plage 2 24:01:47
+Queneau 1 05:22:42
+Queneau 1 06:00:27
+Queneau 1 06:23:27
+Queneau 1 06:44:27
+Queneau 1 06:58:27
+Queneau 1 07:10:03
+Queneau 1 07:20:06
+Queneau 1 07:30:11
+Queneau 1 07:40:11
+Queneau 1 07:50:11
+Queneau 1 08:00:11
+Queneau 1 08:10:11
+Queneau 1 08:20:11
+Queneau 1 08:30:11
+Queneau 1 08:40:11
+Queneau 1 08:50:11
+Queneau 1 09:00:11
+Queneau 1 09:10:11
+Queneau 1 09:20:11
+Queneau 1 09:30:11
+Queneau 1 09:40:11
+Queneau 1 09:50:11
+Queneau 1 10:00:11
+Queneau 1 10:10:11
+Queneau 1 10:20:11
+Queneau 1 10:30:11
+Queneau 1 10:40:11
+Queneau 1 10:50:11
+Queneau 1 11:00:11
+Queneau 1 11:10:11
+Queneau 1 11:20:11
+Queneau 1 11:30:11
+Queneau 1 11:40:11
+Queneau 1 11:50:11
+Queneau 1 12:00:11
+Queneau 1 12:10:11
+Queneau 1 12:20:11
+Queneau 1 12:30:11
+Queneau 1 12:40:03
+Queneau 1 12:49:18
+Queneau 1 12:59:16
+Queneau 1 13:09:16
+Queneau 1 13:19:16
+Queneau 1 13:29:16
+Queneau 1 13:39:16
+Queneau 1 13:49:16
+Queneau 1 13:59:16
+Queneau 1 14:09:16
+Queneau 1 14:19:16
+Queneau 1 14:29:16
+Queneau 1 14:39:09
+Queneau 1 14:50:15
+Queneau 1 15:00:27
+Queneau 1 15:10:27
+Queneau 1 15:20:27
+Queneau 1 15:30:27
+Queneau 1 15:40:27
+Queneau 1 15:50:27
+Queneau 1 16:00:27
+Queneau 1 16:10:22
+Queneau 1 16:20:54
+Queneau 1 16:30:56
+Queneau 1 16:40:56
+Queneau 1 16:50:56
+Queneau 1 17:00:56
+Queneau 1 17:10:58
+Queneau 1 17:20:06
+Queneau 1 17:30:02
+Queneau 1 17:40:02
+Queneau 1 17:50:02
+Queneau 1 18:00:02
+Queneau 1 18:09:45
+Queneau 1 18:19:53
+Queneau 1 18:29:53
+Queneau 1 18:34:53
+Queneau 1 18:43:53
+Queneau 1 18:53:53
+Queneau 1 19:02:53
+Queneau 1 19:07:53
+Queneau 1 19:17:53
+Queneau 1 19:30:53
+Queneau 1 19:34:54
+Queneau 1 19:44:53
+Queneau 1 19:58:53
+Queneau 1 20:05:53
+Queneau 1 20:19:53
+Queneau 1 20:33:53
+Queneau 1 20:54:53
+Queneau 1 21:06:53
+Queneau 1 21:15:54
+Queneau 1 21:37:53
+Queneau 1 22:07:47
+Queneau 1 22:37:20
+Queneau 1 23:07:20
+Queneau 1 23:37:20
+Queneau 1 24:07:20
+Queneau 1 24:31:50
+Queneau 1 24:37:20
+Queneau 1 25:01:50
+Queneau 2 04:08:14
+Queneau 2 04:26:14
+Queneau 2 04:44:54
+Queneau 2 04:52:54
+Queneau 2 05:18:54
+Queneau 2 05:29:54
+Queneau 2 05:47:54
+Queneau 2 05:55:54
+Queneau 2 06:00:54
+Queneau 2 06:14:00
+Queneau 2 06:19:00
+Queneau 2 06:24:00
+Queneau 2 06:34:00
+Queneau 2 06:39:00
+Queneau 2 06:50:00
+Queneau 2 06:54:00
+Queneau 2 07:04:10
+Queneau 2 07:09:10
+Queneau 2 07:18:10
+Queneau 2 07:27:10
+Queneau 2 07:37:10
+Queneau 2 07:47:10
+Queneau 2 07:57:10
+Queneau 2 08:07:10
+Queneau 2 08:17:10
+Queneau 2 08:27:10
+Queneau 2 08:37:10
+Queneau 2 08:47:10
+Queneau 2 08:57:10
+Queneau 2 09:07:10
+Queneau 2 09:17:10
+Queneau 2 09:27:10
+Queneau 2 09:37:10
+Queneau 2 09:47:10
+Queneau 2 09:57:10
+Queneau 2 10:07:10
+Queneau 2 10:17:10
+Queneau 2 10:27:10
+Queneau 2 10:37:10
+Queneau 2 10:47:10
+Queneau 2 10:57:10
+Queneau 2 11:06:59
+Queneau 2 11:16:59
+Queneau 2 11:26:59
+Queneau 2 11:36:59
+Queneau 2 11:46:59
+Queneau 2 11:56:59
+Queneau 2 12:06:59
+Queneau 2 12:16:59
+Queneau 2 12:26:59
+Queneau 2 12:36:59
+Queneau 2 12:46:59
+Queneau 2 12:56:59
+Queneau 2 13:06:59
+Queneau 2 13:16:59
+Queneau 2 13:26:59
+Queneau 2 13:36:55
+Queneau 2 13:46:55
+Queneau 2 13:56:55
+Queneau 2 14:06:55
+Queneau 2 14:16:55
+Queneau 2 14:26:55
+Queneau 2 14:36:55
+Queneau 2 14:46:55
+Queneau 2 14:56:55
+Queneau 2 15:06:55
+Queneau 2 15:16:55
+Queneau 2 15:26:55
+Queneau 2 15:36:55
+Queneau 2 15:46:55
+Queneau 2 15:56:55
+Queneau 2 16:06:55
+Queneau 2 16:16:55
+Queneau 2 16:26:55
+Queneau 2 16:36:55
+Queneau 2 16:46:55
+Queneau 2 16:56:55
+Queneau 2 17:06:55
+Queneau 2 17:16:55
+Queneau 2 17:26:55
+Queneau 2 17:36:55
+Queneau 2 17:46:55
+Queneau 2 17:56:55
+Queneau 2 18:06:53
+Queneau 2 18:16:53
+Queneau 2 18:26:53
+Queneau 2 18:38:53
+Queneau 2 18:52:53
+Queneau 2 19:07:53
+Queneau 2 19:21:53
+Queneau 2 19:34:53
+Queneau 2 19:50:53
+Queneau 2 20:21:53
+Queneau 2 20:52:53
+Queneau 2 21:22:53
+Queneau 2 21:52:53
+Queneau 2 22:22:53
+Queneau 2 22:52:53
+Queneau 2 23:22:53
+Rond-Point 1 04:28:00
+Rond-Point 1 05:05:52
+Rond-Point 1 05:05:52
+Rond-Point 1 05:12:00
+Rond-Point 1 05:30:37
+Rond-Point 1 05:30:37
+Rond-Point 1 05:48:37
+Rond-Point 1 05:48:37
+Rond-Point 1 05:59:37
+Rond-Point 1 05:59:37
+Rond-Point 1 06:11:37
+Rond-Point 1 06:11:37
+Rond-Point 1 06:15:00
+Rond-Point 1 06:23:37
+Rond-Point 1 06:23:37
+Rond-Point 1 06:32:37
+Rond-Point 1 06:32:37
+Rond-Point 1 06:41:37
+Rond-Point 1 06:41:37
+Rond-Point 1 06:46:37
+Rond-Point 1 06:46:37
+Rond-Point 1 06:52:37
+Rond-Point 1 06:52:37
+Rond-Point 1 06:57:37
+Rond-Point 1 06:57:37
+Rond-Point 1 07:02:38
+Rond-Point 1 07:02:38
+Rond-Point 1 07:07:49
+Rond-Point 1 07:07:49
+Rond-Point 1 07:12:54
+Rond-Point 1 07:12:54
+Rond-Point 1 07:17:54
+Rond-Point 1 07:17:54
+Rond-Point 1 07:22:54
+Rond-Point 1 07:22:54
+Rond-Point 1 07:27:54
+Rond-Point 1 07:27:54
+Rond-Point 1 07:32:54
+Rond-Point 1 07:32:54
+Rond-Point 1 07:37:54
+Rond-Point 1 07:37:54
+Rond-Point 1 07:42:54
+Rond-Point 1 07:42:54
+Rond-Point 1 07:47:54
+Rond-Point 1 07:47:54
+Rond-Point 1 07:52:54
+Rond-Point 1 07:52:54
+Rond-Point 1 07:57:54
+Rond-Point 1 07:57:54
+Rond-Point 1 08:02:54
+Rond-Point 1 08:02:54
+Rond-Point 1 08:07:54
+Rond-Point 1 08:07:54
+Rond-Point 1 08:12:54
+Rond-Point 1 08:12:54
+Rond-Point 1 08:17:54
+Rond-Point 1 08:17:54
+Rond-Point 1 08:22:54
+Rond-Point 1 08:22:54
+Rond-Point 1 08:27:54
+Rond-Point 1 08:27:54
+Rond-Point 1 08:32:54
+Rond-Point 1 08:32:54
+Rond-Point 1 08:37:54
+Rond-Point 1 08:37:54
+Rond-Point 1 08:42:54
+Rond-Point 1 08:42:54
+Rond-Point 1 08:47:54
+Rond-Point 1 08:47:54
+Rond-Point 1 08:52:54
+Rond-Point 1 08:52:54
+Rond-Point 1 08:57:54
+Rond-Point 1 08:57:54
+Rond-Point 1 09:02:54
+Rond-Point 1 09:02:54
+Rond-Point 1 09:07:54
+Rond-Point 1 09:07:54
+Rond-Point 1 09:12:54
+Rond-Point 1 09:12:54
+Rond-Point 1 09:17:54
+Rond-Point 1 09:17:54
+Rond-Point 1 09:22:54
+Rond-Point 1 09:22:54
+Rond-Point 1 09:27:54
+Rond-Point 1 09:27:54
+Rond-Point 1 09:32:54
+Rond-Point 1 09:32:54
+Rond-Point 1 09:37:54
+Rond-Point 1 09:37:54
+Rond-Point 1 09:42:54
+Rond-Point 1 09:42:54
+Rond-Point 1 09:47:54
+Rond-Point 1 09:47:54
+Rond-Point 1 09:52:54
+Rond-Point 1 09:52:54
+Rond-Point 1 09:57:54
+Rond-Point 1 09:57:54
+Rond-Point 1 10:02:54
+Rond-Point 1 10:02:54
+Rond-Point 1 10:07:54
+Rond-Point 1 10:07:54
+Rond-Point 1 10:12:54
+Rond-Point 1 10:12:54
+Rond-Point 1 10:17:54
+Rond-Point 1 10:17:54
+Rond-Point 1 10:22:54
+Rond-Point 1 10:22:54
+Rond-Point 1 10:27:54
+Rond-Point 1 10:27:54
+Rond-Point 1 10:32:54
+Rond-Point 1 10:32:54
+Rond-Point 1 10:37:54
+Rond-Point 1 10:37:54
+Rond-Point 1 10:42:54
+Rond-Point 1 10:42:54
+Rond-Point 1 10:47:54
+Rond-Point 1 10:47:54
+Rond-Point 1 10:52:54
+Rond-Point 1 10:52:54
+Rond-Point 1 10:57:54
+Rond-Point 1 10:57:54
+Rond-Point 1 11:02:54
+Rond-Point 1 11:02:54
+Rond-Point 1 11:07:54
+Rond-Point 1 11:07:54
+Rond-Point 1 11:12:54
+Rond-Point 1 11:12:54
+Rond-Point 1 11:17:54
+Rond-Point 1 11:17:54
+Rond-Point 1 11:22:54
+Rond-Point 1 11:22:54
+Rond-Point 1 11:27:54
+Rond-Point 1 11:27:54
+Rond-Point 1 11:32:54
+Rond-Point 1 11:32:54
+Rond-Point 1 11:37:54
+Rond-Point 1 11:37:54
+Rond-Point 1 11:42:54
+Rond-Point 1 11:42:54
+Rond-Point 1 11:47:54
+Rond-Point 1 11:47:54
+Rond-Point 1 11:52:54
+Rond-Point 1 11:52:54
+Rond-Point 1 11:57:54
+Rond-Point 1 11:57:54
+Rond-Point 1 12:02:54
+Rond-Point 1 12:02:54
+Rond-Point 1 12:07:54
+Rond-Point 1 12:07:54
+Rond-Point 1 12:12:54
+Rond-Point 1 12:12:54
+Rond-Point 1 12:17:54
+Rond-Point 1 12:17:54
+Rond-Point 1 12:22:54
+Rond-Point 1 12:22:54
+Rond-Point 1 12:27:54
+Rond-Point 1 12:27:54
+Rond-Point 1 12:32:28
+Rond-Point 1 12:32:28
+Rond-Point 1 12:37:17
+Rond-Point 1 12:37:17
+Rond-Point 1 12:42:15
+Rond-Point 1 12:42:15
+Rond-Point 1 12:47:15
+Rond-Point 1 12:47:15
+Rond-Point 1 12:52:15
+Rond-Point 1 12:52:15
+Rond-Point 1 12:57:15
+Rond-Point 1 12:57:15
+Rond-Point 1 13:02:15
+Rond-Point 1 13:02:15
+Rond-Point 1 13:07:15
+Rond-Point 1 13:07:15
+Rond-Point 1 13:12:15
+Rond-Point 1 13:12:15
+Rond-Point 1 13:17:15
+Rond-Point 1 13:17:15
+Rond-Point 1 13:22:15
+Rond-Point 1 13:22:15
+Rond-Point 1 13:27:15
+Rond-Point 1 13:27:15
+Rond-Point 1 13:32:15
+Rond-Point 1 13:32:15
+Rond-Point 1 13:37:15
+Rond-Point 1 13:37:15
+Rond-Point 1 13:42:15
+Rond-Point 1 13:42:15
+Rond-Point 1 13:47:15
+Rond-Point 1 13:47:15
+Rond-Point 1 13:52:15
+Rond-Point 1 13:52:15
+Rond-Point 1 13:57:15
+Rond-Point 1 13:57:15
+Rond-Point 1 14:02:15
+Rond-Point 1 14:02:15
+Rond-Point 1 14:07:15
+Rond-Point 1 14:07:15
+Rond-Point 1 14:12:15
+Rond-Point 1 14:12:15
+Rond-Point 1 14:17:15
+Rond-Point 1 14:17:15
+Rond-Point 1 14:22:15
+Rond-Point 1 14:22:15
+Rond-Point 1 14:27:15
+Rond-Point 1 14:27:15
+Rond-Point 1 14:32:27
+Rond-Point 1 14:32:27
+Rond-Point 1 14:37:58
+Rond-Point 1 14:37:58
+Rond-Point 1 14:43:10
+Rond-Point 1 14:43:10
+Rond-Point 1 14:48:10
+Rond-Point 1 14:48:10
+Rond-Point 1 14:53:10
+Rond-Point 1 14:53:10
+Rond-Point 1 14:58:10
+Rond-Point 1 14:58:10
+Rond-Point 1 15:03:10
+Rond-Point 1 15:03:10
+Rond-Point 1 15:08:10
+Rond-Point 1 15:08:10
+Rond-Point 1 15:13:10
+Rond-Point 1 15:13:10
+Rond-Point 1 15:18:10
+Rond-Point 1 15:18:10
+Rond-Point 1 15:23:10
+Rond-Point 1 15:23:10
+Rond-Point 1 15:28:10
+Rond-Point 1 15:28:10
+Rond-Point 1 15:33:10
+Rond-Point 1 15:33:10
+Rond-Point 1 15:38:10
+Rond-Point 1 15:38:10
+Rond-Point 1 15:43:10
+Rond-Point 1 15:43:10
+Rond-Point 1 15:48:10
+Rond-Point 1 15:48:10
+Rond-Point 1 15:53:10
+Rond-Point 1 15:53:10
+Rond-Point 1 15:58:10
+Rond-Point 1 15:58:10
+Rond-Point 1 16:03:30
+Rond-Point 1 16:03:30
+Rond-Point 1 16:08:40
+Rond-Point 1 16:08:40
+Rond-Point 1 16:13:42
+Rond-Point 1 16:13:42
+Rond-Point 1 16:18:42
+Rond-Point 1 16:18:42
+Rond-Point 1 16:23:42
+Rond-Point 1 16:23:42
+Rond-Point 1 16:28:42
+Rond-Point 1 16:28:42
+Rond-Point 1 16:33:42
+Rond-Point 1 16:33:42
+Rond-Point 1 16:38:42
+Rond-Point 1 16:38:42
+Rond-Point 1 16:43:42
+Rond-Point 1 16:43:42
+Rond-Point 1 16:48:42
+Rond-Point 1 16:48:42
+Rond-Point 1 16:53:42
+Rond-Point 1 16:53:42
+Rond-Point 1 16:58:42
+Rond-Point 1 16:58:42
+Rond-Point 1 17:03:19
+Rond-Point 1 17:03:19
+Rond-Point 1 17:08:03
+Rond-Point 1 17:08:03
+Rond-Point 1 17:12:59
+Rond-Point 1 17:12:59
+Rond-Point 1 17:17:59
+Rond-Point 1 17:17:59
+Rond-Point 1 17:22:59
+Rond-Point 1 17:22:59
+Rond-Point 1 17:27:59
+Rond-Point 1 17:27:59
+Rond-Point 1 17:32:59
+Rond-Point 1 17:32:59
+Rond-Point 1 17:37:59
+Rond-Point 1 17:37:59
+Rond-Point 1 17:42:59
+Rond-Point 1 17:42:59
+Rond-Point 1 17:47:59
+Rond-Point 1 17:47:59
+Rond-Point 1 17:52:59
+Rond-Point 1 17:52:59
+Rond-Point 1 17:57:59
+Rond-Point 1 17:57:59
+Rond-Point 1 18:02:59
+Rond-Point 1 18:02:59
+Rond-Point 1 18:07:59
+Rond-Point 1 18:07:59
+Rond-Point 1 18:12:59
+Rond-Point 1 18:12:59
+Rond-Point 1 18:17:59
+Rond-Point 1 18:17:59
+Rond-Point 1 18:22:59
+Rond-Point 1 18:22:59
+Rond-Point 1 18:27:59
+Rond-Point 1 18:27:59
+Rond-Point 1 18:31:59
+Rond-Point 1 18:31:59
+Rond-Point 1 18:36:59
+Rond-Point 1 18:36:59
+Rond-Point 1 18:41:59
+Rond-Point 1 18:41:59
+Rond-Point 1 18:45:59
+Rond-Point 1 18:45:59
+Rond-Point 1 18:50:59
+Rond-Point 1 18:50:59
+Rond-Point 1 18:55:59
+Rond-Point 1 18:55:59
+Rond-Point 1 19:00:59
+Rond-Point 1 19:00:59
+Rond-Point 1 19:05:59
+Rond-Point 1 19:05:59
+Rond-Point 1 19:11:59
+Rond-Point 1 19:11:59
+Rond-Point 1 19:18:59
+Rond-Point 1 19:18:59
+Rond-Point 1 19:23:00
+Rond-Point 1 19:25:59
+Rond-Point 1 19:25:59
+Rond-Point 1 19:32:59
+Rond-Point 1 19:32:59
+Rond-Point 1 19:39:59
+Rond-Point 1 19:39:59
+Rond-Point 1 19:46:59
+Rond-Point 1 19:46:59
+Rond-Point 1 19:53:59
+Rond-Point 1 19:53:59
+Rond-Point 1 20:00:59
+Rond-Point 1 20:00:59
+Rond-Point 1 20:07:59
+Rond-Point 1 20:07:59
+Rond-Point 1 20:14:59
+Rond-Point 1 20:14:59
+Rond-Point 1 20:21:59
+Rond-Point 1 20:21:59
+Rond-Point 1 20:31:59
+Rond-Point 1 20:31:59
+Rond-Point 1 20:42:59
+Rond-Point 1 20:42:59
+Rond-Point 1 20:54:59
+Rond-Point 1 20:54:59
+Rond-Point 1 21:04:00
+Rond-Point 1 21:07:59
+Rond-Point 1 21:07:59
+Rond-Point 1 21:22:59
+Rond-Point 1 21:22:59
+Rond-Point 1 21:35:59
+Rond-Point 1 21:35:59
+Rond-Point 1 21:52:59
+Rond-Point 1 21:52:59
+Rond-Point 1 22:05:51
+Rond-Point 1 22:05:51
+Rond-Point 1 22:22:30
+Rond-Point 1 22:22:30
+Rond-Point 1 22:35:30
+Rond-Point 1 22:35:30
+Rond-Point 1 22:52:30
+Rond-Point 1 22:52:30
+Rond-Point 1 23:05:30
+Rond-Point 1 23:05:30
+Rond-Point 1 23:22:30
+Rond-Point 1 23:22:30
+Rond-Point 1 23:35:30
+Rond-Point 1 23:35:30
+Rond-Point 1 23:52:30
+Rond-Point 1 23:52:30
+Rond-Point 1 24:05:30
+Rond-Point 1 24:05:30
+Rond-Point 1 24:20:00
+Rond-Point 1 24:22:30
+Rond-Point 1 24:22:30
+Rond-Point 1 24:50:00
+Rond-Point 2 04:21:42
+Rond-Point 2 04:39:22
+Rond-Point 2 04:39:22
+Rond-Point 2 04:57:42
+Rond-Point 2 04:57:42
+Rond-Point 2 05:05:42
+Rond-Point 2 05:13:43
+Rond-Point 2 05:13:43
+Rond-Point 2 05:31:42
+Rond-Point 2 05:31:42
+Rond-Point 2 05:42:42
+Rond-Point 2 05:42:42
+Rond-Point 2 05:52:43
+Rond-Point 2 05:52:43
+Rond-Point 2 06:00:42
+Rond-Point 2 06:00:42
+Rond-Point 2 06:08:34
+Rond-Point 2 06:13:40
+Rond-Point 2 06:13:40
+Rond-Point 2 06:19:50
+Rond-Point 2 06:19:50
+Rond-Point 2 06:26:46
+Rond-Point 2 06:26:46
+Rond-Point 2 06:31:46
+Rond-Point 2 06:31:46
+Rond-Point 2 06:36:46
+Rond-Point 2 06:36:46
+Rond-Point 2 06:41:50
+Rond-Point 2 06:41:50
+Rond-Point 2 06:46:46
+Rond-Point 2 06:46:46
+Rond-Point 2 06:51:46
+Rond-Point 2 06:51:46
+Rond-Point 2 06:56:50
+Rond-Point 2 06:56:50
+Rond-Point 2 07:02:46
+Rond-Point 2 07:02:46
+Rond-Point 2 07:07:01
+Rond-Point 2 07:07:01
+Rond-Point 2 07:12:23
+Rond-Point 2 07:12:23
+Rond-Point 2 07:17:20
+Rond-Point 2 07:17:20
+Rond-Point 2 07:22:20
+Rond-Point 2 07:22:20
+Rond-Point 2 07:26:39
+Rond-Point 2 07:26:39
+Rond-Point 2 07:31:20
+Rond-Point 2 07:31:20
+Rond-Point 2 07:35:39
+Rond-Point 2 07:35:39
+Rond-Point 2 07:40:20
+Rond-Point 2 07:40:20
+Rond-Point 2 07:45:39
+Rond-Point 2 07:45:39
+Rond-Point 2 07:50:20
+Rond-Point 2 07:50:20
+Rond-Point 2 07:55:39
+Rond-Point 2 07:55:39
+Rond-Point 2 08:00:20
+Rond-Point 2 08:00:20
+Rond-Point 2 08:05:39
+Rond-Point 2 08:05:39
+Rond-Point 2 08:10:20
+Rond-Point 2 08:10:20
+Rond-Point 2 08:15:39
+Rond-Point 2 08:15:39
+Rond-Point 2 08:20:20
+Rond-Point 2 08:20:20
+Rond-Point 2 08:25:39
+Rond-Point 2 08:25:39
+Rond-Point 2 08:30:20
+Rond-Point 2 08:30:20
+Rond-Point 2 08:35:39
+Rond-Point 2 08:35:39
+Rond-Point 2 08:40:20
+Rond-Point 2 08:40:20
+Rond-Point 2 08:45:39
+Rond-Point 2 08:45:39
+Rond-Point 2 08:50:20
+Rond-Point 2 08:50:20
+Rond-Point 2 08:55:39
+Rond-Point 2 08:55:39
+Rond-Point 2 09:00:20
+Rond-Point 2 09:00:20
+Rond-Point 2 09:05:39
+Rond-Point 2 09:05:39
+Rond-Point 2 09:10:20
+Rond-Point 2 09:10:20
+Rond-Point 2 09:15:39
+Rond-Point 2 09:15:39
+Rond-Point 2 09:20:20
+Rond-Point 2 09:20:20
+Rond-Point 2 09:25:39
+Rond-Point 2 09:25:39
+Rond-Point 2 09:30:20
+Rond-Point 2 09:30:20
+Rond-Point 2 09:35:39
+Rond-Point 2 09:35:39
+Rond-Point 2 09:40:20
+Rond-Point 2 09:40:20
+Rond-Point 2 09:45:39
+Rond-Point 2 09:45:39
+Rond-Point 2 09:50:20
+Rond-Point 2 09:50:20
+Rond-Point 2 09:55:39
+Rond-Point 2 09:55:39
+Rond-Point 2 10:00:20
+Rond-Point 2 10:00:20
+Rond-Point 2 10:05:39
+Rond-Point 2 10:05:39
+Rond-Point 2 10:10:20
+Rond-Point 2 10:10:20
+Rond-Point 2 10:15:39
+Rond-Point 2 10:15:39
+Rond-Point 2 10:20:20
+Rond-Point 2 10:20:20
+Rond-Point 2 10:25:39
+Rond-Point 2 10:25:39
+Rond-Point 2 10:30:20
+Rond-Point 2 10:30:20
+Rond-Point 2 10:35:39
+Rond-Point 2 10:35:39
+Rond-Point 2 10:40:20
+Rond-Point 2 10:40:20
+Rond-Point 2 10:45:39
+Rond-Point 2 10:45:39
+Rond-Point 2 10:50:20
+Rond-Point 2 10:50:20
+Rond-Point 2 10:55:39
+Rond-Point 2 10:55:39
+Rond-Point 2 11:00:20
+Rond-Point 2 11:00:20
+Rond-Point 2 11:04:39
+Rond-Point 2 11:04:39
+Rond-Point 2 11:09:57
+Rond-Point 2 11:09:57
+Rond-Point 2 11:14:39
+Rond-Point 2 11:14:39
+Rond-Point 2 11:19:46
+Rond-Point 2 11:19:46
+Rond-Point 2 11:24:39
+Rond-Point 2 11:24:39
+Rond-Point 2 11:29:46
+Rond-Point 2 11:29:46
+Rond-Point 2 11:34:39
+Rond-Point 2 11:34:39
+Rond-Point 2 11:39:46
+Rond-Point 2 11:39:46
+Rond-Point 2 11:44:39
+Rond-Point 2 11:44:39
+Rond-Point 2 11:49:46
+Rond-Point 2 11:49:46
+Rond-Point 2 11:54:39
+Rond-Point 2 11:54:39
+Rond-Point 2 11:59:46
+Rond-Point 2 11:59:46
+Rond-Point 2 12:04:39
+Rond-Point 2 12:04:39
+Rond-Point 2 12:09:46
+Rond-Point 2 12:09:46
+Rond-Point 2 12:14:39
+Rond-Point 2 12:14:39
+Rond-Point 2 12:19:46
+Rond-Point 2 12:19:46
+Rond-Point 2 12:24:39
+Rond-Point 2 12:24:39
+Rond-Point 2 12:29:46
+Rond-Point 2 12:29:46
+Rond-Point 2 12:34:39
+Rond-Point 2 12:34:39
+Rond-Point 2 12:39:46
+Rond-Point 2 12:39:46
+Rond-Point 2 12:44:39
+Rond-Point 2 12:44:39
+Rond-Point 2 12:49:46
+Rond-Point 2 12:49:46
+Rond-Point 2 12:54:39
+Rond-Point 2 12:54:39
+Rond-Point 2 12:59:46
+Rond-Point 2 12:59:46
+Rond-Point 2 13:04:39
+Rond-Point 2 13:04:39
+Rond-Point 2 13:09:46
+Rond-Point 2 13:09:46
+Rond-Point 2 13:14:39
+Rond-Point 2 13:14:39
+Rond-Point 2 13:19:46
+Rond-Point 2 13:19:46
+Rond-Point 2 13:24:39
+Rond-Point 2 13:24:39
+Rond-Point 2 13:29:46
+Rond-Point 2 13:29:46
+Rond-Point 2 13:34:39
+Rond-Point 2 13:34:39
+Rond-Point 2 13:40:24
+Rond-Point 2 13:40:24
+Rond-Point 2 13:45:39
+Rond-Point 2 13:45:39
+Rond-Point 2 13:50:29
+Rond-Point 2 13:50:29
+Rond-Point 2 13:55:39
+Rond-Point 2 13:55:39
+Rond-Point 2 14:00:29
+Rond-Point 2 14:00:29
+Rond-Point 2 14:05:39
+Rond-Point 2 14:05:39
+Rond-Point 2 14:10:29
+Rond-Point 2 14:10:29
+Rond-Point 2 14:15:39
+Rond-Point 2 14:15:39
+Rond-Point 2 14:20:29
+Rond-Point 2 14:20:29
+Rond-Point 2 14:25:39
+Rond-Point 2 14:25:39
+Rond-Point 2 14:30:29
+Rond-Point 2 14:30:29
+Rond-Point 2 14:35:39
+Rond-Point 2 14:35:39
+Rond-Point 2 14:40:29
+Rond-Point 2 14:40:29
+Rond-Point 2 14:45:39
+Rond-Point 2 14:45:39
+Rond-Point 2 14:50:29
+Rond-Point 2 14:50:29
+Rond-Point 2 14:55:39
+Rond-Point 2 14:55:39
+Rond-Point 2 15:00:29
+Rond-Point 2 15:00:29
+Rond-Point 2 15:05:39
+Rond-Point 2 15:05:39
+Rond-Point 2 15:10:29
+Rond-Point 2 15:10:29
+Rond-Point 2 15:15:39
+Rond-Point 2 15:15:39
+Rond-Point 2 15:20:29
+Rond-Point 2 15:20:29
+Rond-Point 2 15:25:39
+Rond-Point 2 15:25:39
+Rond-Point 2 15:30:29
+Rond-Point 2 15:30:29
+Rond-Point 2 15:35:39
+Rond-Point 2 15:35:39
+Rond-Point 2 15:40:29
+Rond-Point 2 15:40:29
+Rond-Point 2 15:45:39
+Rond-Point 2 15:45:39
+Rond-Point 2 15:50:29
+Rond-Point 2 15:50:29
+Rond-Point 2 15:55:39
+Rond-Point 2 15:55:39
+Rond-Point 2 16:00:29
+Rond-Point 2 16:00:29
+Rond-Point 2 16:05:39
+Rond-Point 2 16:05:39
+Rond-Point 2 16:10:29
+Rond-Point 2 16:10:29
+Rond-Point 2 16:15:39
+Rond-Point 2 16:15:39
+Rond-Point 2 16:20:29
+Rond-Point 2 16:20:29
+Rond-Point 2 16:25:39
+Rond-Point 2 16:25:39
+Rond-Point 2 16:30:29
+Rond-Point 2 16:30:29
+Rond-Point 2 16:35:39
+Rond-Point 2 16:35:39
+Rond-Point 2 16:40:29
+Rond-Point 2 16:40:29
+Rond-Point 2 16:45:39
+Rond-Point 2 16:45:39
+Rond-Point 2 16:50:29
+Rond-Point 2 16:50:29
+Rond-Point 2 16:55:39
+Rond-Point 2 16:55:39
+Rond-Point 2 17:00:29
+Rond-Point 2 17:00:29
+Rond-Point 2 17:05:39
+Rond-Point 2 17:05:39
+Rond-Point 2 17:10:29
+Rond-Point 2 17:10:29
+Rond-Point 2 17:16:09
+Rond-Point 2 17:16:09
+Rond-Point 2 17:20:29
+Rond-Point 2 17:20:29
+Rond-Point 2 17:26:12
+Rond-Point 2 17:26:12
+Rond-Point 2 17:30:29
+Rond-Point 2 17:30:29
+Rond-Point 2 17:36:12
+Rond-Point 2 17:36:12
+Rond-Point 2 17:40:29
+Rond-Point 2 17:40:29
+Rond-Point 2 17:46:00
+Rond-Point 2 17:46:00
+Rond-Point 2 17:50:29
+Rond-Point 2 17:50:29
+Rond-Point 2 17:55:18
+Rond-Point 2 17:55:18
+Rond-Point 2 18:00:29
+Rond-Point 2 18:00:29
+Rond-Point 2 18:05:15
+Rond-Point 2 18:05:15
+Rond-Point 2 18:09:47
+Rond-Point 2 18:09:47
+Rond-Point 2 18:15:15
+Rond-Point 2 18:15:15
+Rond-Point 2 18:19:41
+Rond-Point 2 18:19:41
+Rond-Point 2 18:24:15
+Rond-Point 2 18:24:15
+Rond-Point 2 18:29:41
+Rond-Point 2 18:29:41
+Rond-Point 2 18:35:15
+Rond-Point 2 18:35:15
+Rond-Point 2 18:39:41
+Rond-Point 2 18:39:41
+Rond-Point 2 18:45:15
+Rond-Point 2 18:45:15
+Rond-Point 2 18:51:41
+Rond-Point 2 18:51:41
+Rond-Point 2 18:59:15
+Rond-Point 2 18:59:15
+Rond-Point 2 19:05:41
+Rond-Point 2 19:05:41
+Rond-Point 2 19:11:54
+Rond-Point 2 19:11:54
+Rond-Point 2 19:16:32
+Rond-Point 2 19:20:41
+Rond-Point 2 19:20:41
+Rond-Point 2 19:28:18
+Rond-Point 2 19:28:18
+Rond-Point 2 19:34:41
+Rond-Point 2 19:34:41
+Rond-Point 2 19:41:18
+Rond-Point 2 19:41:18
+Rond-Point 2 19:47:41
+Rond-Point 2 19:47:41
+Rond-Point 2 19:55:18
+Rond-Point 2 19:55:18
+Rond-Point 2 20:03:41
+Rond-Point 2 20:03:41
+Rond-Point 2 20:11:18
+Rond-Point 2 20:11:18
+Rond-Point 2 20:22:18
+Rond-Point 2 20:22:18
+Rond-Point 2 20:34:41
+Rond-Point 2 20:34:41
+Rond-Point 2 20:48:18
+Rond-Point 2 20:48:18
+Rond-Point 2 20:57:18
+Rond-Point 2 21:05:41
+Rond-Point 2 21:05:41
+Rond-Point 2 21:22:18
+Rond-Point 2 21:22:18
+Rond-Point 2 21:35:31
+Rond-Point 2 21:35:31
+Rond-Point 2 21:52:18
+Rond-Point 2 21:52:18
+Rond-Point 2 22:05:31
+Rond-Point 2 22:05:31
+Rond-Point 2 22:22:18
+Rond-Point 2 22:22:18
+Rond-Point 2 22:35:31
+Rond-Point 2 22:35:31
+Rond-Point 2 22:52:18
+Rond-Point 2 22:52:18
+Rond-Point 2 23:05:31
+Rond-Point 2 23:05:31
+Rond-Point 2 23:22:18
+Rond-Point 2 23:22:18
+Rond-Point 2 23:35:31
+Rond-Point 2 23:35:31
+Rond-Point 2 23:52:18
+Rond-Point 2 23:52:18
+Sacré Coeur 1 05:17:48
+Sacré Coeur 1 05:55:33
+Sacré Coeur 1 06:18:33
+Sacré Coeur 1 06:39:33
+Sacré Coeur 1 06:53:33
+Sacré Coeur 1 07:04:57
+Sacré Coeur 1 07:15:00
+Sacré Coeur 1 07:25:05
+Sacré Coeur 1 07:35:05
+Sacré Coeur 1 07:45:05
+Sacré Coeur 1 07:55:05
+Sacré Coeur 1 08:05:05
+Sacré Coeur 1 08:15:05
+Sacré Coeur 1 08:25:05
+Sacré Coeur 1 08:35:05
+Sacré Coeur 1 08:45:05
+Sacré Coeur 1 08:55:05
+Sacré Coeur 1 09:05:05
+Sacré Coeur 1 09:15:05
+Sacré Coeur 1 09:25:05
+Sacré Coeur 1 09:35:05
+Sacré Coeur 1 09:45:05
+Sacré Coeur 1 09:55:05
+Sacré Coeur 1 10:05:05
+Sacré Coeur 1 10:15:05
+Sacré Coeur 1 10:25:05
+Sacré Coeur 1 10:35:05
+Sacré Coeur 1 10:45:05
+Sacré Coeur 1 10:55:05
+Sacré Coeur 1 11:05:05
+Sacré Coeur 1 11:15:05
+Sacré Coeur 1 11:25:05
+Sacré Coeur 1 11:35:05
+Sacré Coeur 1 11:45:05
+Sacré Coeur 1 11:55:05
+Sacré Coeur 1 12:05:05
+Sacré Coeur 1 12:15:05
+Sacré Coeur 1 12:25:05
+Sacré Coeur 1 12:34:50
+Sacré Coeur 1 12:44:05
+Sacré Coeur 1 12:54:03
+Sacré Coeur 1 13:04:03
+Sacré Coeur 1 13:14:03
+Sacré Coeur 1 13:24:03
+Sacré Coeur 1 13:34:03
+Sacré Coeur 1 13:44:03
+Sacré Coeur 1 13:54:03
+Sacré Coeur 1 14:04:03
+Sacré Coeur 1 14:14:03
+Sacré Coeur 1 14:24:03
+Sacré Coeur 1 14:34:03
+Sacré Coeur 1 14:45:09
+Sacré Coeur 1 14:55:21
+Sacré Coeur 1 15:05:21
+Sacré Coeur 1 15:15:21
+Sacré Coeur 1 15:25:21
+Sacré Coeur 1 15:35:21
+Sacré Coeur 1 15:45:21
+Sacré Coeur 1 15:55:21
+Sacré Coeur 1 16:05:21
+Sacré Coeur 1 16:15:53
+Sacré Coeur 1 16:25:55
+Sacré Coeur 1 16:35:55
+Sacré Coeur 1 16:45:55
+Sacré Coeur 1 16:55:55
+Sacré Coeur 1 17:05:43
+Sacré Coeur 1 17:14:51
+Sacré Coeur 1 17:24:47
+Sacré Coeur 1 17:34:47
+Sacré Coeur 1 17:44:47
+Sacré Coeur 1 17:54:47
+Sacré Coeur 1 18:04:47
+Sacré Coeur 1 18:14:55
+Sacré Coeur 1 18:24:55
+Sacré Coeur 1 18:29:55
+Sacré Coeur 1 18:38:55
+Sacré Coeur 1 18:48:55
+Sacré Coeur 1 18:57:55
+Sacré Coeur 1 19:02:55
+Sacré Coeur 1 19:12:55
+Sacré Coeur 1 19:25:55
+Sacré Coeur 1 19:29:56
+Sacré Coeur 1 19:39:55
+Sacré Coeur 1 19:53:55
+Sacré Coeur 1 20:00:55
+Sacré Coeur 1 20:14:55
+Sacré Coeur 1 20:28:55
+Sacré Coeur 1 20:49:55
+Sacré Coeur 1 21:01:55
+Sacré Coeur 1 21:10:56
+Sacré Coeur 1 21:32:55
+Sacré Coeur 1 22:02:55
+Sacré Coeur 1 22:32:28
+Sacré Coeur 1 23:02:28
+Sacré Coeur 1 23:32:28
+Sacré Coeur 1 24:02:28
+Sacré Coeur 1 24:26:58
+Sacré Coeur 1 24:32:28
+Sacré Coeur 1 24:56:58
+Sacré Coeur 2 04:13:58
+Sacré Coeur 2 04:31:48
+Sacré Coeur 2 04:50:08
+Sacré Coeur 2 04:58:08
+Sacré Coeur 2 05:24:08
+Sacré Coeur 2 05:35:08
+Sacré Coeur 2 05:53:08
+Sacré Coeur 2 06:01:08
+Sacré Coeur 2 06:06:14
+Sacré Coeur 2 06:19:20
+Sacré Coeur 2 06:24:20
+Sacré Coeur 2 06:29:20
+Sacré Coeur 2 06:39:20
+Sacré Coeur 2 06:44:20
+Sacré Coeur 2 06:55:20
+Sacré Coeur 2 06:59:20
+Sacré Coeur 2 07:09:35
+Sacré Coeur 2 07:14:35
+Sacré Coeur 2 07:23:35
+Sacré Coeur 2 07:32:35
+Sacré Coeur 2 07:42:35
+Sacré Coeur 2 07:52:35
+Sacré Coeur 2 08:02:35
+Sacré Coeur 2 08:12:35
+Sacré Coeur 2 08:22:35
+Sacré Coeur 2 08:32:35
+Sacré Coeur 2 08:42:35
+Sacré Coeur 2 08:52:35
+Sacré Coeur 2 09:02:35
+Sacré Coeur 2 09:12:35
+Sacré Coeur 2 09:22:35
+Sacré Coeur 2 09:32:35
+Sacré Coeur 2 09:42:35
+Sacré Coeur 2 09:52:35
+Sacré Coeur 2 10:02:35
+Sacré Coeur 2 10:12:35
+Sacré Coeur 2 10:22:35
+Sacré Coeur 2 10:32:35
+Sacré Coeur 2 10:42:35
+Sacré Coeur 2 10:52:35
+Sacré Coeur 2 11:02:40
+Sacré Coeur 2 11:12:29
+Sacré Coeur 2 11:22:29
+Sacré Coeur 2 11:32:29
+Sacré Coeur 2 11:42:29
+Sacré Coeur 2 11:52:29
+Sacré Coeur 2 12:02:29
+Sacré Coeur 2 12:12:29
+Sacré Coeur 2 12:22:29
+Sacré Coeur 2 12:32:29
+Sacré Coeur 2 12:42:29
+Sacré Coeur 2 12:52:29
+Sacré Coeur 2 13:02:29
+Sacré Coeur 2 13:12:29
+Sacré Coeur 2 13:22:29
+Sacré Coeur 2 13:32:42
+Sacré Coeur 2 13:42:47
+Sacré Coeur 2 13:52:47
+Sacré Coeur 2 14:02:47
+Sacré Coeur 2 14:12:47
+Sacré Coeur 2 14:22:47
+Sacré Coeur 2 14:32:47
+Sacré Coeur 2 14:42:47
+Sacré Coeur 2 14:52:47
+Sacré Coeur 2 15:02:47
+Sacré Coeur 2 15:12:47
+Sacré Coeur 2 15:22:47
+Sacré Coeur 2 15:32:47
+Sacré Coeur 2 15:42:47
+Sacré Coeur 2 15:52:47
+Sacré Coeur 2 16:02:47
+Sacré Coeur 2 16:12:47
+Sacré Coeur 2 16:22:47
+Sacré Coeur 2 16:32:47
+Sacré Coeur 2 16:42:47
+Sacré Coeur 2 16:52:47
+Sacré Coeur 2 17:02:47
+Sacré Coeur 2 17:12:47
+Sacré Coeur 2 17:22:47
+Sacré Coeur 2 17:32:47
+Sacré Coeur 2 17:42:47
+Sacré Coeur 2 17:52:47
+Sacré Coeur 2 18:02:22
+Sacré Coeur 2 18:12:16
+Sacré Coeur 2 18:22:16
+Sacré Coeur 2 18:32:16
+Sacré Coeur 2 18:44:16
+Sacré Coeur 2 18:58:16
+Sacré Coeur 2 19:13:16
+Sacré Coeur 2 19:27:16
+Sacré Coeur 2 19:40:16
+Sacré Coeur 2 19:56:16
+Sacré Coeur 2 20:27:16
+Sacré Coeur 2 20:58:16
+Sacré Coeur 2 21:28:06
+Sacré Coeur 2 21:58:06
+Sacré Coeur 2 22:28:06
+Sacré Coeur 2 22:58:06
+Sacré Coeur 2 23:28:06
+Schuman 1 04:39:47
+Schuman 1 05:22:37
+Schuman 1 05:41:14
+Schuman 1 06:10:14
+Schuman 1 06:25:37
+Schuman 1 06:34:14
+Schuman 1 06:52:14
+Schuman 1 07:03:34
+Schuman 1 07:13:36
+Schuman 1 07:23:52
+Schuman 1 07:33:52
+Schuman 1 07:43:52
+Schuman 1 07:53:52
+Schuman 1 08:03:52
+Schuman 1 08:13:52
+Schuman 1 08:23:52
+Schuman 1 08:33:52
+Schuman 1 08:43:52
+Schuman 1 08:53:52
+Schuman 1 09:03:52
+Schuman 1 09:13:52
+Schuman 1 09:23:52
+Schuman 1 09:33:52
+Schuman 1 09:43:52
+Schuman 1 09:53:52
+Schuman 1 10:03:52
+Schuman 1 10:13:52
+Schuman 1 10:23:52
+Schuman 1 10:33:52
+Schuman 1 10:43:52
+Schuman 1 10:53:52
+Schuman 1 11:03:52
+Schuman 1 11:13:52
+Schuman 1 11:23:52
+Schuman 1 11:33:52
+Schuman 1 11:43:52
+Schuman 1 11:53:52
+Schuman 1 12:03:52
+Schuman 1 12:13:52
+Schuman 1 12:23:52
+Schuman 1 12:33:40
+Schuman 1 12:43:14
+Schuman 1 12:53:01
+Schuman 1 13:03:01
+Schuman 1 13:13:01
+Schuman 1 13:23:01
+Schuman 1 13:33:01
+Schuman 1 13:43:01
+Schuman 1 13:53:01
+Schuman 1 14:03:01
+Schuman 1 14:13:01
+Schuman 1 14:23:01
+Schuman 1 14:32:55
+Schuman 1 14:43:00
+Schuman 1 14:53:43
+Schuman 1 15:03:43
+Schuman 1 15:13:43
+Schuman 1 15:23:43
+Schuman 1 15:33:43
+Schuman 1 15:43:43
+Schuman 1 15:53:43
+Schuman 1 16:03:53
+Schuman 1 16:14:27
+Schuman 1 16:24:39
+Schuman 1 16:34:39
+Schuman 1 16:44:39
+Schuman 1 16:54:39
+Schuman 1 17:04:29
+Schuman 1 17:13:55
+Schuman 1 17:23:35
+Schuman 1 17:33:35
+Schuman 1 17:43:35
+Schuman 1 17:53:35
+Schuman 1 18:03:35
+Schuman 1 18:13:35
+Schuman 1 18:23:35
+Schuman 1 18:38:35
+Schuman 1 18:47:35
+Schuman 1 18:56:35
+Schuman 1 19:11:35
+Schuman 1 19:22:35
+Schuman 1 19:36:35
+Schuman 1 19:50:35
+Schuman 1 20:11:35
+Schuman 1 20:25:35
+Schuman 1 20:42:35
+Schuman 1 21:18:35
+Schuman 1 21:46:35
+Schuman 1 22:16:13
+Schuman 1 22:45:52
+Schuman 1 23:15:52
+Schuman 1 23:45:52
+Schuman 1 24:15:52
+Schuman 2 05:01:28
+Schuman 2 05:41:28
+Schuman 2 06:08:23
+Schuman 2 06:30:23
+Schuman 2 06:45:23
+Schuman 2 07:00:23
+Schuman 2 07:14:39
+Schuman 2 07:23:39
+Schuman 2 07:33:39
+Schuman 2 07:43:39
+Schuman 2 07:53:39
+Schuman 2 08:03:39
+Schuman 2 08:13:39
+Schuman 2 08:23:39
+Schuman 2 08:33:39
+Schuman 2 08:43:39
+Schuman 2 08:53:39
+Schuman 2 09:03:39
+Schuman 2 09:13:39
+Schuman 2 09:23:39
+Schuman 2 09:33:39
+Schuman 2 09:43:39
+Schuman 2 09:53:39
+Schuman 2 10:03:39
+Schuman 2 10:13:39
+Schuman 2 10:23:39
+Schuman 2 10:33:39
+Schuman 2 10:43:39
+Schuman 2 10:52:39
+Schuman 2 11:02:39
+Schuman 2 11:12:39
+Schuman 2 11:22:39
+Schuman 2 11:32:39
+Schuman 2 11:42:39
+Schuman 2 11:52:39
+Schuman 2 12:02:39
+Schuman 2 12:12:39
+Schuman 2 12:22:39
+Schuman 2 12:32:39
+Schuman 2 12:42:39
+Schuman 2 12:52:39
+Schuman 2 13:02:39
+Schuman 2 13:12:39
+Schuman 2 13:22:39
+Schuman 2 13:33:39
+Schuman 2 13:43:39
+Schuman 2 13:53:39
+Schuman 2 14:03:39
+Schuman 2 14:13:39
+Schuman 2 14:23:39
+Schuman 2 14:33:39
+Schuman 2 14:43:39
+Schuman 2 14:53:39
+Schuman 2 15:03:39
+Schuman 2 15:13:39
+Schuman 2 15:23:39
+Schuman 2 15:33:39
+Schuman 2 15:43:39
+Schuman 2 15:53:39
+Schuman 2 16:03:39
+Schuman 2 16:13:39
+Schuman 2 16:23:39
+Schuman 2 16:33:39
+Schuman 2 16:43:39
+Schuman 2 16:53:39
+Schuman 2 17:03:47
+Schuman 2 17:13:50
+Schuman 2 17:23:50
+Schuman 2 17:33:50
+Schuman 2 17:43:39
+Schuman 2 17:53:36
+Schuman 2 18:03:36
+Schuman 2 18:12:36
+Schuman 2 18:23:36
+Schuman 2 18:33:36
+Schuman 2 18:47:36
+Schuman 2 19:00:36
+Schuman 2 19:05:14
+Schuman 2 19:17:00
+Schuman 2 19:30:00
+Schuman 2 19:44:00
+Schuman 2 20:00:00
+Schuman 2 20:11:00
+Schuman 2 20:37:00
+Schuman 2 20:46:00
+Schuman 2 21:11:00
+Schuman 2 21:41:00
+Schuman 2 22:11:00
+Schuman 2 22:41:00
+Schuman 2 23:11:00
+Schuman 2 23:41:00
+St Pierre 1 04:44:11
+St Pierre 1 05:26:21
+St Pierre 1 05:44:58
+St Pierre 1 06:13:58
+St Pierre 1 06:29:21
+St Pierre 1 06:37:58
+St Pierre 1 06:55:58
+St Pierre 1 07:07:18
+St Pierre 1 07:17:20
+St Pierre 1 07:27:36
+St Pierre 1 07:37:36
+St Pierre 1 07:47:36
+St Pierre 1 07:57:36
+St Pierre 1 08:07:36
+St Pierre 1 08:17:36
+St Pierre 1 08:27:36
+St Pierre 1 08:37:36
+St Pierre 1 08:47:36
+St Pierre 1 08:57:36
+St Pierre 1 09:07:36
+St Pierre 1 09:17:36
+St Pierre 1 09:27:36
+St Pierre 1 09:37:36
+St Pierre 1 09:47:36
+St Pierre 1 09:57:36
+St Pierre 1 10:07:36
+St Pierre 1 10:17:36
+St Pierre 1 10:27:36
+St Pierre 1 10:37:36
+St Pierre 1 10:47:36
+St Pierre 1 10:57:36
+St Pierre 1 11:07:36
+St Pierre 1 11:17:36
+St Pierre 1 11:27:36
+St Pierre 1 11:37:36
+St Pierre 1 11:47:36
+St Pierre 1 11:57:36
+St Pierre 1 12:07:36
+St Pierre 1 12:17:36
+St Pierre 1 12:27:36
+St Pierre 1 12:37:31
+St Pierre 1 12:47:05
+St Pierre 1 12:56:52
+St Pierre 1 13:06:52
+St Pierre 1 13:16:52
+St Pierre 1 13:26:52
+St Pierre 1 13:36:52
+St Pierre 1 13:46:52
+St Pierre 1 13:56:52
+St Pierre 1 14:06:52
+St Pierre 1 14:16:52
+St Pierre 1 14:26:52
+St Pierre 1 14:36:53
+St Pierre 1 14:46:58
+St Pierre 1 14:57:41
+St Pierre 1 15:07:41
+St Pierre 1 15:17:41
+St Pierre 1 15:27:41
+St Pierre 1 15:37:41
+St Pierre 1 15:47:41
+St Pierre 1 15:57:41
+St Pierre 1 16:07:48
+St Pierre 1 16:18:22
+St Pierre 1 16:28:34
+St Pierre 1 16:38:34
+St Pierre 1 16:48:34
+St Pierre 1 16:58:34
+St Pierre 1 17:08:26
+St Pierre 1 17:17:52
+St Pierre 1 17:27:32
+St Pierre 1 17:37:32
+St Pierre 1 17:47:32
+St Pierre 1 17:57:32
+St Pierre 1 18:07:32
+St Pierre 1 18:17:32
+St Pierre 1 18:27:32
+St Pierre 1 18:42:32
+St Pierre 1 18:51:32
+St Pierre 1 19:00:32
+St Pierre 1 19:15:32
+St Pierre 1 19:26:32
+St Pierre 1 19:40:32
+St Pierre 1 19:54:32
+St Pierre 1 20:15:32
+St Pierre 1 20:29:32
+St Pierre 1 20:46:32
+St Pierre 1 21:22:32
+St Pierre 1 21:50:32
+St Pierre 1 22:20:02
+St Pierre 1 22:49:41
+St Pierre 1 23:19:41
+St Pierre 1 23:49:41
+St Pierre 1 24:19:41
+St Pierre 2 04:57:01
+St Pierre 2 05:37:41
+St Pierre 2 06:04:36
+St Pierre 2 06:26:36
+St Pierre 2 06:41:36
+St Pierre 2 06:56:36
+St Pierre 2 07:10:43
+St Pierre 2 07:19:43
+St Pierre 2 07:29:43
+St Pierre 2 07:39:43
+St Pierre 2 07:49:43
+St Pierre 2 07:59:43
+St Pierre 2 08:09:43
+St Pierre 2 08:19:43
+St Pierre 2 08:29:43
+St Pierre 2 08:39:43
+St Pierre 2 08:49:43
+St Pierre 2 08:59:43
+St Pierre 2 09:09:43
+St Pierre 2 09:19:43
+St Pierre 2 09:29:43
+St Pierre 2 09:39:43
+St Pierre 2 09:49:43
+St Pierre 2 09:59:43
+St Pierre 2 10:09:43
+St Pierre 2 10:19:43
+St Pierre 2 10:29:43
+St Pierre 2 10:39:43
+St Pierre 2 10:48:43
+St Pierre 2 10:58:43
+St Pierre 2 11:08:43
+St Pierre 2 11:18:43
+St Pierre 2 11:28:43
+St Pierre 2 11:38:43
+St Pierre 2 11:48:43
+St Pierre 2 11:58:43
+St Pierre 2 12:08:43
+St Pierre 2 12:18:43
+St Pierre 2 12:28:43
+St Pierre 2 12:38:43
+St Pierre 2 12:48:43
+St Pierre 2 12:58:43
+St Pierre 2 13:08:43
+St Pierre 2 13:18:43
+St Pierre 2 13:29:43
+St Pierre 2 13:39:43
+St Pierre 2 13:49:43
+St Pierre 2 13:59:43
+St Pierre 2 14:09:43
+St Pierre 2 14:19:43
+St Pierre 2 14:29:43
+St Pierre 2 14:39:43
+St Pierre 2 14:49:43
+St Pierre 2 14:59:43
+St Pierre 2 15:09:43
+St Pierre 2 15:19:43
+St Pierre 2 15:29:43
+St Pierre 2 15:39:43
+St Pierre 2 15:49:43
+St Pierre 2 15:59:43
+St Pierre 2 16:09:43
+St Pierre 2 16:19:43
+St Pierre 2 16:29:43
+St Pierre 2 16:39:43
+St Pierre 2 16:49:43
+St Pierre 2 16:59:43
+St Pierre 2 17:09:43
+St Pierre 2 17:19:43
+St Pierre 2 17:29:43
+St Pierre 2 17:39:43
+St Pierre 2 17:49:43
+St Pierre 2 17:59:43
+St Pierre 2 18:08:43
+St Pierre 2 18:19:43
+St Pierre 2 18:29:43
+St Pierre 2 18:43:43
+St Pierre 2 18:56:43
+St Pierre 2 19:01:43
+St Pierre 2 19:13:29
+St Pierre 2 19:26:29
+St Pierre 2 19:40:29
+St Pierre 2 19:56:29
+St Pierre 2 20:07:29
+St Pierre 2 20:33:29
+St Pierre 2 20:42:29
+St Pierre 2 21:07:29
+St Pierre 2 21:37:29
+St Pierre 2 22:07:29
+St Pierre 2 22:37:29
+St Pierre 2 23:07:29
+St Pierre 2 23:37:29
+St Roch 1 04:56:41
+St Roch 1 05:21:41
+St Roch 1 05:39:41
+St Roch 1 05:50:41
+St Roch 1 06:02:41
+St Roch 1 06:14:41
+St Roch 1 06:23:41
+St Roch 1 06:32:41
+St Roch 1 06:37:41
+St Roch 1 06:43:41
+St Roch 1 06:48:41
+St Roch 1 06:53:41
+St Roch 1 06:58:41
+St Roch 1 07:03:42
+St Roch 1 07:08:42
+St Roch 1 07:13:42
+St Roch 1 07:18:42
+St Roch 1 07:23:42
+St Roch 1 07:28:42
+St Roch 1 07:33:42
+St Roch 1 07:38:42
+St Roch 1 07:43:42
+St Roch 1 07:48:42
+St Roch 1 07:53:42
+St Roch 1 07:58:42
+St Roch 1 08:03:42
+St Roch 1 08:08:42
+St Roch 1 08:13:42
+St Roch 1 08:18:42
+St Roch 1 08:23:42
+St Roch 1 08:28:42
+St Roch 1 08:33:42
+St Roch 1 08:38:42
+St Roch 1 08:43:42
+St Roch 1 08:48:42
+St Roch 1 08:53:42
+St Roch 1 08:58:42
+St Roch 1 09:03:42
+St Roch 1 09:08:42
+St Roch 1 09:13:42
+St Roch 1 09:18:42
+St Roch 1 09:23:42
+St Roch 1 09:28:42
+St Roch 1 09:33:42
+St Roch 1 09:38:42
+St Roch 1 09:43:42
+St Roch 1 09:48:42
+St Roch 1 09:53:42
+St Roch 1 09:58:42
+St Roch 1 10:03:42
+St Roch 1 10:08:42
+St Roch 1 10:13:42
+St Roch 1 10:18:42
+St Roch 1 10:23:42
+St Roch 1 10:28:42
+St Roch 1 10:33:42
+St Roch 1 10:38:42
+St Roch 1 10:43:42
+St Roch 1 10:48:42
+St Roch 1 10:53:42
+St Roch 1 10:58:42
+St Roch 1 11:03:42
+St Roch 1 11:08:42
+St Roch 1 11:13:42
+St Roch 1 11:18:42
+St Roch 1 11:23:42
+St Roch 1 11:28:42
+St Roch 1 11:33:42
+St Roch 1 11:38:42
+St Roch 1 11:43:42
+St Roch 1 11:48:42
+St Roch 1 11:53:42
+St Roch 1 11:58:42
+St Roch 1 12:03:42
+St Roch 1 12:08:42
+St Roch 1 12:13:42
+St Roch 1 12:18:42
+St Roch 1 12:23:42
+St Roch 1 12:28:42
+St Roch 1 12:33:40
+St Roch 1 12:38:40
+St Roch 1 12:43:40
+St Roch 1 12:48:40
+St Roch 1 12:53:40
+St Roch 1 12:58:40
+St Roch 1 13:03:40
+St Roch 1 13:08:40
+St Roch 1 13:13:40
+St Roch 1 13:18:40
+St Roch 1 13:23:40
+St Roch 1 13:28:40
+St Roch 1 13:33:40
+St Roch 1 13:38:40
+St Roch 1 13:43:40
+St Roch 1 13:48:40
+St Roch 1 13:53:40
+St Roch 1 13:58:40
+St Roch 1 14:03:40
+St Roch 1 14:08:40
+St Roch 1 14:13:40
+St Roch 1 14:18:40
+St Roch 1 14:23:40
+St Roch 1 14:28:40
+St Roch 1 14:33:46
+St Roch 1 14:38:46
+St Roch 1 14:43:46
+St Roch 1 14:48:46
+St Roch 1 14:53:46
+St Roch 1 14:58:46
+St Roch 1 15:03:46
+St Roch 1 15:08:46
+St Roch 1 15:13:46
+St Roch 1 15:18:46
+St Roch 1 15:23:46
+St Roch 1 15:28:46
+St Roch 1 15:33:46
+St Roch 1 15:38:46
+St Roch 1 15:43:46
+St Roch 1 15:48:46
+St Roch 1 15:53:46
+St Roch 1 15:58:46
+St Roch 1 16:03:41
+St Roch 1 16:08:41
+St Roch 1 16:13:41
+St Roch 1 16:18:41
+St Roch 1 16:23:41
+St Roch 1 16:28:41
+St Roch 1 16:33:41
+St Roch 1 16:38:41
+St Roch 1 16:43:41
+St Roch 1 16:48:41
+St Roch 1 16:53:41
+St Roch 1 16:58:41
+St Roch 1 17:03:44
+St Roch 1 17:08:44
+St Roch 1 17:13:44
+St Roch 1 17:18:44
+St Roch 1 17:23:44
+St Roch 1 17:28:44
+St Roch 1 17:33:44
+St Roch 1 17:38:44
+St Roch 1 17:43:44
+St Roch 1 17:48:44
+St Roch 1 17:53:44
+St Roch 1 17:58:44
+St Roch 1 18:03:44
+St Roch 1 18:08:44
+St Roch 1 18:13:44
+St Roch 1 18:18:44
+St Roch 1 18:22:44
+St Roch 1 18:27:44
+St Roch 1 18:32:44
+St Roch 1 18:36:44
+St Roch 1 18:41:44
+St Roch 1 18:46:44
+St Roch 1 18:51:44
+St Roch 1 18:56:44
+St Roch 1 19:02:44
+St Roch 1 19:09:44
+St Roch 1 19:16:44
+St Roch 1 19:23:44
+St Roch 1 19:30:44
+St Roch 1 19:37:44
+St Roch 1 19:44:44
+St Roch 1 19:51:44
+St Roch 1 19:58:44
+St Roch 1 20:05:44
+St Roch 1 20:12:44
+St Roch 1 20:22:44
+St Roch 1 20:33:44
+St Roch 1 20:45:44
+St Roch 1 20:58:44
+St Roch 1 21:10:44
+St Roch 1 21:26:44
+St Roch 1 21:40:44
+St Roch 1 21:56:44
+St Roch 1 22:10:33
+St Roch 1 22:26:33
+St Roch 1 22:40:33
+St Roch 1 22:56:33
+St Roch 1 23:10:33
+St Roch 1 23:26:33
+St Roch 1 23:40:33
+St Roch 1 23:56:33
+St Roch 1 24:10:33
+St Roch 2 04:47:31
+St Roch 2 05:05:51
+St Roch 2 05:21:52
+St Roch 2 05:39:51
+St Roch 2 05:50:51
+St Roch 2 06:00:52
+St Roch 2 06:09:07
+St Roch 2 06:22:05
+St Roch 2 06:28:15
+St Roch 2 06:35:11
+St Roch 2 06:40:11
+St Roch 2 06:45:11
+St Roch 2 06:50:15
+St Roch 2 06:55:11
+St Roch 2 07:00:11
+St Roch 2 07:05:26
+St Roch 2 07:11:10
+St Roch 2 07:15:25
+St Roch 2 07:20:47
+St Roch 2 07:25:44
+St Roch 2 07:30:44
+St Roch 2 07:35:03
+St Roch 2 07:39:44
+St Roch 2 07:44:03
+St Roch 2 07:48:44
+St Roch 2 07:54:03
+St Roch 2 07:58:44
+St Roch 2 08:04:03
+St Roch 2 08:08:44
+St Roch 2 08:14:03
+St Roch 2 08:18:44
+St Roch 2 08:24:03
+St Roch 2 08:28:44
+St Roch 2 08:34:03
+St Roch 2 08:38:44
+St Roch 2 08:44:03
+St Roch 2 08:48:44
+St Roch 2 08:54:03
+St Roch 2 08:58:44
+St Roch 2 09:04:03
+St Roch 2 09:08:44
+St Roch 2 09:14:03
+St Roch 2 09:18:44
+St Roch 2 09:24:03
+St Roch 2 09:28:44
+St Roch 2 09:34:03
+St Roch 2 09:38:44
+St Roch 2 09:44:03
+St Roch 2 09:48:44
+St Roch 2 09:54:03
+St Roch 2 09:58:44
+St Roch 2 10:04:03
+St Roch 2 10:08:44
+St Roch 2 10:14:03
+St Roch 2 10:18:44
+St Roch 2 10:24:03
+St Roch 2 10:28:44
+St Roch 2 10:34:03
+St Roch 2 10:38:44
+St Roch 2 10:44:03
+St Roch 2 10:48:44
+St Roch 2 10:54:03
+St Roch 2 10:58:44
+St Roch 2 11:04:03
+St Roch 2 11:08:44
+St Roch 2 11:13:03
+St Roch 2 11:18:21
+St Roch 2 11:23:03
+St Roch 2 11:28:10
+St Roch 2 11:33:03
+St Roch 2 11:38:10
+St Roch 2 11:43:03
+St Roch 2 11:48:10
+St Roch 2 11:53:03
+St Roch 2 11:58:10
+St Roch 2 12:03:03
+St Roch 2 12:08:10
+St Roch 2 12:13:03
+St Roch 2 12:18:10
+St Roch 2 12:23:03
+St Roch 2 12:28:10
+St Roch 2 12:33:03
+St Roch 2 12:38:10
+St Roch 2 12:43:03
+St Roch 2 12:48:10
+St Roch 2 12:53:03
+St Roch 2 12:58:10
+St Roch 2 13:03:03
+St Roch 2 13:08:10
+St Roch 2 13:13:03
+St Roch 2 13:18:10
+St Roch 2 13:23:03
+St Roch 2 13:28:10
+St Roch 2 13:33:03
+St Roch 2 13:38:10
+St Roch 2 13:43:03
+St Roch 2 13:48:48
+St Roch 2 13:54:03
+St Roch 2 13:58:53
+St Roch 2 14:04:03
+St Roch 2 14:08:53
+St Roch 2 14:14:03
+St Roch 2 14:18:53
+St Roch 2 14:24:03
+St Roch 2 14:28:53
+St Roch 2 14:34:03
+St Roch 2 14:38:53
+St Roch 2 14:44:03
+St Roch 2 14:48:53
+St Roch 2 14:54:03
+St Roch 2 14:58:53
+St Roch 2 15:04:03
+St Roch 2 15:08:53
+St Roch 2 15:14:03
+St Roch 2 15:18:53
+St Roch 2 15:24:03
+St Roch 2 15:28:53
+St Roch 2 15:34:03
+St Roch 2 15:38:53
+St Roch 2 15:44:03
+St Roch 2 15:48:53
+St Roch 2 15:54:03
+St Roch 2 15:58:53
+St Roch 2 16:04:03
+St Roch 2 16:08:53
+St Roch 2 16:14:03
+St Roch 2 16:18:53
+St Roch 2 16:24:03
+St Roch 2 16:28:53
+St Roch 2 16:34:03
+St Roch 2 16:38:53
+St Roch 2 16:44:03
+St Roch 2 16:48:53
+St Roch 2 16:54:03
+St Roch 2 16:58:53
+St Roch 2 17:04:03
+St Roch 2 17:08:53
+St Roch 2 17:14:03
+St Roch 2 17:18:53
+St Roch 2 17:24:33
+St Roch 2 17:28:53
+St Roch 2 17:34:36
+St Roch 2 17:38:53
+St Roch 2 17:44:26
+St Roch 2 17:48:42
+St Roch 2 17:54:13
+St Roch 2 17:58:42
+St Roch 2 18:03:31
+St Roch 2 18:08:42
+St Roch 2 18:13:28
+St Roch 2 18:18:00
+St Roch 2 18:23:28
+St Roch 2 18:27:54
+St Roch 2 18:32:28
+St Roch 2 18:37:54
+St Roch 2 18:43:28
+St Roch 2 18:47:54
+St Roch 2 18:53:28
+St Roch 2 18:59:54
+St Roch 2 19:07:28
+St Roch 2 19:13:54
+St Roch 2 19:20:07
+St Roch 2 19:28:54
+St Roch 2 19:36:31
+St Roch 2 19:42:54
+St Roch 2 19:49:31
+St Roch 2 19:55:54
+St Roch 2 20:03:31
+St Roch 2 20:11:54
+St Roch 2 20:19:31
+St Roch 2 20:30:31
+St Roch 2 20:42:54
+St Roch 2 20:56:31
+St Roch 2 21:16:54
+St Roch 2 21:30:31
+St Roch 2 21:46:44
+St Roch 2 22:00:31
+St Roch 2 22:16:44
+St Roch 2 22:30:31
+St Roch 2 22:46:44
+St Roch 2 23:00:31
+St Roch 2 23:16:44
+St Roch 2 23:30:31
+St Roch 2 23:46:44
+St Roch 2 24:00:31
+Université 1 05:03:48
+Université 1 05:28:33
+Université 1 05:46:33
+Université 1 05:57:33
+Université 1 06:09:33
+Université 1 06:21:33
+Université 1 06:30:33
+Université 1 06:39:33
+Université 1 06:44:33
+Université 1 06:50:33
+Université 1 06:55:33
+Université 1 07:00:33
+Université 1 07:05:44
+Université 1 07:10:49
+Université 1 07:15:49
+Université 1 07:20:49
+Université 1 07:25:49
+Université 1 07:30:49
+Université 1 07:35:49
+Université 1 07:40:49
+Université 1 07:45:49
+Université 1 07:50:49
+Université 1 07:55:49
+Université 1 08:00:49
+Université 1 08:05:49
+Université 1 08:10:49
+Université 1 08:15:49
+Université 1 08:20:49
+Université 1 08:25:49
+Université 1 08:30:49
+Université 1 08:35:49
+Université 1 08:40:49
+Université 1 08:45:49
+Université 1 08:50:49
+Université 1 08:55:49
+Université 1 09:00:49
+Université 1 09:05:49
+Université 1 09:10:49
+Université 1 09:15:49
+Université 1 09:20:49
+Université 1 09:25:49
+Université 1 09:30:49
+Université 1 09:35:49
+Université 1 09:40:49
+Université 1 09:45:49
+Université 1 09:50:49
+Université 1 09:55:49
+Université 1 10:00:49
+Université 1 10:05:49
+Université 1 10:10:49
+Université 1 10:15:49
+Université 1 10:20:49
+Université 1 10:25:49
+Université 1 10:30:49
+Université 1 10:35:49
+Université 1 10:40:49
+Université 1 10:45:49
+Université 1 10:50:49
+Université 1 10:55:49
+Université 1 11:00:49
+Université 1 11:05:49
+Université 1 11:10:49
+Université 1 11:15:49
+Université 1 11:20:49
+Université 1 11:25:49
+Université 1 11:30:49
+Université 1 11:35:49
+Université 1 11:40:49
+Université 1 11:45:49
+Université 1 11:50:49
+Université 1 11:55:49
+Université 1 12:00:49
+Université 1 12:05:49
+Université 1 12:10:49
+Université 1 12:15:49
+Université 1 12:20:49
+Université 1 12:25:49
+Université 1 12:30:49
+Université 1 12:35:38
+Université 1 12:40:36
+Université 1 12:45:36
+Université 1 12:50:36
+Université 1 12:55:36
+Université 1 13:00:36
+Université 1 13:05:36
+Université 1 13:10:36
+Université 1 13:15:36
+Université 1 13:20:36
+Université 1 13:25:36
+Université 1 13:30:36
+Université 1 13:35:36
+Université 1 13:40:36
+Université 1 13:45:36
+Université 1 13:50:36
+Université 1 13:55:36
+Université 1 14:00:36
+Université 1 14:05:36
+Université 1 14:10:36
+Université 1 14:15:36
+Université 1 14:20:36
+Université 1 14:25:36
+Université 1 14:30:36
+Université 1 14:36:07
+Université 1 14:41:19
+Université 1 14:46:19
+Université 1 14:51:19
+Université 1 14:56:19
+Université 1 15:01:19
+Université 1 15:06:19
+Université 1 15:11:19
+Université 1 15:16:19
+Université 1 15:21:19
+Université 1 15:26:19
+Université 1 15:31:19
+Université 1 15:36:19
+Université 1 15:41:19
+Université 1 15:46:19
+Université 1 15:51:19
+Université 1 15:56:19
+Université 1 16:01:19
+Université 1 16:06:29
+Université 1 16:11:31
+Université 1 16:16:31
+Université 1 16:21:31
+Université 1 16:26:31
+Université 1 16:31:31
+Université 1 16:36:31
+Université 1 16:41:31
+Université 1 16:46:31
+Université 1 16:51:31
+Université 1 16:56:31
+Université 1 17:01:31
+Université 1 17:06:15
+Université 1 17:11:11
+Université 1 17:16:11
+Université 1 17:21:11
+Université 1 17:26:11
+Université 1 17:31:11
+Université 1 17:36:11
+Université 1 17:41:11
+Université 1 17:46:11
+Université 1 17:51:11
+Université 1 17:56:11
+Université 1 18:01:11
+Université 1 18:06:11
+Université 1 18:11:11
+Université 1 18:16:11
+Université 1 18:21:11
+Université 1 18:26:11
+Université 1 18:30:11
+Université 1 18:35:11
+Université 1 18:40:11
+Université 1 18:44:11
+Université 1 18:49:11
+Université 1 18:54:11
+Université 1 18:59:11
+Université 1 19:04:11
+Université 1 19:10:11
+Université 1 19:17:11
+Université 1 19:24:11
+Université 1 19:31:11
+Université 1 19:38:11
+Université 1 19:45:11
+Université 1 19:52:11
+Université 1 19:59:11
+Université 1 20:06:11
+Université 1 20:13:11
+Université 1 20:20:11
+Université 1 20:30:11
+Université 1 20:41:11
+Université 1 20:53:11
+Université 1 21:06:11
+Université 1 21:21:11
+Université 1 21:34:11
+Université 1 21:51:11
+Université 1 22:03:57
+Université 1 22:20:36
+Université 1 22:33:36
+Université 1 22:50:36
+Université 1 23:03:36
+Université 1 23:20:36
+Université 1 23:33:36
+Université 1 23:50:36
+Université 1 24:03:36
+Université 1 24:20:36
+Université 2 04:40:49
+Université 2 04:59:09
+Université 2 05:15:10
+Université 2 05:33:09
+Université 2 05:44:09
+Université 2 05:54:10
+Université 2 06:02:12
+Université 2 06:15:10
+Université 2 06:21:20
+Université 2 06:28:16
+Université 2 06:33:16
+Université 2 06:38:16
+Université 2 06:43:20
+Université 2 06:48:16
+Université 2 06:53:16
+Université 2 06:58:20
+Université 2 07:04:13
+Université 2 07:08:28
+Université 2 07:13:50
+Université 2 07:18:47
+Université 2 07:23:47
+Université 2 07:28:06
+Université 2 07:32:47
+Université 2 07:37:06
+Université 2 07:41:47
+Université 2 07:47:06
+Université 2 07:51:47
+Université 2 07:57:06
+Université 2 08:01:47
+Université 2 08:07:06
+Université 2 08:11:47
+Université 2 08:17:06
+Université 2 08:21:47
+Université 2 08:27:06
+Université 2 08:31:47
+Université 2 08:37:06
+Université 2 08:41:47
+Université 2 08:47:06
+Université 2 08:51:47
+Université 2 08:57:06
+Université 2 09:01:47
+Université 2 09:07:06
+Université 2 09:11:47
+Université 2 09:17:06
+Université 2 09:21:47
+Université 2 09:27:06
+Université 2 09:31:47
+Université 2 09:37:06
+Université 2 09:41:47
+Université 2 09:47:06
+Université 2 09:51:47
+Université 2 09:57:06
+Université 2 10:01:47
+Université 2 10:07:06
+Université 2 10:11:47
+Université 2 10:17:06
+Université 2 10:21:47
+Université 2 10:27:06
+Université 2 10:31:47
+Université 2 10:37:06
+Université 2 10:41:47
+Université 2 10:47:06
+Université 2 10:51:47
+Université 2 10:57:06
+Université 2 11:01:47
+Université 2 11:06:06
+Université 2 11:11:24
+Université 2 11:16:06
+Université 2 11:21:13
+Université 2 11:26:06
+Université 2 11:31:13
+Université 2 11:36:06
+Université 2 11:41:13
+Université 2 11:46:06
+Université 2 11:51:13
+Université 2 11:56:06
+Université 2 12:01:13
+Université 2 12:06:06
+Université 2 12:11:13
+Université 2 12:16:06
+Université 2 12:21:13
+Université 2 12:26:06
+Université 2 12:31:13
+Université 2 12:36:06
+Université 2 12:41:13
+Université 2 12:46:06
+Université 2 12:51:13
+Université 2 12:56:06
+Université 2 13:01:13
+Université 2 13:06:06
+Université 2 13:11:13
+Université 2 13:16:06
+Université 2 13:21:13
+Université 2 13:26:06
+Université 2 13:31:13
+Université 2 13:36:06
+Université 2 13:41:51
+Université 2 13:47:06
+Université 2 13:51:56
+Université 2 13:57:06
+Université 2 14:01:56
+Université 2 14:07:06
+Université 2 14:11:56
+Université 2 14:17:06
+Université 2 14:21:56
+Université 2 14:27:06
+Université 2 14:31:56
+Université 2 14:37:06
+Université 2 14:41:56
+Université 2 14:47:06
+Université 2 14:51:56
+Université 2 14:57:06
+Université 2 15:01:56
+Université 2 15:07:06
+Université 2 15:11:56
+Université 2 15:17:06
+Université 2 15:21:56
+Université 2 15:27:06
+Université 2 15:31:56
+Université 2 15:37:06
+Université 2 15:41:56
+Université 2 15:47:06
+Université 2 15:51:56
+Université 2 15:57:06
+Université 2 16:01:56
+Université 2 16:07:06
+Université 2 16:11:56
+Université 2 16:17:06
+Université 2 16:21:56
+Université 2 16:27:06
+Université 2 16:31:56
+Université 2 16:37:06
+Université 2 16:41:56
+Université 2 16:47:06
+Université 2 16:51:56
+Université 2 16:57:06
+Université 2 17:01:56
+Université 2 17:07:06
+Université 2 17:11:56
+Université 2 17:17:36
+Université 2 17:21:56
+Université 2 17:27:39
+Université 2 17:31:56
+Université 2 17:37:39
+Université 2 17:42:02
+Université 2 17:47:33
+Université 2 17:52:02
+Université 2 17:56:51
+Université 2 18:02:02
+Université 2 18:06:48
+Université 2 18:11:20
+Université 2 18:16:48
+Université 2 18:21:14
+Université 2 18:25:48
+Université 2 18:31:14
+Université 2 18:36:48
+Université 2 18:41:14
+Université 2 18:46:48
+Université 2 18:53:14
+Université 2 19:00:48
+Université 2 19:07:14
+Université 2 19:13:27
+Université 2 19:22:14
+Université 2 19:29:51
+Université 2 19:36:14
+Université 2 19:42:51
+Université 2 19:49:14
+Université 2 19:56:51
+Université 2 20:05:14
+Université 2 20:12:51
+Université 2 20:23:51
+Université 2 20:36:14
+Université 2 20:49:51
+Université 2 21:07:14
+Université 2 21:23:51
+Université 2 21:37:04
+Université 2 21:53:51
+Université 2 22:07:04
+Université 2 22:23:51
+Université 2 22:37:04
+Université 2 22:53:51
+Université 2 23:07:04
+Université 2 23:23:51
+Université 2 23:37:04
+Université 2 23:53:51
+Verlaine 1 04:37:06
+Verlaine 1 05:20:16
+Verlaine 1 05:38:53
+Verlaine 1 06:07:53
+Verlaine 1 06:23:16
+Verlaine 1 06:31:53
+Verlaine 1 06:49:53
+Verlaine 1 07:00:53
+Verlaine 1 07:10:55
+Verlaine 1 07:21:11
+Verlaine 1 07:31:11
+Verlaine 1 07:41:11
+Verlaine 1 07:51:11
+Verlaine 1 08:01:11
+Verlaine 1 08:11:11
+Verlaine 1 08:21:11
+Verlaine 1 08:31:11
+Verlaine 1 08:41:11
+Verlaine 1 08:51:11
+Verlaine 1 09:01:11
+Verlaine 1 09:11:11
+Verlaine 1 09:21:11
+Verlaine 1 09:31:11
+Verlaine 1 09:41:11
+Verlaine 1 09:51:11
+Verlaine 1 10:01:11
+Verlaine 1 10:11:11
+Verlaine 1 10:21:11
+Verlaine 1 10:31:11
+Verlaine 1 10:41:11
+Verlaine 1 10:51:11
+Verlaine 1 11:01:11
+Verlaine 1 11:11:11
+Verlaine 1 11:21:11
+Verlaine 1 11:31:11
+Verlaine 1 11:41:11
+Verlaine 1 11:51:11
+Verlaine 1 12:01:11
+Verlaine 1 12:11:11
+Verlaine 1 12:21:11
+Verlaine 1 12:31:11
+Verlaine 1 12:40:45
+Verlaine 1 12:50:32
+Verlaine 1 13:00:32
+Verlaine 1 13:10:32
+Verlaine 1 13:20:32
+Verlaine 1 13:30:32
+Verlaine 1 13:40:32
+Verlaine 1 13:50:32
+Verlaine 1 14:00:32
+Verlaine 1 14:10:32
+Verlaine 1 14:20:32
+Verlaine 1 14:30:32
+Verlaine 1 14:40:37
+Verlaine 1 14:51:20
+Verlaine 1 15:01:20
+Verlaine 1 15:11:20
+Verlaine 1 15:21:20
+Verlaine 1 15:31:20
+Verlaine 1 15:41:20
+Verlaine 1 15:51:20
+Verlaine 1 16:01:20
+Verlaine 1 16:11:54
+Verlaine 1 16:22:06
+Verlaine 1 16:32:06
+Verlaine 1 16:42:06
+Verlaine 1 16:52:06
+Verlaine 1 17:02:03
+Verlaine 1 17:11:29
+Verlaine 1 17:21:09
+Verlaine 1 17:31:09
+Verlaine 1 17:41:09
+Verlaine 1 17:51:09
+Verlaine 1 18:01:09
+Verlaine 1 18:11:09
+Verlaine 1 18:21:09
+Verlaine 1 18:36:09
+Verlaine 1 18:45:09
+Verlaine 1 18:54:09
+Verlaine 1 19:09:09
+Verlaine 1 19:20:09
+Verlaine 1 19:34:09
+Verlaine 1 19:48:09
+Verlaine 1 20:09:09
+Verlaine 1 20:23:09
+Verlaine 1 20:40:09
+Verlaine 1 21:16:09
+Verlaine 1 21:44:09
+Verlaine 1 22:13:49
+Verlaine 1 22:43:28
+Verlaine 1 23:13:28
+Verlaine 1 23:43:28
+Verlaine 1 24:13:28
+Verlaine 2 05:04:13
+Verlaine 2 05:43:53
+Verlaine 2 06:10:53
+Verlaine 2 06:32:53
+Verlaine 2 06:47:53
+Verlaine 2 07:02:56
+Verlaine 2 07:17:12
+Verlaine 2 07:26:12
+Verlaine 2 07:36:12
+Verlaine 2 07:46:12
+Verlaine 2 07:56:12
+Verlaine 2 08:06:12
+Verlaine 2 08:16:12
+Verlaine 2 08:26:12
+Verlaine 2 08:36:12
+Verlaine 2 08:46:12
+Verlaine 2 08:56:12
+Verlaine 2 09:06:12
+Verlaine 2 09:16:12
+Verlaine 2 09:26:12
+Verlaine 2 09:36:12
+Verlaine 2 09:46:12
+Verlaine 2 09:56:12
+Verlaine 2 10:06:12
+Verlaine 2 10:16:12
+Verlaine 2 10:26:12
+Verlaine 2 10:36:12
+Verlaine 2 10:46:12
+Verlaine 2 10:55:12
+Verlaine 2 11:05:12
+Verlaine 2 11:15:12
+Verlaine 2 11:25:12
+Verlaine 2 11:35:12
+Verlaine 2 11:45:12
+Verlaine 2 11:55:12
+Verlaine 2 12:05:12
+Verlaine 2 12:15:12
+Verlaine 2 12:25:12
+Verlaine 2 12:35:12
+Verlaine 2 12:45:12
+Verlaine 2 12:55:12
+Verlaine 2 13:05:12
+Verlaine 2 13:15:12
+Verlaine 2 13:25:12
+Verlaine 2 13:36:12
+Verlaine 2 13:46:12
+Verlaine 2 13:56:12
+Verlaine 2 14:06:12
+Verlaine 2 14:16:12
+Verlaine 2 14:26:12
+Verlaine 2 14:36:12
+Verlaine 2 14:46:12
+Verlaine 2 14:56:12
+Verlaine 2 15:06:12
+Verlaine 2 15:16:12
+Verlaine 2 15:26:12
+Verlaine 2 15:36:12
+Verlaine 2 15:46:12
+Verlaine 2 15:56:12
+Verlaine 2 16:06:12
+Verlaine 2 16:16:12
+Verlaine 2 16:26:12
+Verlaine 2 16:36:12
+Verlaine 2 16:46:12
+Verlaine 2 16:56:12
+Verlaine 2 17:06:32
+Verlaine 2 17:16:35
+Verlaine 2 17:26:35
+Verlaine 2 17:36:35
+Verlaine 2 17:46:06
+Verlaine 2 17:56:03
+Verlaine 2 18:06:03
+Verlaine 2 18:15:03
+Verlaine 2 18:26:03
+Verlaine 2 18:36:03
+Verlaine 2 18:50:03
+Verlaine 2 19:03:01
+Verlaine 2 19:07:39
+Verlaine 2 19:19:25
+Verlaine 2 19:32:25
+Verlaine 2 19:46:25
+Verlaine 2 20:02:25
+Verlaine 2 20:13:25
+Verlaine 2 20:39:25
+Verlaine 2 20:48:25
+Verlaine 2 21:13:25
+Verlaine 2 21:43:25
+Verlaine 2 22:13:25
+Verlaine 2 22:43:25
+Verlaine 2 23:13:25
+Verlaine 2 23:43:25
